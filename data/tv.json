@@ -1,0 +1,423 @@
+{
+ "updated": "2026-11-13T21:36:32+00:00",
+ "config": {
+  "city_ar": "الدوحة",
+  "timezone": "Asia/Qatar",
+  "team_id": "133667",
+  "team_ar": "ميلان"
+ },
+ "news": [
+  {
+   "title": "\"أعيدوا توم كروز إلى أميركا\".. مشروع ضريبي لاستعادة تصوير أفلام هوليود",
+   "link": "https://www.aljazeera.net/arts/2026/11/14/%d8%a3%d8%b9%d9%8a%d8%af%d9%88%d8%a7-%d8%aa%d9%88%d9%85-%d9%83%d8%b1%d9%88%d8%b2-%d8%a5%d9%84%d9%89-%d8%a3%d9%85%d9%8a%d8%b1%d9%83%d8%a7-%d9%85%d8%b4%d8%b1%d9%88%d8%b9?traffic_source=rss",
+   "time": "2026-11-13T18:12:31+00:00"
+  },
+  {
+   "title": "إيران مباشر.. دوي انفجار في جاسك وواشنطن تنفي استهداف رادار في البحرين",
+   "link": "https://www.aljazeera.net/news/liveblog/2026/11/14/%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%af%d9%88%d9%8a-%d8%a7%d9%86%d9%81%d8%ac%d8%a7%d8%b1-%d9%81%d9%8a-%d8%ac%d8%a7%d8%b3%d9%83-%d9%88%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86?traffic_source=rss",
+   "time": "2026-11-13T18:01:18+00:00"
+  },
+  {
+   "title": "اليمن مباشر.. القوات الحكومية تكثف عملياتها ضد الحوثيين واستهداف الرياض وجيزان",
+   "link": "https://www.aljazeera.net/news/liveblog/2026/11/14/%d8%a7%d9%84%d9%8a%d9%85%d9%86-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a%d8%a9-%d8%aa%d9%83%d8%ab%d9%81-2?traffic_source=rss",
+   "time": "2026-11-13T18:01:00+00:00"
+  }
+ ],
+ "team": {
+  "next": {
+   "home_id": "133667",
+   "away_id": "133818",
+   "home": "AC Milan",
+   "away": "Frosinone",
+   "home_badge": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
+   "away_badge": "https://r2.thesportsdb.com/images/media/team/badge/a7xa151603170120.png",
+   "home_score": null,
+   "away_score": null,
+   "league": "Italian Serie A",
+   "venue": "Stadio Giuseppe Meazza",
+   "time": "2026-11-22T17:00:00+00:00"
+  },
+  "last": {
+   "home_id": "133667",
+   "away_id": "134620",
+   "home": "AC Milan",
+   "away": "Ferencváros",
+   "home_badge": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
+   "away_badge": "https://r2.thesportsdb.com/images/media/team/badge/wk17od1688115265.png",
+   "home_score": "0",
+   "away_score": "2",
+   "league": "UEFA Europa League",
+   "venue": "Stadio Giuseppe Meazza",
+   "time": "2026-11-05T17:45:00+00:00"
+  },
+  "table": {
+   "updated": "2026-11-13T21:36:32+00:00",
+   "league": "Italian Serie A",
+   "season": "2026-2027",
+   "size": 20,
+   "rows": [
+    {
+     "id": "133668",
+     "name": "Lazio",
+     "played": 11,
+     "won": 9,
+     "drawn": 2,
+     "lost": 0,
+     "gf": 25,
+     "ga": 9,
+     "points": 29,
+     "gd": 16,
+     "rank": 1
+    },
+    {
+     "id": "133681",
+     "name": "Inter Milan",
+     "played": 11,
+     "won": 9,
+     "drawn": 1,
+     "lost": 1,
+     "gf": 28,
+     "ga": 13,
+     "points": 28,
+     "gd": 15,
+     "rank": 2
+    },
+    {
+     "id": "133682",
+     "name": "Roma",
+     "played": 11,
+     "won": 8,
+     "drawn": 3,
+     "lost": 0,
+     "gf": 31,
+     "ga": 10,
+     "points": 27,
+     "gd": 21,
+     "rank": 3
+    },
+    {
+     "id": "133667",
+     "name": "AC Milan",
+     "played": 11,
+     "won": 7,
+     "drawn": 3,
+     "lost": 1,
+     "gf": 23,
+     "ga": 13,
+     "points": 24,
+     "gd": 10,
+     "rank": 4
+    },
+    {
+     "id": "134243",
+     "name": "Como",
+     "played": 11,
+     "won": 7,
+     "drawn": 2,
+     "lost": 2,
+     "gf": 18,
+     "ga": 10,
+     "points": 23,
+     "gd": 8,
+     "rank": 5
+    },
+    {
+     "id": "133818",
+     "name": "Frosinone",
+     "played": 11,
+     "won": 6,
+     "drawn": 2,
+     "lost": 3,
+     "gf": 24,
+     "ga": 15,
+     "points": 20,
+     "gd": 9,
+     "rank": 6
+    },
+    {
+     "id": "133676",
+     "name": "Juventus",
+     "played": 11,
+     "won": 5,
+     "drawn": 3,
+     "lost": 3,
+     "gf": 15,
+     "ga": 12,
+     "points": 18,
+     "gd": 3,
+     "rank": 7
+    },
+    {
+     "id": "134781",
+     "name": "Bologna",
+     "played": 11,
+     "won": 5,
+     "drawn": 2,
+     "lost": 4,
+     "gf": 16,
+     "ga": 14,
+     "points": 17,
+     "gd": 2,
+     "rank": 8
+    },
+    {
+     "id": "134783",
+     "name": "Cagliari",
+     "played": 11,
+     "won": 5,
+     "drawn": 1,
+     "lost": 5,
+     "gf": 10,
+     "ga": 15,
+     "points": 16,
+     "gd": -5,
+     "rank": 9
+    },
+    {
+     "id": "133670",
+     "name": "Napoli",
+     "played": 11,
+     "won": 4,
+     "drawn": 3,
+     "lost": 4,
+     "gf": 18,
+     "ga": 14,
+     "points": 15,
+     "gd": 4,
+     "rank": 10
+    },
+    {
+     "id": "133687",
+     "name": "Torino",
+     "played": 11,
+     "won": 4,
+     "drawn": 2,
+     "lost": 5,
+     "gf": 15,
+     "ga": 17,
+     "points": 14,
+     "gd": -2,
+     "rank": 11
+    },
+    {
+     "id": "134782",
+     "name": "Atalanta",
+     "played": 11,
+     "won": 4,
+     "drawn": 2,
+     "lost": 5,
+     "gf": 17,
+     "ga": 20,
+     "points": 14,
+     "gd": -3,
+     "rank": 12
+    },
+    {
+     "id": "133675",
+     "name": "Genoa",
+     "played": 11,
+     "won": 4,
+     "drawn": 1,
+     "lost": 6,
+     "gf": 11,
+     "ga": 16,
+     "points": 13,
+     "gd": -5,
+     "rank": 13
+    },
+    {
+     "id": "133678",
+     "name": "Lecce",
+     "played": 11,
+     "won": 3,
+     "drawn": 1,
+     "lost": 7,
+     "gf": 12,
+     "ga": 22,
+     "points": 10,
+     "gd": -10,
+     "rank": 14
+    },
+    {
+     "id": "133674",
+     "name": "Fiorentina",
+     "played": 11,
+     "won": 2,
+     "drawn": 3,
+     "lost": 6,
+     "gf": 17,
+     "ga": 25,
+     "points": 9,
+     "gd": -8,
+     "rank": 15
+    },
+    {
+     "id": "135728",
+     "name": "Parma",
+     "played": 11,
+     "won": 2,
+     "drawn": 2,
+     "lost": 7,
+     "gf": 9,
+     "ga": 17,
+     "points": 8,
+     "gd": -8,
+     "rank": 16
+    },
+    {
+     "id": "133701",
+     "name": "Sassuolo",
+     "played": 11,
+     "won": 2,
+     "drawn": 2,
+     "lost": 7,
+     "gf": 16,
+     "ga": 29,
+     "points": 8,
+     "gd": -13,
+     "rank": 17
+    },
+    {
+     "id": "134270",
+     "name": "Monza",
+     "played": 11,
+     "won": 2,
+     "drawn": 1,
+     "lost": 8,
+     "gf": 17,
+     "ga": 25,
+     "points": 7,
+     "gd": -8,
+     "rank": 18
+    },
+    {
+     "id": "134234",
+     "name": "Venezia",
+     "played": 11,
+     "won": 2,
+     "drawn": 0,
+     "lost": 9,
+     "gf": 8,
+     "ga": 21,
+     "points": 6,
+     "gd": -13,
+     "rank": 19
+    },
+    {
+     "id": "133679",
+     "name": "Udinese",
+     "played": 11,
+     "won": 1,
+     "drawn": 2,
+     "lost": 8,
+     "gf": 12,
+     "ga": 25,
+     "points": 5,
+     "gd": -13,
+     "rank": 20
+    }
+   ]
+  },
+  "standing": {
+   "rank": 4,
+   "points": 24,
+   "played": 11,
+   "won": 7,
+   "drawn": 3,
+   "lost": 1,
+   "gd": 10
+  }
+ },
+ "prayers": {
+  "2026-11-11": {
+   "times": {
+    "Fajr": "04:29",
+    "Sunrise": "05:48",
+    "Dhuhr": "11:18",
+    "Asr": "14:26",
+    "Maghrib": "16:48",
+    "Isha": "18:18"
+   },
+   "hijri": {
+    "day": "1",
+    "month": "جُمادى الآخرة",
+    "year": "1448"
+   }
+  },
+  "2026-11-12": {
+   "times": {
+    "Fajr": "04:30",
+    "Sunrise": "05:49",
+    "Dhuhr": "11:18",
+    "Asr": "14:26",
+    "Maghrib": "16:47",
+    "Isha": "18:17"
+   },
+   "hijri": {
+    "day": "2",
+    "month": "جُمادى الآخرة",
+    "year": "1448"
+   }
+  },
+  "2026-11-13": {
+   "times": {
+    "Fajr": "04:30",
+    "Sunrise": "05:49",
+    "Dhuhr": "11:18",
+    "Asr": "14:26",
+    "Maghrib": "16:47",
+    "Isha": "18:17"
+   },
+   "hijri": {
+    "day": "3",
+    "month": "جُمادى الآخرة",
+    "year": "1448"
+   }
+  },
+  "2026-11-14": {
+   "times": {
+    "Fajr": "04:31",
+    "Sunrise": "05:50",
+    "Dhuhr": "11:18",
+    "Asr": "14:25",
+    "Maghrib": "16:46",
+    "Isha": "18:16"
+   },
+   "hijri": {
+    "day": "4",
+    "month": "جُمادى الآخرة",
+    "year": "1448"
+   }
+  },
+  "2026-11-15": {
+   "times": {
+    "Fajr": "04:32",
+    "Sunrise": "05:51",
+    "Dhuhr": "11:18",
+    "Asr": "14:25",
+    "Maghrib": "16:46",
+    "Isha": "18:16"
+   },
+   "hijri": {
+    "day": "5",
+    "month": "جُمادى الآخرة",
+    "year": "1448"
+   }
+  },
+  "2026-11-16": {
+   "times": {
+    "Fajr": "04:32",
+    "Sunrise": "05:52",
+    "Dhuhr": "11:19",
+    "Asr": "14:25",
+    "Maghrib": "16:46",
+    "Isha": "18:16"
+   },
+   "hijri": {
+    "day": "6",
+    "month": "جُمادى الآخرة",
+    "year": "1448"
+   }
+  }
+ }
+}

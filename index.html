@@ -1,0 +1,219 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>شاشتي</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0b0f14; --card: #131a22; --line: #222c38; --text: #eef2f6; --dim: #8c99a8; --accent: #e0b04a; --win: #46c37b; --loss: #e0605a;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { height: 100%; background: var(--bg); color: var(--text); font-family: 'Tajawal', system-ui, sans-serif; overflow: hidden; }
+  body { font-size: clamp(14px, 1.15vw, 26px); }
+  #wrap { height: 100%; display: grid; grid-template-columns: 1.15fr 1fr; gap: 2.2em; padding: 3vh 3vw; transition: transform 2s; }
+  .left { display: flex; flex-direction: column; justify-content: center; gap: 1.6em; }
+  .right { display: flex; flex-direction: column; gap: 1.2em; justify-content: center; min-width: 0; }
+
+  #clock { font-size: 7.5em; font-weight: 800; line-height: 1; letter-spacing: .02em; font-variant-numeric: tabular-nums; }
+  #clock small { font-size: .32em; font-weight: 500; color: var(--dim); margin-inline-start: .3em; }
+  #date { font-size: 1.6em; color: var(--dim); }
+  #date b { color: var(--text); font-weight: 500; }
+
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 1em; padding: 1.1em 1.4em; }
+  .card h2 { font-size: .95em; font-weight: 500; color: var(--accent); margin-bottom: .6em; }
+
+  #next-prayer { font-size: 1.9em; font-weight: 700; }
+  #next-prayer span { color: var(--accent); }
+  #prayers { display: grid; grid-template-columns: repeat(6, 1fr); gap: .5em; margin-top: .9em; text-align: center; }
+  #prayers div { padding: .5em .2em; border-radius: .6em; }
+  #prayers div.now { background: #1f2a36; outline: 1px solid var(--accent); }
+  #prayers b { display: block; font-size: 1.35em; font-variant-numeric: tabular-nums; }
+  #prayers i { font-style: normal; color: var(--dim); font-size: .9em; }
+
+  .match { display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: 1em; text-align: center; }
+  .side img { width: 3.6em; height: 3.6em; object-fit: contain; display: block; margin: 0 auto .35em; }
+  .side div { font-weight: 700; font-size: 1.1em; }
+  .mid { font-size: 1.05em; color: var(--dim); }
+  .mid b { display: block; font-size: 1.7em; color: var(--text); font-variant-numeric: tabular-nums; }
+  .meta { margin-top: .8em; display: flex; justify-content: space-between; gap: 1em; color: var(--dim); font-size: .95em; flex-wrap: wrap; }
+  .meta .rank { color: var(--text); font-weight: 700; }
+  .res-w { color: var(--win); } .res-l { color: var(--loss); }
+
+  #news li { list-style: none; padding: .55em 0; border-top: 1px solid var(--line); font-size: 1.12em; line-height: 1.45; }
+  #news li:first-child { border-top: 0; padding-top: 0; }
+  #news time { display: block; color: var(--dim); font-size: .78em; margin-top: .15em; }
+  .src { color: var(--dim); font-size: .8em; margin-top: .4em; }
+  .stale { color: var(--loss); font-size: .8em; }
+
+  @media (max-width: 900px) {
+    html, body { overflow: auto; }
+    body { font-size: 15px; }
+    #wrap { grid-template-columns: 1fr; padding: 16px; height: auto; }
+    #clock { font-size: 4.5em; }
+    #prayers { grid-template-columns: repeat(3, 1fr); }
+  }
+</style>
+</head>
+<body>
+<div id="wrap">
+  <section class="left">
+    <div>
+      <div id="clock">--:--</div>
+      <div id="date"></div>
+    </div>
+    <div class="card">
+      <h2 id="city">مواقيت الصلاة</h2>
+      <div id="next-prayer">…</div>
+      <div id="prayers"></div>
+    </div>
+  </section>
+  <section class="right">
+    <div class="card" id="team-card"><h2 id="team-title">المباراة القادمة</h2><div id="team">جارٍ التحميل…</div></div>
+    <div class="card"><h2>أخبار عاجلة</h2><ul id="news"><li>جارٍ التحميل…</li></ul><div class="src">المصدر: الجزيرة نت</div></div>
+    <div id="stale" class="stale"></div>
+  </section>
+</div>
+<script>
+'use strict';
+const DATA_URL = 'data/tv.json';
+const RELOAD_MS = 10 * 60 * 1000;
+const NAMES = { Fajr: 'الفجر', Sunrise: 'الشروق', Dhuhr: 'الظهر', Asr: 'العصر', Maghrib: 'المغرب', Isha: 'العشاء' };
+const ADHAN = ['Fajr', 'Dhuhr', 'Asr', 'Maghrib', 'Isha'];
+let DATA = null;
+let TZ = 'Asia/Qatar';
+
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+const num = n => Number(n).toLocaleString('ar-EG', { useGrouping: false });
+const digits = s => String(s).replace(/\d/g, d => '٠١٢٣٤٥٦٧٨٩'[d]);
+
+// the wall clock of the chosen city, whatever the TV's own time zone is
+function wall(date = new Date()) {
+  const p = Object.fromEntries(new Intl.DateTimeFormat('en-GB', { timeZone: TZ, hourCycle: 'h23',
+    year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit', second: '2-digit' })
+    .formatToParts(date).map(x => [x.type, x.value]));
+  return { day: `${p.year}-${p.month}-${p.day}`, h: +p.hour, m: +p.minute, s: +p.second };
+}
+const minutesOf = hhmm => { const [h, m] = hhmm.split(':').map(Number); return h * 60 + m; };
+function time12(hhmm) {
+  let [h, m] = hhmm.split(':').map(Number);
+  const pm = h >= 12; h = h % 12 || 12;
+  return digits(`${h}:${String(m).padStart(2, '0')}`) + (pm ? ' م' : ' ص');
+}
+function fmtWhen(iso, opts) {
+  return new Intl.DateTimeFormat('ar-EG', { timeZone: TZ, ...opts }).format(new Date(iso));
+}
+function ago(iso) {
+  const min = Math.round((Date.now() - new Date(iso)) / 60000);
+  if (min < 1) return 'الآن';
+  if (min < 60) return `قبل ${num(min)} دقيقة`;
+  const h = Math.round(min / 60);
+  if (h < 24) return `قبل ${num(h)} ساعة`;
+  return fmtWhen(iso, { day: 'numeric', month: 'long' });
+}
+
+// ---- clock and prayers -------------------------------------------------------------------------------------------------
+function tick() {
+  const w = wall();
+  const h12 = w.h % 12 || 12;
+  $('clock').innerHTML = digits(`${h12}:${String(w.m).padStart(2, '0')}`) + `<small>${w.h >= 12 ? 'مساءً' : 'صباحاً'}</small>`;
+  const greg = new Intl.DateTimeFormat('ar-EG', { timeZone: TZ, weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' }).format(new Date());
+  const today = DATA?.prayers?.[w.day];
+  const hijri = today ? ` · <b>${num(today.hijri.day)} ${esc(today.hijri.month)} ${num(today.hijri.year)} هـ</b>` : '';
+  $('date').innerHTML = esc(greg) + hijri;
+  prayers(w);
+}
+
+function prayers(w) {
+  const days = DATA?.prayers;
+  if (!days || !days[w.day]) { $('next-prayer').textContent = 'لا توجد مواقيت لهذا اليوم بعد'; return; }
+  const t = days[w.day].times;
+  const nowMin = w.h * 60 + w.m + w.s / 60;
+  let next = ADHAN.find(k => minutesOf(t[k]) > nowMin);
+  let wait = next ? minutesOf(t[next]) - nowMin : null;
+  if (!next) {                                     // after Isha: tomorrow's Fajr
+    const tomorrow = Object.keys(days).sort().find(d => d > w.day);
+    if (tomorrow) { next = 'Fajr'; wait = 24 * 60 - nowMin + minutesOf(days[tomorrow].times.Fajr); }
+  }
+  // the current prayer: the last adhan that has passed today
+  const current = [...ADHAN].reverse().find(k => minutesOf(t[k]) <= nowMin);
+  $('prayers').innerHTML = Object.keys(NAMES).map(k =>
+    `<div class="${k === current ? 'now' : ''}"><i>${NAMES[k]}</i><b>${time12(t[k])}</b></div>`).join('');
+  if (next) {
+    const mins = Math.ceil(wait);
+    const left = mins >= 60 ? `${num(Math.floor(mins / 60))} س ${num(mins % 60)} د` : `${num(mins)} دقيقة`;
+    $('next-prayer').innerHTML = `${NAMES[next]} بعد <span>${left}</span>`;
+  }
+}
+
+// ---- team -------------------------------------------------------------------------------------------------------------
+function side(name, badge) {
+  return `<div class="side">${badge ? `<img src="${esc(badge)}/small" alt="" onerror="this.style.visibility='hidden'">` : ''}<div>${esc(name)}</div></div>`;
+}
+function renderTeam() {
+  const team = DATA?.team, cfg = DATA?.config || {};
+  if (!team) { $('team').textContent = 'لا توجد بيانات'; return; }
+  const g = team.next, s = team.standing, last = team.last;
+  $('team-title').textContent = `المباراة القادمة · ${cfg.team_ar || ''}`;
+  let html = '';
+  if (g) {
+    const when = fmtWhen(g.time, { weekday: 'long', day: 'numeric', month: 'long' });
+    const at = fmtWhen(g.time, { hour: 'numeric', minute: '2-digit' });
+    html += `<div class="match">${side(g.home, g.home_badge)}<div class="mid">${esc(when)}<b>${esc(at)}</b></div>${side(g.away, g.away_badge)}</div>`;
+    html += `<div class="meta"><span>${esc(g.league || '')}${g.venue ? ' · ' + esc(g.venue) : ''}</span></div>`;
+  } else {
+    html += '<div>لا توجد مباراة قادمة معلنة</div>';
+  }
+  const meta = [];
+  if (s) meta.push(`<span class="rank">المركز ${num(s.rank)} من ${num(team.table.size)} · ${num(s.points)} نقطة · ${num(s.played)} مباراة</span>`);
+  if (last && last.home_score != null) {
+    const homeIsUs = last.home_id === cfg.team_id;
+    const us = homeIsUs ? +last.home_score : +last.away_score, them = homeIsUs ? +last.away_score : +last.home_score;
+    const cls = us > them ? 'res-w' : us < them ? 'res-l' : '';
+    meta.push(`<span>آخر نتيجة: ${esc(last.home)} <b class="${cls}">${num(last.home_score)}–${num(last.away_score)}</b> ${esc(last.away)}</span>`);
+  }
+  if (meta.length) html += `<div class="meta">${meta.join('')}</div>`;
+  $('team').innerHTML = html;
+}
+
+// ---- news -------------------------------------------------------------------------------------------------------------
+function renderNews() {
+  const items = DATA?.news;
+  if (!items?.length) { $('news').innerHTML = '<li>لا توجد أخبار الآن</li>'; return; }
+  $('news').innerHTML = items.map(x => `<li>${esc(x.title)}${x.time ? `<time>${ago(x.time)}</time>` : ''}</li>`).join('');
+}
+
+// ---- data -------------------------------------------------------------------------------------------------------------
+async function load() {
+  try {
+    const r = await fetch(`${DATA_URL}?t=${Date.now()}`, { cache: 'no-store' });
+    if (!r.ok) throw new Error(r.status);
+    DATA = await r.json();
+    try { localStorage.setItem('tv', JSON.stringify(DATA)); } catch (e) {}
+  } catch (e) {
+    if (!DATA) try { DATA = JSON.parse(localStorage.getItem('tv')); } catch (e2) {}
+  }
+  if (!DATA) return;
+  TZ = DATA.config?.timezone || TZ;
+  $('city').textContent = `مواقيت الصلاة · ${DATA.config?.city_ar || ''}`;
+  const hours = (Date.now() - new Date(DATA.updated)) / 3600000;
+  $('stale').textContent = hours > 3 ? `آخر تحديث ${ago(DATA.updated)}` : '';
+  renderTeam(); renderNews(); tick();
+}
+
+// a small shift every few minutes, so nothing stays burned into the screen
+function drift() {
+  const x = Math.round(Math.random() * 16 - 8), y = Math.round(Math.random() * 12 - 6);
+  $('wrap').style.transform = `translate(${x}px, ${y}px)`;
+}
+
+load();
+setInterval(load, RELOAD_MS);
+setInterval(tick, 1000);
+setInterval(() => { renderNews(); drift(); }, 5 * 60 * 1000);
+</script>
+</body>
+</html>

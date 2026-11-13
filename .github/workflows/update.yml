@@ -1,0 +1,38 @@
+name: Update data
+
+# Every hour: fetch.py gathers the news, the team's games and place, and the prayer times into data/tv.json,
+# and the page (GitHub Pages) reads that file. The league table itself is worked out again only every 6 hours.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 * * * *'
+  push:
+    branches: [main]
+    paths: ['fetch.py', 'config.json', '.github/workflows/update.yml']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python3 -u fetch.py
+      - name: Save data/tv.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/tv.json
+          git diff --cached --quiet && exit 0
+          git commit -qm "Update data"
+          git pull --rebase -q origin main
+          git push -q origin HEAD:main
