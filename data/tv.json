@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T09:54:12+00:00",
+ "updated": "2026-11-14T10:51:10+00:00",
  "config": {
   "city_ar": "الدوحة",
   "timezone": "Asia/Qatar",
@@ -8,19 +8,19 @@
  },
  "news": [
   {
-   "title": "إيران تربط استئناف التفتيش النووي بمعالجة تداعيات الهجمات",
-   "link": "https://www.aljazeera.net/news/2026/11/14/%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d8%aa%d8%b1%d8%a8%d8%b7-%d8%a7%d8%b3%d8%aa%d8%a6%d9%86%d8%a7%d9%81-%d8%a7%d9%84%d8%aa%d9%81%d8%aa%d9%8a%d8%b4-%d8%a7%d9%84%d9%86%d9%88%d9%88%d9%8a?traffic_source=rss",
-   "time": "2026-11-14T06:37:13+00:00"
+   "title": "لانس فضله على الركراكي.. ماذا ينتظر سعود عبد الحميد مع ديغارد؟",
+   "link": "https://www.aljazeera.net/sport/2026/11/14/%d9%84%d8%a7%d9%86%d8%b3-%d9%81%d8%b6%d9%84%d9%87-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%b1%d9%83%d8%b1%d8%a7%d9%83%d9%8a-%d9%85%d8%a7%d8%b0%d8%a7-%d9%8a%d9%86%d8%aa%d8%b8%d8%b1-%d8%b3%d8%b9%d9%88%d8%af?traffic_source=rss",
+   "time": "2026-11-14T07:29:42+00:00"
   },
   {
-   "title": "خلال 8 دقائق.. مؤثرة أردنية تكشف تفاصيل سرقة منزلها",
-   "link": "https://www.aljazeera.net/misc/2026/11/14/%d8%ae%d9%84%d8%a7%d9%84-8-%d8%af%d9%82%d8%a7%d8%a6%d9%82-%d8%a7%d9%84%d9%85%d8%a4%d8%ab%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%b1%d8%af%d9%86%d9%8a%d8%a9-%d9%8a%d8%a7%d8%b3%d9%85%d9%8a%d9%86?traffic_source=rss",
-   "time": "2026-11-14T06:35:56+00:00"
+   "title": "عاجل | مستشفى الشفاء: شهيدان ومصابون في غارة من مسيرة إسرائيلية على جباليا شمالي غزة",
+   "link": "https://www.aljazeera.net/news/2026/11/14/%d8%b9%d8%a7%d8%ac%d9%84-%d9%85%d8%b3%d8%aa%d8%b4%d9%81%d9%89-%d8%a7%d9%84%d8%b4%d9%81%d8%a7%d8%a1-%d8%b4%d9%87%d9%8a%d8%af%d8%a7%d9%86-%d9%88%d9%85%d8%b5%d8%a7%d8%a8%d9%88%d9%86-%d9%81%d9%8a?traffic_source=rss",
+   "time": "2026-11-14T07:24:56+00:00"
   },
   {
-   "title": "الصوابية السياسية.. تهذيب للخطاب أم تكميم للأفواه؟",
-   "link": "https://www.aljazeera.net/encyclopedia/2026/11/14/%d8%a7%d9%84%d8%b5%d9%88%d8%a7%d8%a8%d9%8a%d8%a9-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a%d8%a9-%d8%aa%d9%87%d8%b0%d9%8a%d8%a8-%d9%84%d9%84%d8%ae%d8%b7%d8%a7%d8%a8-%d8%a3%d9%85?traffic_source=rss",
-   "time": "2026-11-14T06:26:29+00:00"
+   "title": "للمرة الثالثة.. تأجيل أول انتخابات في تاريخ جنوب السودان إلى فبراير المقبل",
+   "link": "https://www.aljazeera.net/news/2026/11/14/%d9%84%d9%84%d9%85%d8%b1%d8%a9-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d8%a9-%d8%aa%d8%a3%d8%ac%d9%8a%d9%84-%d8%a3%d9%88%d9%84-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d9%81%d9%8a?traffic_source=rss",
+   "time": "2026-11-14T07:16:43+00:00"
   }
  ],
  "team": {
@@ -51,7 +51,7 @@
    "time": "2026-11-05T17:45:00+00:00"
   },
   "table": {
-   "updated": "2026-11-14T03:58:33+00:00",
+   "updated": "2026-11-14T10:51:10+00:00",
    "league": "Italian Serie A",
    "season": "2026-2027",
    "size": 20,
