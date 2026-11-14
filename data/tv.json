@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T05:56:40+00:00",
+ "updated": "2026-11-14T07:10:16+00:00",
  "config": {
   "city_ar": "الدوحة",
   "timezone": "Asia/Qatar",
@@ -8,19 +8,19 @@
  },
  "news": [
   {
+   "title": "إنفيديا بلا هوانغ.. هل يتعثر تمويل طفرة الذكاء الاصطناعي؟",
+   "link": "https://www.aljazeera.net/ebusiness/2026/11/14/%d8%a5%d9%86%d9%81%d9%8a%d8%af%d9%8a%d8%a7-%d8%a8%d9%84%d8%a7-%d9%87%d9%88%d8%a7%d9%86%d8%ba-%d9%87%d9%84-%d9%8a%d8%aa%d8%b9%d8%ab%d8%b1-%d8%aa%d9%85%d9%88%d9%8a%d9%84-%d8%b7%d9%81%d8%b1%d8%a9?traffic_source=rss",
+   "time": "2026-11-14T03:31:10+00:00"
+  },
+  {
+   "title": "طائرات مسيرة مشبوهة فوق قاعدة بريطانية وتحرك أمني أمريكي",
+   "link": "https://www.aljazeera.net/news/2026/11/14/%d9%85%d8%b3%d9%8a%d8%b1%d8%a7%d8%aa-%d9%85%d8%b4%d8%a8%d9%88%d9%87%d8%a9-%d9%81%d9%88%d9%82-%d9%82%d8%a7%d8%b9%d8%af%d8%a9-%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a9-%d8%aa%d8%ad%d8%b1%d9%83?traffic_source=rss",
+   "time": "2026-11-14T03:18:50+00:00"
+  },
+  {
    "title": "ترمب إلى الصين بصحبة ماسك وقمة ثلاثية تجمعه بشي وبوتين",
    "link": "https://www.aljazeera.net/news/2026/11/14/%d8%b2%d9%8a%d8%a7%d8%b1%d8%a9-%d8%aa%d8%b1%d9%85%d8%a8-%d9%84%d9%84%d8%b5%d9%8a%d9%86?traffic_source=rss",
    "time": "2026-11-14T02:52:15+00:00"
-  },
-  {
-   "title": "انتقد القانون الدولي.. روبيو يوجه تحذيرا شديد اللهجة للجنائية الدولية",
-   "link": "https://www.aljazeera.net/news/2026/11/14/%d8%a7%d9%86%d8%aa%d9%82%d8%af-%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86-%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a-%d8%b1%d9%88%d8%a8%d9%8a%d9%88-%d9%8a%d9%88%d8%ac%d9%87?traffic_source=rss",
-   "time": "2026-11-14T02:31:56+00:00"
-  },
-  {
-   "title": "ذكاء اصطناعي بلا اشتراك ولا إنترنت.. أصغر 4 نماذج لحاسوبك",
-   "link": "https://www.aljazeera.net/tech/2026/11/14/%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d8%a8%d9%84%d8%a7-%d8%a7%d8%b4%d8%aa%d8%b1%d8%a7%d9%83-%d9%88%d9%84%d8%a7-%d8%a5%d9%86%d8%aa%d8%b1%d9%86%d8%aa?traffic_source=rss",
-   "time": "2026-11-14T02:00:00+00:00"
   }
  ],
  "team": {
