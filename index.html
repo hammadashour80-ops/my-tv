@@ -14,9 +14,9 @@
   html, body { height: 100%; background: var(--bg); color: var(--text); font-family: 'Tajawal', system-ui, sans-serif; overflow: hidden; }
   body { background: linear-gradient(rgba(5,8,12,.45), rgba(5,8,12,.7)), url('bg.jpg') center / cover no-repeat fixed, var(--bg); }
   body { font-size: clamp(14px, 1.15vw, 26px); }
-  #wrap { height: 100%; display: grid; grid-template-columns: 1.15fr 1fr; grid-template-rows: minmax(0, 1fr) auto; gap: 1.6em 2.2em; padding: 3vh 3vw; transition: transform 2s; }
+  #wrap { height: 100%; display: grid; grid-template-columns: 1fr minmax(0, .45fr); grid-template-rows: minmax(0, 1fr) auto; gap: 1.6em 2.2em; padding: 3vh 3vw; transition: transform 2s; }
   .left { display: flex; flex-direction: column; justify-content: center; gap: 1.6em; }
-  .right { display: flex; flex-direction: column; gap: 1.2em; justify-content: center; min-width: 0; }
+  .right { display: flex; flex-direction: column; gap: 1.2em; justify-content: center; min-width: 0; font-size: .5em; }   /* the cards at half size */
 
   #clock { text-shadow: 0 .05em .3em rgba(0,0,0,.6); font-size: 7.5em; font-weight: 800; line-height: 1; letter-spacing: .02em; font-variant-numeric: tabular-nums; }
   #clock small { font-size: .32em; font-weight: 500; color: var(--dim); margin-inline-start: .3em; }
