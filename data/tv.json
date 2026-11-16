@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T04:22:58+00:00",
+ "updated": "2026-11-16T06:27:25+00:00",
  "config": {
   "city_ar": "الدوحة",
   "timezone": "Asia/Qatar",
@@ -8,14 +8,14 @@
  },
  "news": [
   {
-   "title": "المسيّرات الأوكرانية تغزو أجواء موسكو واجتماع وشيك لحلفاء كييف",
-   "link": "https://www.aljazeera.net/news/2026/11/16/%d8%b1%d9%88%d8%b3%d9%8a%d8%a7-%d8%aa%d8%b3%d9%82%d8%b7-%d8%b9%d8%b4%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%aa%d8%ac%d9%87%d8%a9-%d9%86%d8%ad%d9%88?traffic_source=rss",
-   "time": "2026-11-16T00:08:06+00:00"
+   "title": "موعد مباراة توغو ضد الجزائر في تصفيات كأس أمم أفريقيا والقنوات الناقلة",
+   "link": "https://www.aljazeera.net/sport/2026/11/16/%d9%85%d9%88%d8%b9%d8%af-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%aa%d9%88%d8%ba%d9%88-%d8%b6%d8%af-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1?traffic_source=rss",
+   "time": "2026-11-16T03:16:53+00:00"
   },
   {
-   "title": "حكم تاريخي مرتقب بشأن الروهينغا قد يرسم حدود المساءلة عن جرائم الإبادة",
-   "link": "https://www.aljazeera.net/politics/2026/11/16/%d8%a7%d9%84%d8%b1%d9%88%d9%87%d9%8a%d9%86%d8%ba%d8%a7-%d9%88%d8%ba%d8%b2%d8%a9-%d8%a3%d9%85%d8%a7%d9%85-%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1-%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d8%a9?traffic_source=rss",
-   "time": "2026-11-15T23:22:05+00:00"
+   "title": "النفط يهبط وسط توقعات بفائض في المعروض",
+   "link": "https://www.aljazeera.net/ebusiness/2026/11/16/%d8%a7%d9%84%d9%86%d9%81%d8%b7-%d9%8a%d9%87%d8%a8%d8%b7-%d9%88%d8%b3%d8%b7-%d8%aa%d9%88%d9%82%d8%b9%d8%a7%d8%aa-%d8%a8%d9%81%d8%a7%d8%a6%d8%b6-%d9%81%d9%8a?traffic_source=rss",
+   "time": "2026-11-16T03:11:07+00:00"
   }
  ],
  "team": {
@@ -389,7 +389,7 @@
     "Fajr": "04:33",
     "Sunrise": "05:53",
     "Dhuhr": "11:19",
-    "Asr": "14:24",
+    "Asr": "14:25",
     "Maghrib": "16:45",
     "Isha": "18:15"
    },
