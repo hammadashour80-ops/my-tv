@@ -40,6 +40,13 @@
   #news li:first-child { border-top: 0; padding-top: 0; }
   #news time { display: block; color: var(--dim); font-size: .78em; margin-top: .15em; }
   .src { color: var(--dim); font-size: .8em; margin-top: .4em; }
+  #movie { display: flex; gap: 1em; align-items: flex-start; }
+  #movie img { width: 5.5em; aspect-ratio: 2 / 3; object-fit: cover; border-radius: .5em; flex: none; background: #000; }
+  #movie .t { font-size: 1.3em; font-weight: 800; line-height: 1.25; }
+  #movie .t small { display: block; font-size: .62em; font-weight: 500; color: var(--dim); }
+  #movie .facts { color: var(--accent); font-size: .9em; margin: .3em 0 .45em; }
+  #movie p { font-size: 1.02em; line-height: 1.5; color: #d6dde5; }
+  #movie p[lang="en"] { direction: ltr; text-align: left; }
   .stale { color: var(--loss); font-size: .8em; }
 
   #apps { grid-column: 1 / -1; display: flex; gap: 1em; justify-content: center; }
@@ -70,6 +77,7 @@
   <section class="right">
     <div class="card" id="team-card"><h2 id="team-title">المباراة القادمة</h2><div id="team">جارٍ التحميل…</div></div>
     <div class="card"><h2>أخبار عاجلة</h2><ul id="news"><li>جارٍ التحميل…</li></ul><div class="src">المصدر: الجزيرة نت</div></div>
+    <div class="card"><h2>فيلم مقترح · من أفضل ٢٥٠ فيلماً في IMDb</h2><div id="movie">جارٍ التحميل…</div><div class="src">Information courtesy of IMDb (imdb.com). Used with permission. · الشرح من ويكيبيديا</div></div>
     <div id="stale" class="stale"></div>
   </section>
   <nav id="apps" aria-label="التطبيقات"></nav>
@@ -209,6 +217,32 @@ function renderApps() {
 }
 
 renderApps();
+// ---- a film from the top 250 ---------------------------------------------------------------------------------------
+// data/movies.json is made once a week by movies.py; a new film is picked at random every hour (and on every load)
+const MOVIE_EVERY_MS = 60 * 60 * 1000;
+let FILMS = null;
+async function loadFilms() {
+  try {
+    const r = await fetch('data/movies.json', { cache: 'no-store' });
+    FILMS = (await r.json()).films;
+    try { localStorage.setItem('films', JSON.stringify(FILMS)); } catch (e) {}
+  } catch (e) {
+    try { FILMS = JSON.parse(localStorage.getItem('films')); } catch (e2) {}
+  }
+  renderMovie();
+}
+function renderMovie() {
+  if (!FILMS?.length) { $('movie').textContent = 'لا توجد قائمة أفلام بعد'; return; }
+  const f = FILMS[Math.floor(Math.random() * FILMS.length)];
+  const name = f.title_ar && f.title_ar !== f.title ? `${esc(f.title_ar)}<small>${esc(f.title)}</small>` : esc(f.title);
+  const mins = f.minutes ? ` · ${num(Math.floor(f.minutes / 60))} س ${num(f.minutes % 60)} د` : '';
+  const about = f.about ? `<p lang="${f.about_lang}">${esc(f.about)}</p>` : '<p>لا يوجد شرح لهذا الفيلم.</p>';
+  $('movie').innerHTML = (f.poster ? `<img src="${esc(f.poster)}" alt="" onerror="this.remove()">` : '') +
+    `<div><div class="t">${name}</div><div class="facts">${num(f.year)} · ⭐ ${num(f.rating.toFixed(1))} · المرتبة ${num(f.rank)}${mins}</div>${about}</div>`;
+}
+
+loadFilms();
+setInterval(renderMovie, MOVIE_EVERY_MS);
 load();
 setInterval(load, RELOAD_MS);
 setInterval(tick, 1000);
