@@ -12,26 +12,20 @@
   }
   * { box-sizing: border-box; margin: 0; padding: 0; }
   html, body { height: 100%; background: var(--bg); color: var(--text); font-family: 'Tajawal', system-ui, sans-serif; overflow: hidden; }
+  body { background: linear-gradient(rgba(5,8,12,.45), rgba(5,8,12,.7)), url('bg.jpg') center / cover no-repeat fixed, var(--bg); }
   body { font-size: clamp(14px, 1.15vw, 26px); }
   #wrap { height: 100%; display: grid; grid-template-columns: 1.15fr 1fr; grid-template-rows: minmax(0, 1fr) auto; gap: 1.6em 2.2em; padding: 3vh 3vw; transition: transform 2s; }
   .left { display: flex; flex-direction: column; justify-content: center; gap: 1.6em; }
   .right { display: flex; flex-direction: column; gap: 1.2em; justify-content: center; min-width: 0; }
 
-  #clock { font-size: 7.5em; font-weight: 800; line-height: 1; letter-spacing: .02em; font-variant-numeric: tabular-nums; }
+  #clock { text-shadow: 0 .05em .3em rgba(0,0,0,.6); font-size: 7.5em; font-weight: 800; line-height: 1; letter-spacing: .02em; font-variant-numeric: tabular-nums; }
   #clock small { font-size: .32em; font-weight: 500; color: var(--dim); margin-inline-start: .3em; }
-  #date { font-size: 1.6em; color: var(--dim); }
+  #date { font-size: 1.6em; color: #c9d2dc; text-shadow: 0 .05em .3em rgba(0,0,0,.6); }
   #date b { color: var(--text); font-weight: 500; }
 
-  .card { background: var(--card); border: 1px solid var(--line); border-radius: 1em; padding: 1.1em 1.4em; }
+  .card { background: rgba(14,19,26,.62); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,.08); border-radius: 1em; padding: 1.1em 1.4em; }
   .card h2 { font-size: .95em; font-weight: 500; color: var(--accent); margin-bottom: .6em; }
 
-  #next-prayer { font-size: 1.9em; font-weight: 700; }
-  #next-prayer span { color: var(--accent); }
-  #prayers { display: grid; grid-template-columns: repeat(6, 1fr); gap: .5em; margin-top: .9em; text-align: center; }
-  #prayers div { padding: .5em .2em; border-radius: .6em; }
-  #prayers div.now { background: #1f2a36; outline: 1px solid var(--accent); }
-  #prayers b { display: block; font-size: 1.35em; font-variant-numeric: tabular-nums; }
-  #prayers i { font-style: normal; color: var(--dim); font-size: .9em; }
 
   .match { display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: 1em; text-align: center; }
   .side img { width: 3.6em; height: 3.6em; object-fit: contain; display: block; margin: 0 auto .35em; }
@@ -60,7 +54,6 @@
     body { font-size: 15px; }
     #wrap { grid-template-columns: 1fr; padding: 16px; height: auto; }
     #clock { font-size: 4.5em; }
-    #prayers { grid-template-columns: repeat(3, 1fr); }
     #apps { flex-wrap: wrap; }
     .app { flex-basis: 8em; }
   }
@@ -72,11 +65,6 @@
     <div>
       <div id="clock">--:--</div>
       <div id="date"></div>
-    </div>
-    <div class="card">
-      <h2 id="city">مواقيت الصلاة</h2>
-      <div id="next-prayer">…</div>
-      <div id="prayers"></div>
     </div>
   </section>
   <section class="right">
@@ -91,8 +79,7 @@
 'use strict';
 const DATA_URL = 'data/tv.json';
 const RELOAD_MS = 10 * 60 * 1000;
-const NAMES = { Fajr: 'الفجر', Sunrise: 'الشروق', Dhuhr: 'الظهر', Asr: 'العصر', Maghrib: 'المغرب', Isha: 'العشاء' };
-const ADHAN = ['Fajr', 'Dhuhr', 'Asr', 'Maghrib', 'Isha'];
+const NEWS_SHOWN = 2;
 let DATA = null;
 let TZ = 'Asia/Qatar';
 
@@ -108,12 +95,6 @@ function wall(date = new Date()) {
     .formatToParts(date).map(x => [x.type, x.value]));
   return { day: `${p.year}-${p.month}-${p.day}`, h: +p.hour, m: +p.minute, s: +p.second };
 }
-const minutesOf = hhmm => { const [h, m] = hhmm.split(':').map(Number); return h * 60 + m; };
-function time12(hhmm) {
-  let [h, m] = hhmm.split(':').map(Number);
-  const pm = h >= 12; h = h % 12 || 12;
-  return digits(`${h}:${String(m).padStart(2, '0')}`) + (pm ? ' م' : ' ص');
-}
 function fmtWhen(iso, opts) {
   return new Intl.DateTimeFormat('ar-EG', { timeZone: TZ, ...opts }).format(new Date(iso));
 }
@@ -126,7 +107,7 @@ function ago(iso) {
   return fmtWhen(iso, { day: 'numeric', month: 'long' });
 }
 
-// ---- clock and prayers -------------------------------------------------------------------------------------------------
+// ---- clock -------------------------------------------------------------------------------------------------------------
 function tick() {
   const w = wall();
   const h12 = w.h % 12 || 12;
@@ -135,29 +116,6 @@ function tick() {
   const today = DATA?.prayers?.[w.day];
   const hijri = today ? ` · <b>${num(today.hijri.day)} ${esc(today.hijri.month)} ${num(today.hijri.year)} هـ</b>` : '';
   $('date').innerHTML = esc(greg) + hijri;
-  prayers(w);
-}
-
-function prayers(w) {
-  const days = DATA?.prayers;
-  if (!days || !days[w.day]) { $('next-prayer').textContent = 'لا توجد مواقيت لهذا اليوم بعد'; return; }
-  const t = days[w.day].times;
-  const nowMin = w.h * 60 + w.m + w.s / 60;
-  let next = ADHAN.find(k => minutesOf(t[k]) > nowMin);
-  let wait = next ? minutesOf(t[next]) - nowMin : null;
-  if (!next) {                                     // after Isha: tomorrow's Fajr
-    const tomorrow = Object.keys(days).sort().find(d => d > w.day);
-    if (tomorrow) { next = 'Fajr'; wait = 24 * 60 - nowMin + minutesOf(days[tomorrow].times.Fajr); }
-  }
-  // the current prayer: the last adhan that has passed today
-  const current = [...ADHAN].reverse().find(k => minutesOf(t[k]) <= nowMin);
-  $('prayers').innerHTML = Object.keys(NAMES).map(k =>
-    `<div class="${k === current ? 'now' : ''}"><i>${NAMES[k]}</i><b>${time12(t[k])}</b></div>`).join('');
-  if (next) {
-    const mins = Math.ceil(wait);
-    const left = mins >= 60 ? `${num(Math.floor(mins / 60))} س ${num(mins % 60)} د` : `${num(mins)} دقيقة`;
-    $('next-prayer').innerHTML = `${NAMES[next]} بعد <span>${left}</span>`;
-  }
 }
 
 // ---- team -------------------------------------------------------------------------------------------------------------
@@ -194,7 +152,7 @@ function renderTeam() {
 function renderNews() {
   const items = DATA?.news;
   if (!items?.length) { $('news').innerHTML = '<li>لا توجد أخبار الآن</li>'; return; }
-  $('news').innerHTML = items.map(x => `<li>${esc(x.title)}${x.time ? `<time>${ago(x.time)}</time>` : ''}</li>`).join('');
+  $('news').innerHTML = items.slice(0, NEWS_SHOWN).map(x => `<li>${esc(x.title)}${x.time ? `<time>${ago(x.time)}</time>` : ''}</li>`).join('');
 }
 
 // ---- data -------------------------------------------------------------------------------------------------------------
@@ -209,7 +167,6 @@ async function load() {
   }
   if (!DATA) return;
   TZ = DATA.config?.timezone || TZ;
-  $('city').textContent = `مواقيت الصلاة · ${DATA.config?.city_ar || ''}`;
   const hours = (Date.now() - new Date(DATA.updated)) / 3600000;
   $('stale').textContent = hours > 3 ? `آخر تحديث ${ago(DATA.updated)}` : '';
   renderTeam(); renderNews(); tick();
