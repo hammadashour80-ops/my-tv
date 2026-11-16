@@ -13,7 +13,7 @@
   * { box-sizing: border-box; margin: 0; padding: 0; }
   html, body { height: 100%; background: var(--bg); color: var(--text); font-family: 'Tajawal', system-ui, sans-serif; overflow: hidden; }
   body { font-size: clamp(14px, 1.15vw, 26px); }
-  #wrap { height: 100%; display: grid; grid-template-columns: 1.15fr 1fr; gap: 2.2em; padding: 3vh 3vw; transition: transform 2s; }
+  #wrap { height: 100%; display: grid; grid-template-columns: 1.15fr 1fr; grid-template-rows: minmax(0, 1fr) auto; gap: 1.6em 2.2em; padding: 3vh 3vw; transition: transform 2s; }
   .left { display: flex; flex-direction: column; justify-content: center; gap: 1.6em; }
   .right { display: flex; flex-direction: column; gap: 1.2em; justify-content: center; min-width: 0; }
 
@@ -48,12 +48,21 @@
   .src { color: var(--dim); font-size: .8em; margin-top: .4em; }
   .stale { color: var(--loss); font-size: .8em; }
 
+  #apps { grid-column: 1 / -1; display: flex; gap: 1em; justify-content: center; }
+  .app { flex: 0 1 11em; height: 5.2em; border: 0; border-radius: .9em; color: #fff; font: inherit; font-size: 1.15em; font-weight: 800;
+         cursor: pointer; outline: none; transition: transform .15s, box-shadow .15s; box-shadow: 0 0 0 0 transparent; opacity: .85; }
+  .app:focus, .app:hover { transform: scale(1.08); box-shadow: 0 0 0 .22em var(--text); opacity: 1; }
+  .app small { display: block; font-size: .62em; font-weight: 500; opacity: .85; margin-top: .2em; }
+  #app-note { grid-column: 1 / -1; text-align: center; color: var(--loss); font-size: .85em; min-height: 1em; margin-top: -.8em; }
+
   @media (max-width: 900px) {
     html, body { overflow: auto; }
     body { font-size: 15px; }
     #wrap { grid-template-columns: 1fr; padding: 16px; height: auto; }
     #clock { font-size: 4.5em; }
     #prayers { grid-template-columns: repeat(3, 1fr); }
+    #apps { flex-wrap: wrap; }
+    .app { flex-basis: 8em; }
   }
 </style>
 </head>
@@ -75,6 +84,8 @@
     <div class="card"><h2>أخبار عاجلة</h2><ul id="news"><li>جارٍ التحميل…</li></ul><div class="src">المصدر: الجزيرة نت</div></div>
     <div id="stale" class="stale"></div>
   </section>
+  <nav id="apps" aria-label="التطبيقات"></nav>
+  <div id="app-note"></div>
 </div>
 <script>
 'use strict';
@@ -210,6 +221,37 @@ function drift() {
   $('wrap').style.transform = `translate(${x}px, ${y}px)`;
 }
 
+// ---- apps -------------------------------------------------------------------------------------------------------------
+// the TV's own apps. Inside our app (later) window.TVApp.open(package) starts one; in a browser an intent: link is tried.
+const APPS = [
+  { name: 'لايونز', pkg: 'com.shadeed.lionztv', bg: '#1d2b4f' },
+  { name: 'يوتيوب', pkg: 'com.google.android.youtube.tv', bg: '#cc0000' },
+  { name: 'نتفليكس', pkg: 'com.netflix.ninja', bg: '#b20710' },
+  { name: 'شاهد', pkg: 'net.mbc.shahidTV', bg: '#0a8f5a' },
+  { name: 'برايم فيديو', pkg: 'com.amazon.amazonvideo.livingroom', bg: '#1a73c8' },
+  { name: 'متجر بلاي', pkg: 'com.android.vending', bg: '#3c4652' },
+];
+function openApp(pkg) {
+  if (window.TVApp && window.TVApp.open) { window.TVApp.open(pkg); return; }
+  $('app-note').textContent = 'فتح التطبيقات من المتصفح قد لا يعمل؛ في التطبيق الحقيقي يعمل.';
+  location.href = `intent:#Intent;action=android.intent.action.MAIN;category=android.intent.category.LEANBACK_LAUNCHER;package=${pkg};end`;
+}
+function renderApps() {
+  $('apps').innerHTML = APPS.map((a, i) =>
+    `<button class="app" data-i="${i}" style="background:${a.bg}">${esc(a.name)}</button>`).join('');
+  const tiles = [...document.querySelectorAll('.app')];
+  tiles.forEach(t => t.addEventListener('click', () => openApp(APPS[+t.dataset.i].pkg)));
+  // the remote's arrows: right to left is the reading order here, so ◀ goes to the next app
+  document.addEventListener('keydown', e => {
+    const i = tiles.indexOf(document.activeElement);
+    if (i < 0) { if (/^Arrow/.test(e.key)) { tiles[0].focus(); e.preventDefault(); } return; }
+    if (e.key === 'ArrowLeft' && i < tiles.length - 1) { tiles[i + 1].focus(); e.preventDefault(); }
+    if (e.key === 'ArrowRight' && i > 0) { tiles[i - 1].focus(); e.preventDefault(); }
+  });
+  tiles[0].focus();
+}
+
+renderApps();
 load();
 setInterval(load, RELOAD_MS);
 setInterval(tick, 1000);
