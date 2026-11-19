@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T05:15:04+00:00",
+ "updated": "2026-11-19T06:15:28+00:00",
  "config": {
   "city_ar": "الدوحة",
   "timezone": "Asia/Qatar",
@@ -8,14 +8,14 @@
  },
  "news": [
   {
+   "title": "نجاد غرابوس.. من الإفتاء في سلوفينيا إلى رئاسة علماء البوسنة والهرسك",
+   "link": "https://www.aljazeera.net/encyclopedia/2026/11/19/%d9%86%d8%ac%d8%a7%d8%af-%d8%ba%d8%b1%d8%a7%d8%a8%d9%88%d8%b3-%d9%85%d9%86-%d8%a7%d9%84%d8%a5%d9%81%d8%aa%d8%a7%d8%a1-%d9%81%d9%8a-%d8%b3%d9%84%d9%88%d9%81%d9%8a%d9%86%d9%8a%d8%a7-%d8%a5%d9%84%d9%89?traffic_source=rss",
+   "time": "2026-11-19T02:22:42+00:00"
+  },
+  {
    "title": "عاجل| سلطات القرم: استهداف جسر القرم مجددا وتعليق حركة المرور عليه",
    "link": "https://www.aljazeera.net/news/2026/11/19/%d8%b9%d8%a7%d8%ac%d9%84-%d8%b3%d9%84%d8%b7%d8%a7%d8%aa-%d8%a7%d9%84%d9%82%d8%b1%d9%85-%d8%a7%d8%b3%d8%aa%d9%87%d8%af%d8%a7%d9%81-%d8%ac%d8%b3%d8%b1-%d8%a7%d9%84%d9%82%d8%b1%d9%85?traffic_source=rss",
    "time": "2026-11-19T01:33:29+00:00"
-  },
-  {
-   "title": "للمرة الثالثة.. العراق يحجب تليغرام ويفتح أسئلة عن حرية التعبير",
-   "link": "https://www.aljazeera.net/politics/2026/11/19/%d9%84%d9%84%d9%85%d8%b1%d8%a9-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d8%a9-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82-%d9%8a%d8%ad%d8%ac%d8%a8-%d8%aa%d9%84%d9%8a%d8%ba%d8%b1%d8%a7%d9%85?traffic_source=rss",
-   "time": "2026-11-19T01:33:07+00:00"
   }
  ],
  "team": {
@@ -46,7 +46,7 @@
    "time": "2026-11-05T17:45:00+00:00"
   },
   "table": {
-   "updated": "2026-11-18T23:57:12+00:00",
+   "updated": "2026-11-19T06:15:28+00:00",
    "league": "Italian Serie A",
    "season": "2026-2027",
    "size": 20,
