@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T21:56:27+00:00",
+ "updated": "2026-11-20T22:55:49+00:00",
  "config": {
   "city_ar": "الدوحة",
   "timezone": "Asia/Qatar",
@@ -8,14 +8,14 @@
  },
  "news": [
   {
-   "title": "ليلة ساخنة بالدوري الإندونيسي.. جماهير غاضبة تحرق الشباك وتحاصر الفريق الضيف (فيديو)",
-   "link": "https://www.aljazeera.net/sport/2026/11/21/%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86-%d8%a3%d8%b1%d9%8a%d9%85%d8%a7-%d8%b4%d8%ba%d8%a8-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a5%d9%86%d8%af%d9%88%d9%86%d9%8a%d8%b3%d9%8a?traffic_source=rss",
-   "time": "2026-11-20T18:24:22+00:00"
+   "title": "إدوارد سعيد خلف الزجاج.. معرض يحتفي بالفن وينسى الاستعمار!",
+   "link": "https://www.aljazeera.net/opinions/2026/11/21/%d8%a5%d8%af%d9%88%d8%a7%d8%b1%d8%af-%d8%b3%d8%b9%d9%8a%d8%af-%d8%ae%d9%84%d9%81-%d8%a7%d9%84%d8%b2%d8%ac%d8%a7%d8%ac-%d9%85%d8%b9%d8%b1%d8%b6-%d9%8a%d8%ad%d8%aa%d9%81%d9%8a?traffic_source=rss",
+   "time": "2026-11-20T19:43:26+00:00"
   },
   {
-   "title": "\"التصفح المتفائل\".. كيف هزمت الانتخابات كآبة الإنترنت؟",
-   "link": "https://www.aljazeera.net/lifestyle/2026/11/21/%d8%a7%d9%84%d8%aa%d8%b5%d9%81%d8%ad-%d8%a7%d9%84%d9%85%d8%aa%d9%81%d8%a7%d8%a6%d9%84-%d9%83%d9%8a%d9%81-%d9%87%d8%b2%d9%85%d8%aa-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa?traffic_source=rss",
-   "time": "2026-11-20T18:18:47+00:00"
+   "title": "كلاسيكو الدوري السعودي.. كيف قلبت ركلة جزاء رونالدو الضائعة موازين القمة؟ (فيديو)",
+   "link": "https://www.aljazeera.net/sport/2026/11/21/%d8%b1%d9%83%d9%84%d8%a9-%d8%ac%d8%b2%d8%a7%d8%a1-%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88-%d8%a7%d9%84%d8%b6%d8%a7%d8%a6%d8%b9%d8%a9-%d8%a7%d9%84%d9%86%d8%b5%d8%b1?traffic_source=rss",
+   "time": "2026-11-20T18:56:07+00:00"
   }
  ],
  "team": {
@@ -46,7 +46,7 @@
    "time": "2026-11-05T17:45:00+00:00"
   },
   "table": {
-   "updated": "2026-11-20T16:04:40+00:00",
+   "updated": "2026-11-20T22:55:49+00:00",
    "league": "Italian Serie A",
    "season": "2026-2027",
    "size": 20,
