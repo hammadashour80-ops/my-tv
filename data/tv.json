@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T13:23:15+00:00",
+ "updated": "2026-11-20T15:04:06+00:00",
  "config": {
   "city_ar": "الدوحة",
   "timezone": "Asia/Qatar",
@@ -8,14 +8,14 @@
  },
  "news": [
   {
-   "title": "\"بصراينسيس\".. عقرب غامض يختبئ في جنوب العراق ويدهش العلماء",
-   "link": "https://www.aljazeera.net/science/2026/11/20/%d8%a8%d8%b5%d8%b1%d8%a7%d9%8a%d9%86%d8%b3%d9%8a%d8%b3-%d8%b9%d9%82%d8%b1%d8%a8-%d8%ba%d8%a7%d9%85%d8%b6-%d9%8a%d8%ae%d8%aa%d8%a8%d8%a6-%d9%81%d9%8a-%d8%ac%d9%86%d9%88%d8%a8?traffic_source=rss",
-   "time": "2026-11-20T09:45:00+00:00"
+   "title": "سلام بلا حلول.. الصحافة الأمريكية تفكك وعود قمة شنجن",
+   "link": "https://www.aljazeera.net/politics/2026/11/20/%d8%b3%d9%84%d8%a7%d9%85-%d8%a8%d9%84%d8%a7-%d8%ad%d9%84%d9%88%d9%84-%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d9%81%d8%a9-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d8%a9-%d8%aa%d9%81%d9%83%d9%83?traffic_source=rss",
+   "time": "2026-11-20T11:29:35+00:00"
   },
   {
-   "title": "رسميا.. ريال مدريد يجدد عقد كورتوا",
-   "link": "https://www.aljazeera.net/sport/2026/11/20/%d8%b1%d8%b3%d9%85%d9%8a%d8%a7-%d8%b1%d9%8a%d8%a7%d9%84-%d9%85%d8%af%d8%b1%d9%8a%d8%af-%d9%8a%d8%ac%d8%af%d8%af-%d8%b9%d9%82%d8%af-%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7?traffic_source=rss",
-   "time": "2026-11-20T09:38:46+00:00"
+   "title": "من عناق شي إلى \"صديقي بوتين\".. لقطات خطفت الأنظار في قمة شنجن",
+   "link": "https://www.aljazeera.net/news/2026/11/20/%d9%85%d9%86-%d8%b9%d9%86%d8%a7%d9%82-%d8%b4%d9%8a-%d8%a5%d9%84%d9%89-%d8%b5%d8%af%d9%8a%d9%82%d9%8a-%d8%a8%d9%88%d8%aa%d9%8a%d9%86-%d9%84%d9%82%d8%b7%d8%a7%d8%aa-%d8%ae%d8%b7%d9%81%d8%aa?traffic_source=rss",
+   "time": "2026-11-20T11:26:33+00:00"
   }
  ],
  "team": {
@@ -404,7 +404,7 @@
     "Fajr": "04:36",
     "Sunrise": "05:57",
     "Dhuhr": "11:20",
-    "Asr": "14:23",
+    "Asr": "14:24",
     "Maghrib": "16:44",
     "Isha": "18:14"
    },
