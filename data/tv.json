@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T16:55:16+00:00",
+ "updated": "2026-11-22T17:50:04+00:00",
  "config": {
   "city_ar": "الدوحة",
   "timezone": "Asia/Qatar",
@@ -8,14 +8,14 @@
  },
  "news": [
   {
-   "title": "\"سأكون أول المغادرين في حالة واحدة\".. برونو فرنانديز يكشف موقفه من التجديد لمانشستر يونايتد",
-   "link": "https://www.aljazeera.net/sport/2026/11/22/%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1-%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af-%d8%a8%d8%b1%d9%88%d9%86%d9%88-%d9%81%d8%b1%d9%86%d8%a7%d9%86%d8%af%d9%8a%d8%b2?traffic_source=rss",
-   "time": "2026-11-22T13:36:43+00:00"
+   "title": "طفل يصطاد سمكة عملاقة من على الشاطئ",
+   "link": "https://www.aljazeera.net/misc/2026/11/22/%d8%b7%d9%81%d9%84-%d9%8a%d8%b5%d8%b7%d8%a7%d8%af-%d8%b3%d9%85%d9%83%d8%a9-%d8%b9%d9%85%d9%84%d8%a7%d9%82%d8%a9-%d9%85%d9%86-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%b4%d8%a7%d8%b7%d8%a6?traffic_source=rss",
+   "time": "2026-11-22T14:47:05+00:00"
   },
   {
-   "title": "الكويت تترقب برشلونة بداية 2027 وتستعد لاستضافة السوبر السعودي",
-   "link": "https://www.aljazeera.net/sport/2026/11/22/%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa-%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9-%d8%a7%d9%84%d8%a5%d8%aa%d8%ad%d8%a7%d8%af-%d8%ac%d9%84%d8%a7%d9%87%d9%85%d8%a9-%d8%b7%d8%a7%d8%b1%d9%82?traffic_source=rss",
-   "time": "2026-11-22T13:34:13+00:00"
+   "title": "سباح بريطاني يقضي ثلاثة أيام في مضيق هرمز وسط الانفجارات (فيديو)",
+   "link": "https://www.aljazeera.net/sport/2026/11/22/%d8%b3%d8%a8%d8%a7%d8%ad-%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a-%d9%8a%d9%82%d8%b6%d9%8a-%d8%ab%d9%84%d8%a7%d8%ab%d8%a9-%d8%a3%d9%8a%d8%a7%d9%85-%d9%81%d9%8a-%d9%85%d8%b6%d9%8a%d9%82?traffic_source=rss",
+   "time": "2026-11-22T14:30:00+00:00"
   }
  ],
  "team": {
@@ -26,8 +26,8 @@
    "away": "Frosinone",
    "home_badge": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
    "away_badge": "https://r2.thesportsdb.com/images/media/team/badge/a7xa151603170120.png",
-   "home_score": null,
-   "away_score": null,
+   "home_score": "2",
+   "away_score": "1",
    "league": "Italian Serie A",
    "venue": "Stadio Giuseppe Meazza",
    "time": "2026-11-22T17:00:00+00:00"
