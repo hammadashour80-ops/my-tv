@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T19:56:25+00:00",
+ "updated": "2026-11-22T20:52:49+00:00",
  "config": {
   "city_ar": "الدوحة",
   "timezone": "Asia/Qatar",
@@ -8,14 +8,14 @@
  },
  "news": [
   {
-   "title": "من فيغو ورونالدينيو إلى حمزة عبد الكريم.. نجوم عالميون صنعهم مونديال الناشئين",
-   "link": "https://www.aljazeera.net/sport/2026/11/22/%d9%85%d9%86-%d9%81%d9%8a%d8%ba%d9%88-%d9%88%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%8a%d9%86%d9%8a%d9%88-%d8%a5%d9%84%d9%89-%d8%ad%d9%85%d8%b2%d8%a9-%d8%b9%d8%a8%d8%af?traffic_source=rss",
-   "time": "2026-11-22T16:34:53+00:00"
+   "title": "هل تحصل أوكرانيا على ضمانات شبيهة بالمادة الخامسة للناتو.. وما الثمن؟",
+   "link": "https://www.aljazeera.net/politics/2026/11/22/%d9%87%d9%84-%d8%aa%d8%ad%d8%b5%d9%84-%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a7-%d8%b9%d9%84%d9%89-%d8%b6%d9%85%d8%a7%d9%86%d8%a7%d8%aa-%d8%b4%d8%a8%d9%8a%d9%87%d8%a9?traffic_source=rss",
+   "time": "2026-11-22T17:21:46+00:00"
   },
   {
-   "title": "مدرب الاتحاد: حظنا سيئ ولم أطلب لاعبين في سوق الانتقالات",
-   "link": "https://www.aljazeera.net/sport/2026/11/22/%d8%a8%d8%a7%d8%ae%d8%aa%d8%a7%d9%83%d9%88%d8%b1-%d9%85%d8%af%d8%b1%d8%a8-%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d9%81%d9%8a%d8%b3%d9%86%d8%ba?traffic_source=rss",
-   "time": "2026-11-22T16:30:00+00:00"
+   "title": "شرطة الاحتلال الإسرائيلي تعتقل سائحة تركية في المسجد الأقصى",
+   "link": "https://www.aljazeera.net/news/2026/11/22/%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84-%d8%aa%d8%b9%d8%aa%d9%82%d9%84-%d8%b3%d8%a7%d8%a6%d8%ad%d8%a9-%d8%aa%d8%b1%d9%83%d9%8a%d8%a9-%d9%85%d9%86-%d8%af%d8%a7%d8%ae%d9%84?traffic_source=rss",
+   "time": "2026-11-22T17:20:26+00:00"
   }
  ],
  "team": {
@@ -34,7 +34,7 @@
    "time": "2026-11-05T17:45:00+00:00"
   },
   "table": {
-   "updated": "2026-11-22T14:04:52+00:00",
+   "updated": "2026-11-22T20:52:49+00:00",
    "league": "Italian Serie A",
    "season": "2026-2027",
    "size": 20,
@@ -53,6 +53,19 @@
      "rank": 1
     },
     {
+     "id": "133681",
+     "name": "Inter Milan",
+     "played": 12,
+     "won": 10,
+     "drawn": 1,
+     "lost": 1,
+     "gf": 30,
+     "ga": 14,
+     "points": 31,
+     "gd": 16,
+     "rank": 2
+    },
+    {
      "id": "133682",
      "name": "Roma",
      "played": 12,
@@ -63,20 +76,20 @@
      "ga": 11,
      "points": 30,
      "gd": 25,
-     "rank": 2
+     "rank": 3
     },
     {
-     "id": "133681",
-     "name": "Inter Milan",
-     "played": 11,
-     "won": 9,
-     "drawn": 1,
+     "id": "133667",
+     "name": "AC Milan",
+     "played": 12,
+     "won": 8,
+     "drawn": 3,
      "lost": 1,
      "gf": 28,
-     "ga": 13,
-     "points": 28,
-     "gd": 15,
-     "rank": 3
+     "ga": 14,
+     "points": 27,
+     "gd": 14,
+     "rank": 4
     },
     {
      "id": "134243",
@@ -88,19 +101,6 @@
      "gf": 20,
      "ga": 10,
      "points": 26,
-     "gd": 10,
-     "rank": 4
-    },
-    {
-     "id": "133667",
-     "name": "AC Milan",
-     "played": 11,
-     "won": 7,
-     "drawn": 3,
-     "lost": 1,
-     "gf": 23,
-     "ga": 13,
-     "points": 24,
      "gd": 10,
      "rank": 5
     },
@@ -120,14 +120,14 @@
     {
      "id": "133818",
      "name": "Frosinone",
-     "played": 11,
+     "played": 12,
      "won": 6,
      "drawn": 2,
-     "lost": 3,
-     "gf": 24,
-     "ga": 15,
+     "lost": 4,
+     "gf": 25,
+     "ga": 20,
      "points": 20,
-     "gd": 9,
+     "gd": 5,
      "rank": 7
     },
     {
@@ -150,11 +150,24 @@
      "won": 5,
      "drawn": 3,
      "lost": 4,
-     "gf": 16,
-     "ga": 14,
+     "gf": 17,
+     "ga": 15,
      "points": 18,
      "gd": 2,
      "rank": 9
+    },
+    {
+     "id": "133675",
+     "name": "Genoa",
+     "played": 12,
+     "won": 5,
+     "drawn": 1,
+     "lost": 6,
+     "gf": 13,
+     "ga": 16,
+     "points": 16,
+     "gd": -3,
+     "rank": 10
     },
     {
      "id": "134783",
@@ -167,19 +180,6 @@
      "ga": 17,
      "points": 16,
      "gd": -7,
-     "rank": 10
-    },
-    {
-     "id": "134782",
-     "name": "Atalanta",
-     "played": 11,
-     "won": 4,
-     "drawn": 2,
-     "lost": 5,
-     "gf": 17,
-     "ga": 20,
-     "points": 14,
-     "gd": -3,
      "rank": 11
     },
     {
@@ -196,16 +196,16 @@
      "rank": 12
     },
     {
-     "id": "133675",
-     "name": "Genoa",
+     "id": "134782",
+     "name": "Atalanta",
      "played": 12,
      "won": 4,
      "drawn": 2,
      "lost": 6,
-     "gf": 11,
-     "ga": 16,
+     "gf": 18,
+     "ga": 22,
      "points": 14,
-     "gd": -5,
+     "gd": -4,
      "rank": 13
     },
     {
@@ -235,19 +235,6 @@
      "rank": 15
     },
     {
-     "id": "133701",
-     "name": "Sassuolo",
-     "played": 12,
-     "won": 2,
-     "drawn": 3,
-     "lost": 7,
-     "gf": 16,
-     "ga": 29,
-     "points": 9,
-     "gd": -13,
-     "rank": 16
-    },
-    {
      "id": "135728",
      "name": "Parma",
      "played": 12,
@@ -258,6 +245,19 @@
      "ga": 22,
      "points": 8,
      "gd": -12,
+     "rank": 16
+    },
+    {
+     "id": "133701",
+     "name": "Sassuolo",
+     "played": 12,
+     "won": 2,
+     "drawn": 2,
+     "lost": 8,
+     "gf": 16,
+     "ga": 31,
+     "points": 8,
+     "gd": -15,
      "rank": 17
     },
     {
@@ -280,8 +280,8 @@
      "won": 1,
      "drawn": 3,
      "lost": 8,
-     "gf": 12,
-     "ga": 25,
+     "gf": 13,
+     "ga": 26,
      "points": 6,
      "gd": -13,
      "rank": 19
@@ -302,13 +302,13 @@
    ]
   },
   "standing": {
-   "rank": 5,
-   "points": 24,
-   "played": 11,
-   "won": 7,
+   "rank": 4,
+   "points": 27,
+   "played": 12,
+   "won": 8,
    "drawn": 3,
    "lost": 1,
-   "gd": 10
+   "gd": 14
   }
  },
  "prayers": {
