@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T15:14:55+00:00",
+ "updated": "2026-11-23T16:21:03+00:00",
  "config": {
   "city_ar": "الدوحة",
   "timezone": "Asia/Qatar",
@@ -8,14 +8,14 @@
  },
  "news": [
   {
-   "title": "\"كوب 31\".. قرارات تقنية وخلافات تعطل التوافق بين الدول",
-   "link": "https://www.aljazeera.net/science/2026/11/23/%d9%83%d9%88%d8%a8-31-%d9%82%d8%b1%d8%a7%d8%b1%d8%a7%d8%aa-%d8%aa%d9%82%d9%86%d9%8a%d8%a9-%d9%88%d8%ae%d9%84%d8%a7%d9%81%d8%a7%d8%aa-%d8%aa%d8%b9%d8%b7%d9%84?traffic_source=rss",
-   "time": "2026-11-23T12:08:06+00:00"
+   "title": "قفزة في دخول العمال المهاجرين لإسبانيا خلال حكم سانشيز",
+   "link": "https://www.aljazeera.net/ebusiness/2026/11/23/%d9%82%d9%81%d8%b2%d8%a9-%d9%81%d9%8a-%d8%af%d8%ae%d9%88%d9%84-%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%84-%d8%a7%d9%84%d9%85%d9%87%d8%a7%d8%ac%d8%b1%d9%8a%d9%86?traffic_source=rss",
+   "time": "2026-11-23T13:06:53+00:00"
   },
   {
-   "title": "لقطة صادمة في إندونيسيا.. مدافع يحمل منافسه ويلقي به خارج الملعب",
-   "link": "https://www.aljazeera.net/sport/2026/11/23/%d9%84%d9%82%d8%b7%d8%a9-%d8%b5%d8%a7%d8%af%d9%85%d8%a9-%d9%81%d9%8a-%d8%a5%d9%86%d8%af%d9%88%d9%86%d9%8a%d8%b3%d9%8a%d8%a7-%d9%85%d8%af%d8%a7%d9%81%d8%b9-%d9%8a%d8%ad%d9%85%d9%84?traffic_source=rss",
-   "time": "2026-11-23T11:59:19+00:00"
+   "title": "ما بعد إنفيديا.. الصين تغيّر قواعد الصراع على الذكاء الاصطناعي",
+   "link": "https://www.aljazeera.net/tech/2026/11/23/%d9%85%d8%a7-%d8%a8%d8%b9%d8%af-%d8%a5%d9%86%d9%81%d9%8a%d8%af%d9%8a%d8%a7-%d8%a7%d9%84%d8%b5%d9%8a%d9%86-%d8%aa%d8%ba%d9%8a%d8%b1-%d9%82%d9%88%d8%a7%d8%b9%d8%af?traffic_source=rss",
+   "time": "2026-11-23T13:02:57+00:00"
   }
  ],
  "team": {
@@ -46,7 +46,7 @@
    "time": "2026-11-22T17:00:00+00:00"
   },
   "table": {
-   "updated": "2026-11-23T09:33:21+00:00",
+   "updated": "2026-11-23T16:21:03+00:00",
    "league": "Italian Serie A",
    "season": "2026-2027",
    "size": 20,
