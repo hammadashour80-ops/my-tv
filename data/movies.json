@@ -1,12 +1,12 @@
 {
-"updated": "2026-11-16",
+"updated": "2026-11-23",
 "films": [
 {
 "imdb": "tt0111161",
 "title": "The Shawshank Redemption",
 "year": "1994",
 "rating": 9.3,
-"votes": 3264913,
+"votes": 3267148,
 "minutes": 142,
 "genres": [
 "Drama"
@@ -22,7 +22,7 @@
 "title": "The Godfather",
 "year": "1972",
 "rating": 9.2,
-"votes": 2272484,
+"votes": 2273841,
 "minutes": 175,
 "genres": [
 "Crime",
@@ -39,7 +39,7 @@
 "title": "The Dark Knight",
 "year": "2008",
 "rating": 9.1,
-"votes": 3250707,
+"votes": 3252881,
 "minutes": 152,
 "genres": [
 "Crime",
@@ -56,7 +56,7 @@
 "title": "The Chaos Class",
 "year": "1975",
 "rating": 9.1,
-"votes": 46992,
+"votes": 47024,
 "minutes": 85,
 "genres": [
 "Comedy"
@@ -72,7 +72,7 @@
 "title": "The Lord of the Rings: The Return of the King",
 "year": "2003",
 "rating": 9.0,
-"votes": 2208008,
+"votes": 2209363,
 "minutes": 201,
 "genres": [
 "Adventure",
@@ -90,7 +90,7 @@
 "title": "Schindler's List",
 "year": "1993",
 "rating": 9.0,
-"votes": 1613624,
+"votes": 1614486,
 "minutes": 196,
 "genres": [
 "Biography",
@@ -108,7 +108,7 @@
 "title": "The Godfather Part II",
 "year": "1974",
 "rating": 9.0,
-"votes": 1524056,
+"votes": 1524914,
 "minutes": 202,
 "genres": [
 "Crime",
@@ -116,7 +116,7 @@
 ],
 "rank": 7,
 "title_ar": "العراب: الجزء الثاني",
-"about": "العراب: الجزء الثاني هو فيلم مافيا أمريكي سينيمائي مقتبس من رواية ماريو بوزو العراب 1968 وهو تكملة للجزء الأول من فيلم العرّأب، أخرجه عام 1974 المخرج الأمريكي فرانسيس فورد كوبولا وهو من بطولة آل باتشينو، وروبرت دي نيرو، وروبرت دوفال، وديان كيتون، وجون كازلي، وتاليا شير.",
+"about": "العراب: الجزء الثاني هو فلم مافيا أمريكي سينيمائي مقتبس من رواية ماريو بوزو العراب 1968 وهو تكملة للجزء الأول من فلم العرّأب، أخرجه عام 1974 المخرج الأمريكي فرانسيس فورد كوبولا وهو من بطولة آل باتشينو، وروبرت دي نيرو، وروبرت دوفال، وديان كيتون، وجون كازلي، وتاليا شير.",
 "about_lang": "ar",
 "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Godfather_2_logo.svg/330px-Godfather_2_logo.svg.png?utm_source=ar.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
 },
@@ -125,7 +125,7 @@
 "title": "12 Angry Men",
 "year": "1957",
 "rating": 9.0,
-"votes": 1012110,
+"votes": 1012984,
 "minutes": 96,
 "genres": [
 "Crime",
@@ -142,7 +142,7 @@
 "title": "You Can See Everything",
 "year": "2026",
 "rating": 9.0,
-"votes": 33924,
+"votes": 40300,
 "minutes": 174,
 "genres": [
 "Biography",
@@ -160,7 +160,7 @@
 "title": "The Lord of the Rings: The Fellowship of the Ring",
 "year": "2001",
 "rating": 8.9,
-"votes": 2252463,
+"votes": 2254050,
 "minutes": 178,
 "genres": [
 "Adventure",
@@ -178,7 +178,7 @@
 "title": "Attack on Titan: The Last Attack",
 "year": "2024",
 "rating": 8.9,
-"votes": 40716,
+"votes": 41045,
 "minutes": 144,
 "genres": [
 "Action",
@@ -196,7 +196,7 @@
 "title": "David Attenborough: A Life on Our Planet",
 "year": "2020",
 "rating": 8.9,
-"votes": 36552,
+"votes": 36567,
 "minutes": 83,
 "genres": [
 "Biography",
@@ -213,7 +213,7 @@
 "title": "Inception",
 "year": "2010",
 "rating": 8.8,
-"votes": 2889701,
+"votes": 2891836,
 "minutes": 148,
 "genres": [
 "Adventure",
@@ -222,7 +222,7 @@
 ],
 "rank": 13,
 "title_ar": "استهلال",
-"about": "استهلال فلم خيال علمي وحركة صدر سنة 2010، من كتابة وإخراج كريستوفر نولان الذي شارك في الإنتاج إلى جانب زوجته إيما توماس. الفيلم من بطولة ليوناردو دي كابريو في دور لصٍّ محترف يسرق المعلومات عبر التسلل إلى العقل الباطن لأهدافه.",
+"about": "استهلال فلم خيال علمي وحركة صدر سنة 2010، من كتابة وإخراج كريستوفر نولان الذي شارك في الإنتاج إلى جانب زوجته إيما توماس. الفلم من بطولة ليوناردو دي كابريو في دور لصٍّ محترف يسرق المعلومات عبر التسلل إلى العقل الباطن لأهدافه.",
 "about_lang": "ar",
 "poster": null
 },
@@ -231,7 +231,7 @@
 "title": "Fight Club",
 "year": "1999",
 "rating": 8.8,
-"votes": 2683725,
+"votes": 2685894,
 "minutes": 139,
 "genres": [
 "Crime",
@@ -249,7 +249,7 @@
 "title": "Forrest Gump",
 "year": "1994",
 "rating": 8.8,
-"votes": 2553318,
+"votes": 2554899,
 "minutes": 142,
 "genres": [
 "Drama",
@@ -266,7 +266,7 @@
 "title": "Pulp Fiction",
 "year": "1994",
 "rating": 8.8,
-"votes": 2483573,
+"votes": 2484922,
 "minutes": 154,
 "genres": [
 "Crime",
@@ -283,7 +283,7 @@
 "title": "The Lord of the Rings: The Two Towers",
 "year": "2002",
 "rating": 8.8,
-"votes": 1997101,
+"votes": 1998382,
 "minutes": 179,
 "genres": [
 "Adventure",
@@ -301,7 +301,7 @@
 "title": "The Good, the Bad and the Ugly",
 "year": "1966",
 "rating": 8.8,
-"votes": 906866,
+"votes": 907380,
 "minutes": 178,
 "genres": [
 "Adventure",
@@ -310,7 +310,7 @@
 ],
 "rank": 18,
 "title_ar": "الطيب والشرير والقبيح",
-"about": "الطيب والشرير والقبيح و هو فيلم إيطالي من نوع سباغيتي وسترن صدر في عام 1966 وهو من إخراج سرجيو ليون وبطولة كلينت إيستوود و‌لي فان كليف و‌إيلاي والاك بدور الطيب والشرير والقبيح على التوالي. سيناريو الفيلم كتبه أيج وسكاربيلي وسرجيو ليون و‌لوتشيانو فينشينزوني، مبني على قصة من تأليف ليون وفينشينزوني.",
+"about": "الطيب والشرير والقبيح و هو فلم إيطالي من نوع سباغيتي وسترن صدر في عام 1966 وهو من إخراج سرجيو ليون وبطولة كلينت إيستوود و‌لي فان كليف و‌إيلاي والاك بدور الطيب والشرير والقبيح على التوالي. سيناريو الفلم كتبه أيج وسكاربيلي وسرجيو ليون و‌لوتشيانو فينشينزوني، مبني على قصة من تأليف ليون وفينشينزوني.",
 "about_lang": "ar",
 "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Il_buono%2C_il_brutto%2C_il_cattivo.png/330px-Il_buono%2C_il_brutto%2C_il_cattivo.png?utm_source=ar.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
 },
@@ -319,7 +319,7 @@
 "title": "Mirror Game",
 "year": "2016",
 "rating": 8.8,
-"votes": 31230,
+"votes": 31234,
 "minutes": 147,
 "genres": [
 "Crime",
@@ -337,7 +337,7 @@
 "title": "Tosun Pasha",
 "year": "1976",
 "rating": 8.8,
-"votes": 26850,
+"votes": 26867,
 "minutes": 90,
 "genres": [
 "Comedy",
@@ -354,7 +354,7 @@
 "title": "Interstellar",
 "year": "2014",
 "rating": 8.7,
-"votes": 2634427,
+"votes": 2637300,
 "minutes": 169,
 "genres": [
 "Adventure",
@@ -371,7 +371,7 @@
 "title": "The Matrix",
 "year": "1999",
 "rating": 8.7,
-"votes": 2294151,
+"votes": 2295595,
 "minutes": 136,
 "genres": [
 "Action",
@@ -388,7 +388,7 @@
 "title": "Star Wars: Episode V - The Empire Strikes Back",
 "year": "1980",
 "rating": 8.7,
-"votes": 1533386,
+"votes": 1534240,
 "minutes": 124,
 "genres": [
 "Adventure",
@@ -406,7 +406,7 @@
 "title": "GoodFellas",
 "year": "1990",
 "rating": 8.7,
-"votes": 1423839,
+"votes": 1424787,
 "minutes": 145,
 "genres": [
 "Biography",
@@ -415,25 +415,8 @@
 ],
 "rank": 24,
 "title_ar": "الأصدقاء الطيبون",
-"about": "الأصدقاء الطيبون هو فيلم جريمة وسيرة ذاتية أمريكي صدر عام 1990، أخرجه مارتن سكورسيزي وكتب السيناريو بالاشتراك مع نيكولاس بيليجي، وأنتجه إروين وينكلر. والفيلم مقتبس من كتاب بيليجي غير الروائي وايزغاي، الصادر عام 1985.",
+"about": "الأصدقاء الطيبون هو فلم جريمة وسيرة ذاتية أمريكي صدر عام 1990، أخرجه مارتن سكورسيزي وكتب السيناريو بالاشتراك مع نيكولاس بيليجي، وأنتجه إروين وينكلر. والفلم مقتبس من كتاب بيليجي غير الروائي وايزغاي، الصادر عام 1985.",
 "about_lang": "ar",
-"poster": null
-},
-{
-"imdb": "tt23849204",
-"title": "12th Fail",
-"year": "2023",
-"rating": 8.7,
-"votes": 179863,
-"minutes": 147,
-"genres": [
-"Biography",
-"Drama"
-],
-"rank": 25,
-"title_ar": null,
-"about": "12th Fail is a 2023 Indian Hindi-language biographical drama film directed, produced and written by Vidhu Vinod Chopra, and jointly written and edited by Chopra and Jaskunwar Kohli.",
-"about_lang": "en",
 "poster": null
 },
 {
@@ -441,14 +424,14 @@
 "title": "Punjab '95",
 "year": "2026",
 "rating": 8.7,
-"votes": 107054,
+"votes": 107089,
 "minutes": 169,
 "genres": [
 "Biography",
 "Crime",
 "Drama"
 ],
-"rank": 26,
+"rank": 25,
 "title_ar": null,
 "about": "Satluj is a 2026 Indian  biographical drama film directed by Honey Trehan and jointly produced by Ronnie Screwvala, Abhishek Chaubey and Trehan through RSVP Movies and MacGuffin Pictures respectively. The film is based on the life of the human rights activist Jaswant Singh Khalra.",
 "about_lang": "en",
@@ -459,14 +442,14 @@
 "title": "Kill Bill: The Whole Bloody Affair",
 "year": "2004",
 "rating": 8.7,
-"votes": 69736,
+"votes": 70700,
 "minutes": 253,
 "genres": [
 "Action",
 "Crime",
 "Thriller"
 ],
-"rank": 27,
+"rank": 26,
 "title_ar": null,
 "about": "Kill Bill: The Whole Bloody Affair is a 2004 American martial arts film written and directed by Quentin Tarantino. It combines the films Kill Bill: Volume 1 and Kill Bill: Volume 2, which were conceived and produced as a single film, but split in two.",
 "about_lang": "en",
@@ -477,14 +460,14 @@
 "title": "Seven",
 "year": "1995",
 "rating": 8.6,
-"votes": 2077634,
+"votes": 2079404,
 "minutes": 127,
 "genres": [
 "Crime",
 "Drama",
 "Mystery"
 ],
-"rank": 28,
+"rank": 27,
 "title_ar": "سبعة",
 "about": "سبعة هو فيلم جريمة وإثارة أمريكي صدر سنة 1995، من إخراج ديفيد فينشر، وكتابة أندرو كيفن ووكر، ومن بطولة براد بيت، ومورغان فريمان، مع جوينيث بالترو، وجون مغينلي في الأدوار الداعمة.",
 "about_lang": "ar",
@@ -495,14 +478,14 @@
 "title": "The Silence of the Lambs",
 "year": "1991",
 "rating": 8.6,
-"votes": 1766705,
+"votes": 1767952,
 "minutes": 118,
 "genres": [
 "Crime",
 "Drama",
 "Horror"
 ],
-"rank": 29,
+"rank": 28,
 "title_ar": "صمت الحملان",
 "about": "صمت الحملان هو فيلم إثارة ورعب نفسي أمريكي صدر عام 1991 من إخراج جوناثان ديم، ومن بطولة أنتوني هوبكنز بدور «هانيبال ليكتير» والذي حصل على جائزة الأوسكار لأفضل ممثل عن دوره في هذا الفيلم. وشاركته الممثلة جودي فوستر في دور «كلاريس ستارلينغ» والتي حصلت بدورها على جائزة الأوسكار لأفضل ممثلة.",
 "about_lang": "ar",
@@ -513,13 +496,13 @@
 "title": "Saving Private Ryan",
 "year": "1998",
 "rating": 8.6,
-"votes": 1673102,
+"votes": 1674084,
 "minutes": 169,
 "genres": [
 "Drama",
 "War"
 ],
-"rank": 30,
+"rank": 29,
 "title_ar": "إنقاذ الجندي رايان",
 "about": "إنقاذ الجندي رايان فيلم أمريكي إنتاج عام 1998 من إخراج ستيفن سبيلبرغ وبطولة توم هانكس، الفيلم حائز على جائزة الأوسكار 1998 لأفضل مخرج، تدور أحداث الفيلم في فترة الحرب العالمية الثانية حول عملية انقاذ تقوم بها مجموعة صغيرة يرأسها النقيب جون ميلر للعثور على المجند رايان لإعادته إلى الوطن بعد مقتل 3 من أشقائه في نفس الحرب الدائرة.",
 "about_lang": "ar",
@@ -530,14 +513,14 @@
 "title": "Star Wars: Episode IV - A New Hope",
 "year": "1977",
 "rating": 8.6,
-"votes": 1598138,
+"votes": 1598956,
 "minutes": 121,
 "genres": [
 "Action",
 "Adventure",
 "Fantasy"
 ],
-"rank": 31,
+"rank": 30,
 "title_ar": "حرب النجوم",
 "about": "حرب النجوم الفيلم (لاحقاً أعيد تسميته إلى حرب النجوم الجزء الرابع: امل جديد) هو فيلم أوبرا فضاء ملحمي صدر عام 1977، الفيلم هو الأول في سلسلة افلام أفلام أوبرا فضاء ملحمية تدعي حرب النجوم من ابتكار جورج لوكاس. السلسلة الرئيسية مكونة من ثلاث ثلاثيات، بالإضافة إلى أفلام ملحقة.",
 "about_lang": "ar",
@@ -548,14 +531,14 @@
 "title": "The Green Mile",
 "year": "1999",
 "rating": 8.6,
-"votes": 1597584,
+"votes": 1598613,
 "minutes": 189,
 "genres": [
 "Crime",
 "Drama",
 "Fantasy"
 ],
-"rank": 32,
+"rank": 31,
 "title_ar": "الميل الأخضر",
 "about": "الميل الأخضر فلم أمريكي إنتاج عام 1999 إخراج فرانك دارابونت مأخوذ من قصة بنفس الاسم ل ستيفن كينج وبطولة توم هانكس ومايكل كلارك دنكان.",
 "about_lang": "ar",
@@ -566,14 +549,14 @@
 "title": "Terminator 2: Judgment Day",
 "year": "1991",
 "rating": 8.6,
-"votes": 1310795,
+"votes": 1311611,
 "minutes": 137,
 "genres": [
 "Action",
 "Adventure",
 "Sci-Fi"
 ],
-"rank": 33,
+"rank": 32,
 "title_ar": "ترمنايتور 2: جادجمنت داي",
 "about": "المبيد 2: يوم الحساب هو فيلم حركة وخيال علمي أمريكي من تأليف وإنتاج وإخراج جيمس كاميرون. الفيلم من بطولة آرنولد شوارزنيجر وليندا هاميلتون وروبرت باتريك وإدوارد فورلونغ. هو الإصدار الثاني ضمن سلسلة المبيد متمم لفيلم سنة 1984 المبيد.",
 "about_lang": "ar",
@@ -584,12 +567,12 @@
 "title": "One Flew Over the Cuckoo's Nest",
 "year": "1975",
 "rating": 8.6,
-"votes": 1173959,
+"votes": 1174603,
 "minutes": 133,
 "genres": [
 "Drama"
 ],
-"rank": 34,
+"rank": 33,
 "title_ar": "أحدهم طار فوق عش الوقواق",
 "about": "أحدهم طار فوق عش الوقواق هو فلم دراما أمريكي صدر عام 1975، من إخراج ميلوش فورمان، مبنيّ على رواية تحمل نفس الاسم من تأليف كين كيسي، والفلم من بطولة جاك نيكلسون، لويز فليتشر، وويل سامبسون. وشارك في التمثيل أيضًا كل من: وليام ريدفليك، براد دوريف، داني ديفيتو، كرستوفر لويد وسكاتمان كروذرس.",
 "about_lang": "ar",
@@ -600,14 +583,14 @@
 "title": "Spirited Away",
 "year": "2001",
 "rating": 8.6,
-"votes": 993755,
+"votes": 994494,
 "minutes": 124,
 "genres": [
 "Adventure",
 "Animation",
 "Family"
 ],
-"rank": 35,
+"rank": 34,
 "title_ar": "المخطوفة",
 "about": "المخطوفة و هو فلم رسوم متحركة ياباني أنتج عام 2001 من إخراج هاياو ميازاكي فيما قام بتنفيذ الرسوم الكرتونية إستدويو غيبلي، فاز بجائزة الأوسكار لأفضل فلم صور متحركة عام 2002.وحقق أكبر إيرادات في تاريخ السينما في اليابان متفوقاً على فلم تايتانك كما يحتل الفلم المرتبة الثانية في أكثر أفلام الأنمي ذخلا على الإطلاق بعد فلم اسمك\nحاز الفلم على العديد من الجوائز، بما في ذلك ثاني جائزة أوسكار لأفضل فلم رسوم",
 "about_lang": "ar",
@@ -618,13 +601,13 @@
 "title": "City of God",
 "year": "2002",
 "rating": 8.6,
-"votes": 887443,
+"votes": 887999,
 "minutes": 130,
 "genres": [
 "Crime",
 "Drama"
 ],
-"rank": 36,
+"rank": 35,
 "title_ar": "مدينة الرب",
 "about": "مدينة الرب هو فيلم جريمة تم إنتاجه في البرازيل سنة 2002، وتم اصدراه عالميا في 2003. والفيلم من إخراج فرناندو ميريليس، وبطولة اليكساندر رودريغيز ولياندرو فيرمينو ودوغلاس سيلفا وأليس براغا. قصة الفيلم مأخوذة من رواية تحمل نفس الاسم أُصدرت عام 1997، وأحداثه مشابهة لأحداث حصلت في الواقع.",
 "about_lang": "ar",
@@ -635,16 +618,16 @@
 "title": "Life Is Beautiful",
 "year": "1997",
 "rating": 8.6,
-"votes": 827975,
+"votes": 828447,
 "minutes": 116,
 "genres": [
 "Comedy",
 "Drama",
 "Romance"
 ],
-"rank": 37,
+"rank": 36,
 "title_ar": "لا فيتا إي بيلا",
-"about": "الحياة جميلة هو فيلم باللغة الإيطالية لعام 1997 يحكي قصة يهودي إيطالي غيدو أورفيتشي، الذي يجب أن يوظف خياله الخصب لمساعدة عائلته خلال اعتقالهم في معسكر اعتقال نازي.",
+"about": "الحياة جميلة هو فلم باللغة الإيطالية لعام 1997 يحكي قصة يهودي إيطالي غيدو أورفيتشي، الذي يجب أن يوظف خياله الخصب لمساعدة عائلته خلال اعتقالهم في معسكر اعتقال نازي.",
 "about_lang": "ar",
 "poster": null
 },
@@ -653,14 +636,14 @@
 "title": "It's a Wonderful Life",
 "year": "1946",
 "rating": 8.6,
-"votes": 563401,
+"votes": 563812,
 "minutes": 130,
 "genres": [
 "Drama",
 "Family",
 "Fantasy"
 ],
-"rank": 38,
+"rank": 37,
 "title_ar": "إنها حياة رائعة",
 "about": "إنها حياة رائعة هو فيلم دراما أمريكي من أفلام عيد الميلاد صدر في 1946، من إنتاج وإخراج فرانك كابرا. الفيلم مقتبس من قصة «الهدية الأعظم» من تأليف فيليب فان دورين ستيرن من عام 1939. يعتبر هذا الفيلم أحد أشهر الأفلام المحبوبة في السينما الأمريكية، وأصبح من أكثر الأفلام مشاهدة في فصل عيد الميلاد في نهاية كل عام.",
 "about_lang": "ar",
@@ -671,13 +654,13 @@
 "title": "Seven Samurai",
 "year": "1954",
 "rating": 8.6,
-"votes": 407928,
+"votes": 408178,
 "minutes": 207,
 "genres": [
 "Action",
 "Drama"
 ],
-"rank": 39,
+"rank": 38,
 "title_ar": "الساموراي السبعة",
 "about": "الساموراي السبعة هو فلم أكشن ساموراي ملحمي ياباني صدر سنة 1954، شارك في كتابته، وحرره، وأخرجه أكيرا كوروساوا. تدور أحداث الفلم في عام 1586 في فترة سينغوكو من التاريخ الياباني، ويتتبع قصة قرية من المزارعين اليائسين الذين يسعون إلى استئجار الساموراي لمحاربة قطاع الطرق الذين سيعودون بعد الحصاد لسرقة محاصيلهم.",
 "about_lang": "ar",
@@ -688,16 +671,33 @@
 "title": "Jai Bhim",
 "year": "2021",
 "rating": 8.6,
-"votes": 237473,
+"votes": 237567,
 "minutes": 164,
 "genres": [
 "Crime",
 "Drama"
 ],
-"rank": 40,
+"rank": 39,
 "title_ar": "جاي بهيم",
 "about": "جاي بهيم هو فيلم دراما هندي باللغة التاميلية من بطولة سورايا،تم عرض الفيلم على منصة برايم فيديو في 5 أغسطس 2021.",
 "about_lang": "ar",
+"poster": null
+},
+{
+"imdb": "tt23849204",
+"title": "12th Fail",
+"year": "2023",
+"rating": 8.6,
+"votes": 180065,
+"minutes": 147,
+"genres": [
+"Biography",
+"Drama"
+],
+"rank": 40,
+"title_ar": null,
+"about": "12th Fail is a 2023 Indian Hindi-language biographical drama film directed, produced and written by Vidhu Vinod Chopra, and jointly written and edited by Chopra and Jaskunwar Kohli.",
+"about_lang": "en",
 "poster": null
 },
 {
@@ -705,7 +705,7 @@
 "title": "Soorarai Pottru",
 "year": "2020",
 "rating": 8.6,
-"votes": 133544,
+"votes": 133597,
 "minutes": 153,
 "genres": [
 "Drama"
@@ -721,7 +721,7 @@
 "title": "Harakiri",
 "year": "1962",
 "rating": 8.6,
-"votes": 95627,
+"votes": 95791,
 "minutes": 133,
 "genres": [
 "Drama",
@@ -734,34 +734,17 @@
 "poster": null
 },
 {
-"imdb": "tt24082438",
-"title": "20 Days in Mariupol",
-"year": "2023",
-"rating": 8.6,
-"votes": 66141,
-"minutes": 97,
-"genres": [
-"Documentary",
-"War"
-],
-"rank": 43,
-"title_ar": "20 يوما في ماريوبول",
-"about": "20 يومًا في ماريوبول هو فيلم وثائقي صدر عام 2023 من إنتاج مشترك بين أسوشيتد برس وقناة فرونتلاين الأمريكية. أخرجه الصحفي والمصور الأوكراني ميتسلاف تشيرنوف، ويعرض الفيلم الأحداث التي وقعت خلال الأيام الأولى من حصار ماريوبول من قبل القوات الروسية أثناء الغزو الروسي لأوكرانيا في عام 2022.",
-"about_lang": "ar",
-"poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/20_jours_%C3%A0_Marioupol.webp/330px-20_jours_%C3%A0_Marioupol.webp?utm_source=ar.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-},
-{
 "imdb": "tt9263550",
 "title": "Rocketry: The Nambi Effect",
 "year": "2022",
 "rating": 8.6,
-"votes": 62997,
+"votes": 63022,
 "minutes": 157,
 "genres": [
 "Biography",
 "Drama"
 ],
-"rank": 44,
+"rank": 43,
 "title_ar": "صناعة الصواريخ: تأثير نامبي",
 "about": "صناعة الصواريخ: تأثير نامبي هو فيلم درامي سيرة ذاتية هندي أصدر سنة 2022، من تأليف وإنتاج وإخراج مادهافان في أول تجربة إخراجية. يعتمد الفيلم على حياة نامبي نارايانان، الذي يلعب دوره مادهافان، وهو عالم في منظمة أبحاث الفضاء الهندية اتُهم في قضية تجسس ثم تمت تبرئته لاحقًا.",
 "about_lang": "ar",
@@ -772,17 +755,35 @@
 "title": "777 Charlie",
 "year": "2022",
 "rating": 8.6,
-"votes": 49148,
+"votes": 49186,
 "minutes": 164,
 "genres": [
 "Adventure",
 "Comedy",
 "Drama"
 ],
-"rank": 45,
+"rank": 44,
 "title_ar": null,
 "about": "777 Charlie is a 2022 Indian Kannada-language adventure drama film written and directed by Kiranraj K. and produced by Paramvah Studios. It stars Charlie, a Labrador dog in the title role, and Rakshit Shetty alongside Sangeetha Sringeri, Raj B. Shetty, Danish Sait, Bobby Simha and Aniruddh Roy.",
 "about_lang": "en",
+"poster": null
+},
+{
+"imdb": "tt2056785",
+"title": "Wildwood",
+"year": "2026",
+"rating": 8.6,
+"votes": 32669,
+"minutes": 130,
+"genres": [
+"Adventure",
+"Animation",
+"Fantasy"
+],
+"rank": 45,
+"title_ar": "وايلدوود",
+"about": "وايلدوود فلم رسوم متحركة فنتازي أمريكي صدر عام 2026. أخرجه وأنتجه ترافيس نايت، وكتب كريس باتلر سيناريوه عن رواية وايلدوود لكولن ميلوي وكارسون إليس.",
+"about_lang": "ar",
 "poster": null
 },
 {
@@ -790,7 +791,7 @@
 "title": "Anbe Sivam",
 "year": "2003",
 "rating": 8.6,
-"votes": 28834,
+"votes": 28864,
 "minutes": 160,
 "genres": [
 "Adventure",
@@ -804,35 +805,17 @@
 "poster": null
 },
 {
-"imdb": "tt2056785",
-"title": "Wildwood",
-"year": "2026",
-"rating": 8.6,
-"votes": 28590,
-"minutes": 130,
-"genres": [
-"Adventure",
-"Animation",
-"Fantasy"
-],
-"rank": 47,
-"title_ar": "وايلدوود",
-"about": "وايلدوود فلم رسوم متحركة فنتازي أمريكي صدر عام 2026. أخرجه وأنتجه ترافيس نايت، وكتب كريس باتلر سيناريوه عن رواية وايلدوود لكولن ميلوي وكارسون إليس.",
-"about_lang": "ar",
-"poster": null
-},
-{
 "imdb": "tt0093603",
 "title": "Nayakan",
 "year": "1987",
 "rating": 8.6,
-"votes": 28440,
+"votes": 28466,
 "minutes": 145,
 "genres": [
 "Crime",
 "Drama"
 ],
-"rank": 48,
+"rank": 47,
 "title_ar": null,
 "about": "Nayakan is a 1987 Indian Tamil-language epic crime drama film directed by Mani Ratnam who wrote the screenplay, with dialogues by Balakumaran. Produced by Muktha Films, the film stars Kamal Haasan and Saranya Ponvannan, with Karthika, Janagaraj, Vijayan, M. V.",
 "about_lang": "en",
@@ -843,13 +826,13 @@
 "title": "Django Unchained",
 "year": "2012",
 "rating": 8.5,
-"votes": 1926764,
+"votes": 1927937,
 "minutes": 165,
 "genres": [
 "Drama",
 "Western"
 ],
-"rank": 49,
+"rank": 48,
 "title_ar": "جانغو الحر",
 "about": "جانغو الحر أو «جانغو المتحرر من القيود» هو فيلم غرب أمريكي من كتابة وإخراج كوينتن تارانتينو. الفيلم من بطولة جيمي فوكس وكريستوف والتز وليوناردو دي كابريو وصامويل ل. جاكسون وكيري واشنطن. صدر الفيلم في 25 ديسمبر 2012 في أمريكا الشمالية.",
 "about_lang": "ar",
@@ -860,14 +843,14 @@
 "title": "Gladiator",
 "year": "2000",
 "rating": 8.5,
-"votes": 1894925,
+"votes": 1896031,
 "minutes": 155,
 "genres": [
 "Action",
 "Adventure",
 "Drama"
 ],
-"rank": 50,
+"rank": 49,
 "title_ar": "المجالد",
 "about": "المجالد، يعرف أيضا باسم المبارز أو المحارب أو بالنقحرة: غلاديايتر، هو فيلم درامي تاريخي ملحمي صدر عام 2000 من إخراج ريدلي سكوت وكتبه ديفيد فرانزوني وجون لوجان وويليام نيكولسون. أُنتج الفيلم وأُصدر بواسطة دريم ووركس ويونيفرسال بيكشرز.",
 "about_lang": "ar",
@@ -878,14 +861,14 @@
 "title": "The Prestige",
 "year": "2006",
 "rating": 8.5,
-"votes": 1641429,
+"votes": 1642952,
 "minutes": 130,
 "genres": [
 "Drama",
 "Mystery",
 "Sci-Fi"
 ],
-"rank": 51,
+"rank": 50,
 "title_ar": "العظمة",
 "about": "العَظَمة فلم خيال علمي وإثارة نفسية صدر عام 2006، أخرجه كريستوفر نولان عن سيناريو كتبه بالاشتراك مع شقيقه جوناثان نولان، ويستند إلى رواية العظمة الصادرة عام 1995 للكاتب كريستوفر بريست.",
 "about_lang": "ar",
@@ -896,14 +879,14 @@
 "title": "The Departed",
 "year": "2006",
 "rating": 8.5,
-"votes": 1590485,
+"votes": 1591528,
 "minutes": 151,
 "genres": [
 "Crime",
 "Drama",
 "Thriller"
 ],
-"rank": 52,
+"rank": 51,
 "title_ar": "المغادرون",
 "about": "المغادرون هو فيلم نيو-نوار وجريمة وإثارة صدر عام 2006، من إخراج مارتن سكورسيزي وكتابة وليم موناهان. وهو إعادة إنتاج للفيلم الهونغ كونغي شؤون جهنمية الصادر عام 2002، كما استلهم بعض عناصره من علاقة زعيم الجريمة وايتي بولغر بعميل مكتب التحقيقات الفيدرالي جون كونولي.",
 "about_lang": "ar",
@@ -914,14 +897,14 @@
 "title": "Back to the Future",
 "year": "1985",
 "rating": 8.5,
-"votes": 1487705,
+"votes": 1488737,
 "minutes": 116,
 "genres": [
 "Adventure",
 "Comedy",
 "Sci-Fi"
 ],
-"rank": 53,
+"rank": 52,
 "title_ar": "العودة إلى المستقبل",
 "about": "العودة إلى المستقبل، هو فيلم خيال علمي ومغامرة وكوميديا أمريكي أنتج سنة 1985 من إخراج روبرت زيميكس الذي كتبه مع بوب غيل. الفيلم من بطولة مايكل جي فوكس وكرستوفر لويد. حقق الفيلم نجاح تجاري كبير ولاقى استحسان النقاد. أدى النجاح التجاري للفيلم إلى إنتاج العودة إلى المستقبل 2 والعودة إلى المستقبل 3.",
 "about_lang": "ar",
@@ -932,14 +915,14 @@
 "title": "Léon: The Professional",
 "year": "1994",
 "rating": 8.5,
-"votes": 1373498,
+"votes": 1374249,
 "minutes": 110,
 "genres": [
 "Action",
 "Crime",
 "Drama"
 ],
-"rank": 54,
+"rank": 53,
 "title_ar": "ليون: المحترف",
 "about": "ليون: المحترف هو فيلم إثارة، دراما وجريمة فرنسي أنتج عام 1994 من كتابة وإخراج لوك بيسون، ومن بطولة جان رينو وغاري أولدمان وكان الظهور الأول للممثّلة ناتالي بورتمان.",
 "about_lang": "ar",
@@ -950,13 +933,13 @@
 "title": "American History X",
 "year": "1998",
 "rating": 8.5,
-"votes": 1293207,
+"votes": 1293829,
 "minutes": 119,
 "genres": [
 "Crime",
 "Drama"
 ],
-"rank": 55,
+"rank": 54,
 "title_ar": "التاريخ الأمريكي إكس",
 "about": "هو فيلم أمريكي من إنتاج عام 1998 من إخراج توني كاي وآلان سميثي وبطولة إدوارد نورتون وإدوارد فورلونغ.",
 "about_lang": "ar",
@@ -967,14 +950,14 @@
 "title": "The Lion King",
 "year": "1994",
 "rating": 8.5,
-"votes": 1285688,
+"votes": 1286487,
 "minutes": 88,
 "genres": [
 "Adventure",
 "Animation",
 "Drama"
 ],
-"rank": 56,
+"rank": 55,
 "title_ar": "الأسد الملك",
 "about": "الأسد الملك هو فيلم رسوم متحركة موسيقي درامي انتجته شركة والت ديزني للرسوم المتحركة وأصدرته والت ديزني بيكتشرز. هو فيلم الرسوم المتحركة الطويل رقم 32 الذي تنتجه شركة ديزني، وخامس فيلم رسوم متحركة يُنتج خلال الفترة المعروفة بـ«عصر نهضة ديزني».",
 "about_lang": "ar",
@@ -985,14 +968,14 @@
 "title": "The Usual Suspects",
 "year": "1995",
 "rating": 8.5,
-"votes": 1262525,
+"votes": 1263285,
 "minutes": 106,
 "genres": [
 "Crime",
 "Drama",
 "Mystery"
 ],
-"rank": 57,
+"rank": 56,
 "title_ar": "المشتبه بهم المعتادون",
 "about": "المشتبه بهم المعتادين هو فيلم جريمة أمريكي من إخراج براين سينجر وكتابة كريستوفر ماك كويري ومن بطولة ستيفن بالدوين، غابريل بيرن، بينيشيو ديل تورو، شاز بالمينتري، كيفين بولك، بيتي بوستليتوايت وكيفين سبيسي.",
 "about_lang": "ar",
@@ -1003,13 +986,13 @@
 "title": "Parasite",
 "year": "2019",
 "rating": 8.5,
-"votes": 1209164,
+"votes": 1210429,
 "minutes": 132,
 "genres": [
 "Drama",
 "Thriller"
 ],
-"rank": 58,
+"rank": 57,
 "title_ar": "طفيلي",
 "about": "طُفيلي هو فيلم كوميديا سوداء وإثارة كوري جنوبي صدر عام 2019 من إخراج بونغ جون هو الذي شارك في كتابة السيناريو مع هان جين-وون وشارك في الإنتاج.",
 "about_lang": "ar",
@@ -1020,13 +1003,13 @@
 "title": "Whiplash",
 "year": "2014",
 "rating": 8.5,
-"votes": 1192939,
+"votes": 1194096,
 "minutes": 106,
 "genres": [
 "Drama",
 "Music"
 ],
-"rank": 59,
+"rank": 58,
 "title_ar": "ويبلاش",
 "about": "ويبلاش هو فيلم دراما من تأليف وإخراج داميان تشازل. الفيلم من بطولة مايلز تيلر بدور قارع طبول الجاز يرتاد واحدة من أفضل المدارس الموسيقية في الولايات المتحدة تحت إدارة مايسترو المدرسة المخيف. الفيلم مأخوذ عن فيلم قصير بنفس الاسم كتبه وأخرجه داميان تشازل.",
 "about_lang": "ar",
@@ -1037,13 +1020,13 @@
 "title": "The Intouchables",
 "year": "2011",
 "rating": 8.5,
-"votes": 1049042,
+"votes": 1049678,
 "minutes": 112,
 "genres": [
 "Comedy",
 "Drama"
 ],
-"rank": 60,
+"rank": 59,
 "title_ar": "المنبوذون",
 "about": "المنبوذون باللغة الفرنسية هو فيلم درامي كوميدي فرنسي بطولة الممثلين فرانسوا كلوزيه بدور فيليب وعمر سي بدور إدريس. الفلم مبني على قصة حقيقية لفيليب الرجل الغني المشلول الذي يملك ثروة طائلة يقوم باستئجار إدريس الشخص الفقير الذي يعيش على إعانات الضمان الاجتماعي ليقوم برعايته والعناية به.",
 "about_lang": "ar",
@@ -1054,14 +1037,14 @@
 "title": "The Pianist",
 "year": "2002",
 "rating": 8.5,
-"votes": 1031979,
+"votes": 1032646,
 "minutes": 150,
 "genres": [
 "Biography",
 "Drama",
 "Music"
 ],
-"rank": 61,
+"rank": 60,
 "title_ar": "عازف البيانو",
 "about": "عازف البيانو هو فيلم من نوع الدراما التاريخية صدر عام 2002، من إخراج رومان بولانيسكي وتأليف رونالد هاورد، وبطولة أدريان برودي. الفيلم مأخوذ عن كتاب يحمل نفس الاسم لعازف البيانو البولندي اليهودي فلاديسلاف شبيلمان.",
 "about_lang": "ar",
@@ -1072,14 +1055,14 @@
 "title": "Psycho",
 "year": "1960",
 "rating": 8.5,
-"votes": 800111,
+"votes": 800594,
 "minutes": 109,
 "genres": [
 "Drama",
 "Horror",
 "Mystery"
 ],
-"rank": 62,
+"rank": 61,
 "title_ar": "سايكو",
 "about": "سايكو هو فيلم رعب نفسي أمريكي صدر سنة 1960، من إنتاج وإخراج ألفريد هتشكوك. استند السيناريو الذي كتبه جوزيف ستيفانو إلى رواية للكاتب الأمريكي روبرت بلوخ تحمل الاسم نفسه وصدرت عام 1959. الفيلم من بطولة أنتوني بركنز، وجانيت لي، وفيرا مايلز، وجون غافن، ومارتن بلسم.",
 "about_lang": "ar",
@@ -1090,14 +1073,14 @@
 "title": "Casablanca",
 "year": "1942",
 "rating": 8.5,
-"votes": 664333,
+"votes": 664692,
 "minutes": 102,
 "genres": [
 "Drama",
 "Romance",
 "War"
 ],
-"rank": 63,
+"rank": 62,
 "title_ar": "كازبلانكا",
 "about": "كازبلانكا هو فيلم رومانسي صدر عام 1942 خلال الحرب العالمية الثانية، في مدينة الدار البيضاء، المغرب. الفيلم من إخراج مايكل كورتيز، ومن بطولة همفري بوغارت ممثلاً شخصية ريك بلين، وإنغريد بيرغمان ممثلة شخصية إيلسا لوند.",
 "about_lang": "ar",
@@ -1108,14 +1091,14 @@
 "title": "Spider-Man: Across the Spider-Verse",
 "year": "2023",
 "rating": 8.5,
-"votes": 562685,
+"votes": 563563,
 "minutes": 140,
 "genres": [
 "Action",
 "Adventure",
 "Animation"
 ],
-"rank": 64,
+"rank": 63,
 "title_ar": "سبايدر-مان: عبر عالم العنكبوت",
 "about": "الرجل العنكبوت: عبر عالم العنكبوت هو فلم رسوم متحركة وأبطال خارقين أمريكي صدر عام 2023، مبني على شخصية مايلز موراليس / سبايدرمان من قصص مارفل المصورة. أُنتج الفيلم بواسطة كولومبيا بيكتشرز وسوني بيكتشرز أنيميشن بالتعاون مع مارفل إنترتينمنت، ووزعته سوني بيكتشرز ريليسينغ.",
 "about_lang": "ar",
@@ -1126,14 +1109,14 @@
 "title": "Grave of the Fireflies",
 "year": "1988",
 "rating": 8.5,
-"votes": 401414,
+"votes": 401927,
 "minutes": 88,
 "genres": [
 "Animation",
 "Drama",
 "War"
 ],
-"rank": 65,
+"rank": 64,
 "title_ar": "قبر اليراعات",
 "about": "قبر اليراعات (باليابانية: و فيلم رسوم متحركة ياباني أنتج عام 1988 من إخراج إيزاو تاكاهاتا فيما قام بتنفيذ الرسوم الكرتونية استوديو جيبلي.",
 "about_lang": "ar",
@@ -1144,15 +1127,15 @@
 "title": "Once Upon a Time in the West",
 "year": "1968",
 "rating": 8.5,
-"votes": 389467,
+"votes": 389661,
 "minutes": 145,
 "genres": [
 "Drama",
 "Western"
 ],
-"rank": 66,
+"rank": 65,
 "title_ar": "حدث ذات مرة في الغرب",
-"about": "حدث ذات مرة في الغرب هو فيلم ملحمي شهير من أفلام الغرب الأمريكي من نوعية الوسترن سباجيتي، أخرجه الإيطالي سرجيو ليوني عام 1968 ليكون رابع أفلامه في هذه النوعية. الفيلم من بطولة هنري فوندا بدور الشرير فرانك وتشارلز برونسون بدور عدوه هارمونيكا وجيسون روباردس بدور اللص شايان وكلاوديا كاردينالي بدور الأرملة جيل مكباين.",
+"about": "حدث ذات مرة في الغرب هو فلم ملحمي شهير من أفلام الغرب الأمريكي من نوعية الوسترن سباجيتي، أخرجه الإيطالي سرجيو ليوني عام 1968 ليكون رابع أفلامه في هذه النوعية. الفلم من بطولة هنري فوندا بدور الشرير فرانك وتشارلز برونسون بدور عدوه هارمونيكا وجيسون روباردس بدور اللص شايان وكلاوديا كاردينالي بدور الأرملة جيل مكباين.",
 "about_lang": "ar",
 "poster": null
 },
@@ -1161,15 +1144,15 @@
 "title": "Cinema Paradiso",
 "year": "1988",
 "rating": 8.5,
-"votes": 322919,
+"votes": 323173,
 "minutes": 174,
 "genres": [
 "Drama",
 "Romance"
 ],
-"rank": 67,
+"rank": 66,
 "title_ar": "سينما باراديزو الجديدة",
-"about": "سينما باراديزو الجديدة، فيلم إيطالي، أنتج عام 1988، كتبه وأخرجه جوزيبي تورناتوري. وزع عالميا باسم سينما بارديسو، في كل من المملكة المتحدة، فرنسا، إسبانيا وأمريكا. عرض الفيلم الأصلي بإيطاليا كاملا بطول 155 دقيقة، لكنه اختصر للعرض الدولي إلى 123 دقيقة.",
+"about": "سينما باراديزو الجديدة، فلم إيطالي، أنتج عام 1988، كتبه وأخرجه جوزيبي تورناتوري. وزع عالميا باسم سينما بارديسو، في كل من المملكة المتحدة، فرنسا، إسبانيا وأمريكا. عرض الفلم الأصلي بإيطاليا كاملا بطول 155 دقيقة، لكنه اختصر للعرض الدولي إلى 123 دقيقة.",
 "about_lang": "ar",
 "poster": null
 },
@@ -1178,14 +1161,14 @@
 "title": "Modern Times",
 "year": "1936",
 "rating": 8.5,
-"votes": 289201,
+"votes": 289342,
 "minutes": 87,
 "genres": [
 "Comedy",
 "Drama",
 "Romance"
 ],
-"rank": 68,
+"rank": 67,
 "title_ar": "الأزمنة الحديثة",
 "about": "الأزمنة الحديثة، وهو فيلم كوميدي أمريكي صامت من عام 1936 بطولة تشارلي تشابلن. استغرق العمل به ثلاث سنوات.",
 "about_lang": "ar",
@@ -1196,14 +1179,14 @@
 "title": "City Lights",
 "year": "1931",
 "rating": 8.5,
-"votes": 219242,
+"votes": 219353,
 "minutes": 87,
 "genres": [
 "Comedy",
 "Drama",
 "Romance"
 ],
-"rank": 69,
+"rank": 68,
 "title_ar": "أضواء المدينة",
 "about": "أضواء المدينة هو فيلم كوميدي تم إنتاجه في الولايات المتحدة وصدر في سنة 1931. الفيلم من إخراج تشارلي تشابلن وكتابة تشارلي تشابلن. من بطولة تشارلي تشابلن.",
 "about_lang": "ar",
@@ -1214,25 +1197,42 @@
 "title": "Sita Ramam",
 "year": "2022",
 "rating": 8.5,
-"votes": 86635,
+"votes": 86724,
 "minutes": 163,
 "genres": [
 "Action",
 "Drama",
 "Musical"
 ],
-"rank": 70,
+"rank": 69,
 "title_ar": null,
 "about": "Sita Ramam is a 2022 Indian Telugu-language period romantic drama film directed by Hanu Raghavapudi, who co-wrote the screenplay with Raj Kumar Kandamudi. Produced by C.",
 "about_lang": "en",
 "poster": null
 },
 {
+"imdb": "tt24082438",
+"title": "20 Days in Mariupol",
+"year": "2023",
+"rating": 8.5,
+"votes": 66186,
+"minutes": 97,
+"genres": [
+"Documentary",
+"War"
+],
+"rank": 70,
+"title_ar": "20 يوما في ماريوبول",
+"about": "20 يومًا في ماريوبول هو فيلم وثائقي صدر عام 2023 من إنتاج مشترك بين أسوشيتد برس وقناة فرونتلاين الأمريكية. أخرجه الصحفي والمصور الأوكراني ميتسلاف تشيرنوف، ويعرض الفيلم الأحداث التي وقعت خلال الأيام الأولى من حصار ماريوبول من قبل القوات الروسية أثناء الغزو الروسي لأوكرانيا في عام 2022.",
+"about_lang": "ar",
+"poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/20_jours_%C3%A0_Marioupol.webp/330px-20_jours_%C3%A0_Marioupol.webp?utm_source=ar.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+},
+{
 "imdb": "tt34365591",
 "title": "Mahavatar Narsimha",
 "year": "2024",
 "rating": 8.5,
-"votes": 49382,
+"votes": 49425,
 "minutes": 130,
 "genres": [
 "Action",
@@ -1241,7 +1241,7 @@
 ],
 "rank": 71,
 "title_ar": null,
-"about": "Mahavatar Narsimha is a 2024 Indian animated epic action film directed by Ashwin Kumar in his directorial debut, written by Jayapurna Das and produced by Kleem Productions.",
+"about": "Mahavatar Narsimha is a 2024 Indian animated epic mythological action film  directed by Ashwin Kumar in his directorial debut, written by Jayapurna Das and produced by Kleem Productions.",
 "about_lang": "en",
 "poster": null
 },
@@ -1250,7 +1250,7 @@
 "title": "Dear Zachary: A Letter to a Son About His Father",
 "year": "2008",
 "rating": 8.5,
-"votes": 47233,
+"votes": 47289,
 "minutes": 95,
 "genres": [
 "Biography",
@@ -1268,7 +1268,7 @@
 "title": "Baraka",
 "year": "1992",
 "rating": 8.5,
-"votes": 43704,
+"votes": 43726,
 "minutes": 96,
 "genres": [
 "Documentary"
@@ -1284,7 +1284,7 @@
 "title": "Jersey",
 "year": "2019",
 "rating": 8.5,
-"votes": 30943,
+"votes": 30979,
 "minutes": 157,
 "genres": [
 "Drama",
@@ -1301,7 +1301,7 @@
 "title": "Meiyazhagan",
 "year": "2024",
 "rating": 8.5,
-"votes": 25151,
+"votes": 25251,
 "minutes": 177,
 "genres": [
 "Drama",
@@ -1318,7 +1318,7 @@
 "title": "The Dark Knight Rises",
 "year": "2012",
 "rating": 8.4,
-"votes": 2038697,
+"votes": 2039951,
 "minutes": 164,
 "genres": [
 "Crime",
@@ -1335,7 +1335,7 @@
 "title": "Inglourious Basterds",
 "year": "2009",
 "rating": 8.4,
-"votes": 1830461,
+"votes": 1831801,
 "minutes": 153,
 "genres": [
 "Drama",
@@ -1343,7 +1343,7 @@
 ],
 "rank": 77,
 "title_ar": "أوغاد مجهولون",
-"about": "أوغاد مجهولون هو فيلم حرب أُنتج عام 2009 من تأليف وإخراج كوينتن تارانتينو ويقوم ببطولته براد بيت وكريستوف فالتز وميلاني لوران.",
+"about": "أوغاد مجهولون هو فلم حرب أُنتج عام 2009 من تأليف وإخراج كوينتن تارانتينو ويقوم ببطولته براد بيت وكريستوف فالتز وميلاني لوران.",
 "about_lang": "ar",
 "poster": null
 },
@@ -1352,7 +1352,7 @@
 "title": "Avengers: Endgame",
 "year": "2019",
 "rating": 8.4,
-"votes": 1508394,
+"votes": 1510596,
 "minutes": 186,
 "genres": [
 "Action",
@@ -1360,9 +1360,9 @@
 "Sci-Fi"
 ],
 "rank": 78,
-"title_ar": null,
-"about": "Avengers Endgame: Encore is the 2026 re-release of Avengers: Endgame, a 2019 American superhero film produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures. Endgame was originally re-released in 2019.",
-"about_lang": "en",
+"title_ar": "المنتقمون: نهاية اللعبة",
+"about": "المنتقمون: نهاية اللعبة فلم أبطال خارقين أمريكي صدر عام 2019، يستند إلى فريق المنتقمين من قصص مارفل المصوّرة. أنتجته استوديوهات مارفل ووزّعته والت ديزني ستوديوز موشن بيكتشرز، ويُعدّ تكملة مباشرة لفلم المنتقمون: الحرب اللانهائية، والإصدار الثاني والعشرين ضمن عالم مارفل السينمائي.",
+"about_lang": "ar",
 "poster": null
 },
 {
@@ -1370,7 +1370,7 @@
 "title": "Memento",
 "year": "2000",
 "rating": 8.4,
-"votes": 1467201,
+"votes": 1468103,
 "minutes": 113,
 "genres": [
 "Mystery",
@@ -1387,7 +1387,7 @@
 "title": "Avengers: Infinity War",
 "year": "2018",
 "rating": 8.4,
-"votes": 1424523,
+"votes": 1426031,
 "minutes": 149,
 "genres": [
 "Action",
@@ -1405,7 +1405,7 @@
 "title": "WALL·E",
 "year": "2008",
 "rating": 8.4,
-"votes": 1349996,
+"votes": 1350858,
 "minutes": 98,
 "genres": [
 "Adventure",
@@ -1423,7 +1423,7 @@
 "title": "The Shining",
 "year": "1980",
 "rating": 8.4,
-"votes": 1254186,
+"votes": 1255124,
 "minutes": 146,
 "genres": [
 "Drama",
@@ -1440,7 +1440,7 @@
 "title": "Good Will Hunting",
 "year": "1997",
 "rating": 8.4,
-"votes": 1253809,
+"votes": 1254923,
 "minutes": 126,
 "genres": [
 "Drama",
@@ -1457,7 +1457,7 @@
 "title": "Raiders of the Lost Ark",
 "year": "1981",
 "rating": 8.4,
-"votes": 1125844,
+"votes": 1126357,
 "minutes": 115,
 "genres": [
 "Adventure"
@@ -1473,7 +1473,7 @@
 "title": "Alien",
 "year": "1979",
 "rating": 8.4,
-"votes": 1083553,
+"votes": 1084145,
 "minutes": 117,
 "genres": [
 "Horror",
@@ -1490,7 +1490,7 @@
 "title": "Aliens",
 "year": "1986",
 "rating": 8.4,
-"votes": 852736,
+"votes": 853151,
 "minutes": 137,
 "genres": [
 "Action",
@@ -1508,7 +1508,7 @@
 "title": "Spider-Man: Into the Spider-Verse",
 "year": "2018",
 "rating": 8.4,
-"votes": 824846,
+"votes": 825686,
 "minutes": 117,
 "genres": [
 "Action",
@@ -1526,7 +1526,7 @@
 "title": "Dune: Part Two",
 "year": "2024",
 "rating": 8.4,
-"votes": 806427,
+"votes": 808202,
 "minutes": 166,
 "genres": [
 "Action",
@@ -1544,7 +1544,7 @@
 "title": "Apocalypse Now",
 "year": "1979",
 "rating": 8.4,
-"votes": 782184,
+"votes": 782609,
 "minutes": 147,
 "genres": [
 "Drama",
@@ -1552,17 +1552,17 @@
 "War"
 ],
 "rank": 89,
-"title_ar": "القيامة الآن",
-"about": "القيامة الآن هو فيلم حربي أمريكي صدر عام 1979، وتدور أحداثه خلال حرب فيتنام. يروي الفيلم حكاية بنجامين إل. ويلارد النقيب في الجيش الأمريكي الذي يُرسل في مهمة خاصة إلى الأدغال ليغتال العقيد في القوات الخاصة للجيش الأمريكي والتر أي. كرتز الذي ادُعي أنه مجنون. يعرض الفيلم رحلة إلى ظلمة النفس البشرية.",
-"about_lang": "ar",
-"poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Apocalypse_Now_logo.svg/330px-Apocalypse_Now_logo.svg.png?utm_source=ar.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+"title_ar": null,
+"about": "Apocalypse Now Redux is a 2001 American extended version of Francis Ford Coppola's 1979 film Apocalypse Now. Coppola, along with editor and longtime collaborator Walter Murch, added 49 minutes of material that had been removed from the initial theatrical release. It is a significant re-edit of the original version.",
+"about_lang": "en",
+"poster": null
 },
 {
 "imdb": "tt2380307",
 "title": "Coco",
 "year": "2017",
 "rating": 8.4,
-"votes": 735306,
+"votes": 736116,
 "minutes": 105,
 "genres": [
 "Adventure",
@@ -1576,16 +1576,34 @@
 "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Disney%27s_Coco_logo.png/330px-Disney%27s_Coco_logo.png?utm_source=ar.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
 },
 {
+"imdb": "tt33764258",
+"title": "The Odyssey",
+"year": "2026",
+"rating": 8.4,
+"votes": 585220,
+"minutes": 172,
+"genres": [
+"Action",
+"Adventure",
+"Drama"
+],
+"rank": 91,
+"title_ar": "الأوديسة",
+"about": "الأوديسة هو فلم فنتازيا وحركة ملحمي صدر عام 2026، كتبه وأخرجه كريستوفر نولان، وشارك في إنتاجه مع زوجته إيما توماس من خلال شركة سينكوبي.",
+"about_lang": "ar",
+"poster": null
+},
+{
 "imdb": "tt10811166",
 "title": "The Kashmir Files",
 "year": "2022",
 "rating": 8.4,
-"votes": 580357,
+"votes": 580390,
 "minutes": 170,
 "genres": [
 "Drama"
 ],
-"rank": 91,
+"rank": 92,
 "title_ar": "ملفات كشمير",
 "about": "ملفات كشمير هو فيلم دراما تم إنتاجه في الهند وصدر سنة 2022 من إخراج فيفيك اجنيهوتري وبطولة ميتون شاكرابورتي وأنوبام خير.",
 "about_lang": "ar",
@@ -1596,43 +1614,25 @@
 "title": "Rear Window",
 "year": "1954",
 "rating": 8.4,
-"votes": 576948,
+"votes": 577234,
 "minutes": 112,
 "genres": [
 "Drama",
 "Mystery",
 "Thriller"
 ],
-"rank": 92,
+"rank": 93,
 "title_ar": "النافذة الخلفية",
 "about": "النافذة الخلفية هو فيلم أنتج عام 1954، من إخراج ألفريد هتشكوك، رُشح لجائزة أفضل مخرج في مهرجان الاوسكار، الفيلم مقتبس عن قصة قصيرة لكورنيل وولريش بعنوان. الفيلم من بطولة جيمس ستيوارت، غريس كيلي، ثيلما ريتر.",
 "about_lang": "ar",
 "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Rearwindow_trailer_3.jpg/330px-Rearwindow_trailer_3.jpg?utm_source=ar.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
 },
 {
-"imdb": "tt33764258",
-"title": "The Odyssey",
-"year": "2026",
-"rating": 8.4,
-"votes": 566637,
-"minutes": 172,
-"genres": [
-"Action",
-"Adventure",
-"Drama"
-],
-"rank": 93,
-"title_ar": "الأوديسة",
-"about": "الأوديسة هو فلم فنتازيا وحركة ملحمي صدر عام 2026، كتبه وأخرجه كريستوفر نولان، وشارك في إنتاجه مع زوجته إيما توماس من خلال شركة سينكوبي.",
-"about_lang": "ar",
-"poster": null
-},
-{
 "imdb": "tt1187043",
 "title": "3 Idiots",
 "year": "2009",
 "rating": 8.4,
-"votes": 492790,
+"votes": 493110,
 "minutes": 170,
 "genres": [
 "Comedy",
@@ -1645,18 +1645,36 @@
 "poster": null
 },
 {
+"imdb": "tt0086879",
+"title": "Amadeus",
+"year": "1984",
+"rating": 8.4,
+"votes": 476202,
+"minutes": 160,
+"genres": [
+"Biography",
+"Drama",
+"Music"
+],
+"rank": 95,
+"title_ar": "أماديوس",
+"about": "أماديوس، هو فيلم موسيقي من إنتاج عام 1984 من إخراج ميلوش فورمان. والقصة مبنية على رواية الكاتب بيتر شافر والتي تحكي قصة حياة فولفغانغ أماديوس موتسارت وأنتونيو سياليري، الموسيقاران اللذان عاشا في فيينا، النمسا خلال النصف الأخير من القرن الثامن عشر.",
+"about_lang": "ar",
+"poster": null
+},
+{
 "imdb": "tt0405094",
 "title": "The Lives of Others",
 "year": "2006",
 "rating": 8.4,
-"votes": 449109,
+"votes": 449334,
 "minutes": 137,
 "genres": [
 "Drama",
 "Mystery",
 "Thriller"
 ],
-"rank": 95,
+"rank": 96,
 "title_ar": "حياة الآخرين",
 "about": "حياة الآخرين فيلم ألماني، صدر في 2006 وحصل على جائزة الأوسكار لأفضل فيلم بلغة أجنبية، كما رُشح لجائزة الغولدن غلوب لأفضل فيلم بلغة أجنبية وحصل على عشرة من الجوائز العالمية.",
 "about_lang": "ar",
@@ -1667,14 +1685,14 @@
 "title": "Your Name.",
 "year": "2016",
 "rating": 8.4,
-"votes": 410260,
+"votes": 410780,
 "minutes": 106,
 "genres": [
 "Animation",
 "Drama",
 "Fantasy"
 ],
-"rank": 96,
+"rank": 97,
 "title_ar": "اسمك.",
 "about": "اسمك هو فلم أنمي ياباني صدر عام 2016 من كتابة وإخراج ماكوتو شينكاي بالتعاون مع أستوديو CoMix Wave Films، ومن إنتاج نوريتاكا كاواغوشي وجينكي كاوامورا. الفلم مقتبس عن رواية شينكاي التي تحمل نفس الاسم والتي صدرت قبل شهر واحد من عرض الفلم.",
 "about_lang": "ar",
@@ -1685,13 +1703,13 @@
 "title": "Sunset Boulevard",
 "year": "1950",
 "rating": 8.4,
-"votes": 265145,
+"votes": 265299,
 "minutes": 110,
 "genres": [
 "Drama",
 "Film-Noir"
 ],
-"rank": 97,
+"rank": 98,
 "title_ar": "سانسيت بوليفارد",
 "about": "سانسيت بوليفارد فيلم نوار أمريكي صدر في عام 1950 من بطولة غلوريا سوانسون وويليام هولدن و من إخراج وتأليف بيلي وايلدر , الفيلم رشح لأحدى عشر جائزة من جوائز أوسكار وفاز بثلاثة جوائز هي : , غالبا مايعد الفيلم كونه أحد أفضل إنتاجات السينما الأمريكية، في عام 1989 أعتبرت مكتبة الكونغرس الفيلم بأنه «مهم من الناحية الثقافية والتاريخية والجمالية» واختير للحفظ في سجل الفيلم الوطني , في عام 1998 وضع الفيلم ب",
 "about_lang": "ar",
@@ -1702,14 +1720,14 @@
 "title": "The Great Dictator",
 "year": "1940",
 "rating": 8.4,
-"votes": 261441,
+"votes": 261567,
 "minutes": 125,
 "genres": [
 "Comedy",
 "Drama",
 "War"
 ],
-"rank": 98,
+"rank": 99,
 "title_ar": "الدكتاتور العظيم",
 "about": "الدكتاتور العظيم هو فلم كوميدي وسياسي أمريكي من بطولة وإخراج وتأليف تشارلي تشابلن، تم عرضه لأول مرة في 15 أكتوبر عام 1940، ومادة الفيلم هي عبارة عن هجاء ساخر لأدولف هتلر والنازية، وتدور أحداث الفيلم حول حلاق يهودي - يلعب دوره تشارلي تشابلن - يشارك في الحرب العالمية الأولى مع وطنه تومينيا ثم يصاب وبعد سنوات من فقدان الذاكرة في المستشفي يخرج ليصطدم بسيطرة الديكتاتور هينكل على البلد - الذي يؤدي أيضا ",
 "about_lang": "ar",
@@ -1720,13 +1738,13 @@
 "title": "Paths of Glory",
 "year": "1957",
 "rating": 8.4,
-"votes": 244137,
+"votes": 244292,
 "minutes": 88,
 "genres": [
 "Drama",
 "War"
 ],
-"rank": 99,
+"rank": 100,
 "title_ar": "دروب المجد",
 "about": "دروب المجد هو فيلم مناهض للحرب من إخراج ستانلي كوبريك، أحداثه تدور في فترة الحرب العالمية الأولى. القصة مأخوذة من رواية دروب المجد للكاتب والروائي همفري كوب.",
 "about_lang": "ar",
@@ -1737,14 +1755,14 @@
 "title": "Witness for the Prosecution",
 "year": "1957",
 "rating": 8.4,
-"votes": 166057,
+"votes": 166197,
 "minutes": 116,
 "genres": [
 "Crime",
 "Drama",
 "Mystery"
 ],
-"rank": 100,
+"rank": 101,
 "title_ar": "شاهد على المحاكمة",
 "about": "شاهد على المحاكمة هو فيلم دراما تم إنتاجه في الولايات المتحدة وصدر في سنة 1957. الفيلم من إخراج بيلي وايلدر ومستوحى من مسرحية أجاثا كريستي التي تحمل نفس الاسم.",
 "about_lang": "ar",
@@ -1755,12 +1773,12 @@
 "title": "Capernaum",
 "year": "2018",
 "rating": 8.4,
-"votes": 128130,
+"votes": 128246,
 "minutes": 126,
 "genres": [
 "Drama"
 ],
-"rank": 101,
+"rank": 102,
 "title_ar": "كفرناحوم",
 "about": "كفرناحوم هو فيلم دراما لبناني من إخراج نادين لبكي وإنتاج خالد مزنر. السيناريو من تأليف نادين لبكي وجهاد حجيلي وميشيل كيسرواني بالتعاون مع جورج خباز وخالد مزنر. الفيلم من بطولة الممثل السوري زين الرافعي بدور «زين الحاج» الفتى البالغ من العمر 12 عاماً والذي يعيش في أحياء بيروت الفقيرة.",
 "about_lang": "ar",
@@ -1771,14 +1789,14 @@
 "title": "Senna",
 "year": "2010",
 "rating": 8.4,
-"votes": 84682,
+"votes": 84720,
 "minutes": 106,
 "genres": [
 "Biography",
 "Documentary",
 "Sport"
 ],
-"rank": 102,
+"rank": 103,
 "title_ar": null,
 "about": "Senna is a 2010 documentary film that depicts the life and death of Brazilian motor-racing champion Ayrton Senna, directed by Asif Kapadia. The film was produced by StudioCanal, Working Title Films, and Midfield Films, and was distributed by the parent company of the latter two production companies, Universal Pictures.",
 "about_lang": "en",
@@ -1789,14 +1807,14 @@
 "title": "High and Low",
 "year": "1963",
 "rating": 8.4,
-"votes": 74535,
+"votes": 74648,
 "minutes": 143,
 "genres": [
 "Crime",
 "Drama",
 "Mystery"
 ],
-"rank": 103,
+"rank": 104,
 "title_ar": "الجنة والجحيم",
 "about": "الجنة والجحيم هو فلم دراما بوليسية إجرائية ياباني صدر سنة 1963، من إخراج أكيرا كوروساوا الذي شارك في كتابة السيناريو إلى جانب هيديو أوغوني، إيجيرو هيسايتا، وريوزو كيكوشيما استنادًا إلى رواية فدية الملك للكاتب إيفان هنتر، ومن بطولة توشيرو ميفوني، تاتسويا ناكادي، كيوكو كاغاوا، وتاتسويا ميهاشي.",
 "about_lang": "ar",
@@ -1807,14 +1825,14 @@
 "title": "Kaithi",
 "year": "2019",
 "rating": 8.4,
-"votes": 53439,
+"votes": 53523,
 "minutes": 145,
 "genres": [
 "Action",
 "Crime",
 "Thriller"
 ],
-"rank": 104,
+"rank": 105,
 "title_ar": null,
 "about": "Kaithi is a 2019 Indian Tamil-language action thriller film directed by Lokesh Kanagaraj. Produced by Dream Warrior Pictures and  Vivekananda Pictures, it is the first instalment in the Lokesh Cinematic Universe.",
 "about_lang": "en",
@@ -1825,14 +1843,14 @@
 "title": "The Cove",
 "year": "2009",
 "rating": 8.4,
-"votes": 53010,
+"votes": 53019,
 "minutes": 92,
 "genres": [
 "Biography",
 "Crime",
 "Documentary"
 ],
-"rank": 105,
+"rank": 106,
 "title_ar": "الخليج",
 "about": "الخليج فيلم وثائقي عرض أول مرة عام 2009، يتحدث عن قتل دخس في ثقافة اليابان. الفيلم حصل في عام 2010 في مهرجان توزيع جوائز الأوسكار الثاني والثمانين علي جائزة جائزة الأوسكار لأفضل فيلم وثائقي، والفيلم يشجع الجميع لأخد موقف تجاه المجازر التي تحدث للدلافين، وتجاه الممارسات اليابانية تجاه قتل الدلافيين",
 "about_lang": "ar",
@@ -1843,14 +1861,14 @@
 "title": "Drishyam",
 "year": "2013",
 "rating": 8.4,
-"votes": 50203,
+"votes": 50242,
 "minutes": 160,
 "genres": [
 "Crime",
 "Drama",
 "Mystery"
 ],
-"rank": 106,
+"rank": 107,
 "title_ar": null,
 "about": "Drishyam is a 2013 Indian Malayalam-language crime thriller film written and directed by Jeethu Joseph. It stars Mohanlal alongside Meena, Ansiba Hassan, Esther Anil, Kalabhavan Shajohn, Asha Sharath, Siddique, Roshan Basheer and Neeraj Madhav. The film was produced by Antony Perumbavoor under Aashirvad Cinemas.",
 "about_lang": "en",
@@ -1861,13 +1879,13 @@
 "title": "96",
 "year": "2018",
 "rating": 8.4,
-"votes": 47150,
+"votes": 47216,
 "minutes": 158,
 "genres": [
 "Drama",
 "Romance"
 ],
-"rank": 107,
+"rank": 108,
 "title_ar": null,
 "about": "'96 is a 2018 Indian Tamil-language romantic drama film written and directed by C. Prem Kumar in his directorial debut. Produced by S. Nanthagopal of Madras Enterprises, the film was distributed by Lalit Kumar under his banner, Seven Screen Studio.",
 "about_lang": "en",
@@ -1878,14 +1896,14 @@
 "title": "Drishyam 2",
 "year": "2021",
 "rating": 8.4,
-"votes": 46450,
+"votes": 46485,
 "minutes": 152,
 "genres": [
 "Crime",
 "Drama",
 "Mystery"
 ],
-"rank": 108,
+"rank": 109,
 "title_ar": null,
 "about": "Drishyam 2: The Resumption  is a 2021 Indian Malayalam-language crime drama film written and directed by Jeethu Joseph. It was produced by Antony Perumbavoor under the banner of Aashirvad Cinemas.",
 "about_lang": "en",
@@ -1896,13 +1914,13 @@
 "title": "Samsara",
 "year": "2011",
 "rating": 8.4,
-"votes": 40430,
+"votes": 40451,
 "minutes": 102,
 "genres": [
 "Documentary",
 "Music"
 ],
-"rank": 109,
+"rank": 110,
 "title_ar": null,
 "about": "Samsara is a 2011 American non-narrative documentary film of international imagery directed by Ron Fricke and produced by Mark Magidson, who also collaborated on Baraka, a film of a similar vein, and Chronos.",
 "about_lang": "en",
@@ -1913,13 +1931,13 @@
 "title": "Asuran",
 "year": "2019",
 "rating": 8.4,
-"votes": 38078,
+"votes": 38105,
 "minutes": 141,
 "genres": [
 "Action",
 "Drama"
 ],
-"rank": 110,
+"rank": 111,
 "title_ar": null,
 "about": "Asuran is a 2019 Indian Tamil-language period  action drama film directed by Vetrimaaran and produced by Kalaipuli S. Thanu. It is based on the novel Vekkai by Poomani. The film stars Dhanush, along with Manju Warrier, Ken Karunas, and Teejay Arunasalam. G. V. Prakash Kumar composed the film's music.",
 "about_lang": "en",
@@ -1930,14 +1948,14 @@
 "title": "Demon Slayer: Kimetsu no Yaiba - Tsuzumi Mansion Arc",
 "year": "2021",
 "rating": 8.4,
-"votes": 37266,
+"votes": 37295,
 "minutes": 87,
 "genres": [
 "Action",
 "Animation",
 "Fantasy"
 ],
-"rank": 111,
+"rank": 112,
 "title_ar": null,
 "about": "",
 "about_lang": null,
@@ -1948,14 +1966,14 @@
 "title": "Sarpatta Parambarai",
 "year": "2021",
 "rating": 8.4,
-"votes": 29264,
+"votes": 29285,
 "minutes": 173,
 "genres": [
 "Action",
 "Drama",
 "Sport"
 ],
-"rank": 112,
+"rank": 113,
 "title_ar": null,
 "about": "Sarpatta Parambarai is a 2021 Indian Tamil-language sports action drama film directed by Pa. Ranjith. It was produced by him under Neelam Productions and by Shanmugam Dhakshanaraj of K9 Studios. The film stars Arya, John Kokken, Shabeer Kallarakkal, Dushara Vijayan, Pasupathy, Anupama Kumar and Sanchana Natarajan.",
 "about_lang": "en",
@@ -1966,15 +1984,15 @@
 "title": "The Best of Youth",
 "year": "2003",
 "rating": 8.4,
-"votes": 29091,
+"votes": 29135,
 "minutes": 374,
 "genres": [
 "Drama",
 "Romance"
 ],
-"rank": 113,
+"rank": 114,
 "title_ar": "أفضل ما في الشباب",
-"about": "ذا بيست أوف يوث، هو فيلم إيطالي من إخراج ماركو توليو جيوردانا. خُطط لأن يكون مسلسلاً صغيراً من أربعة أجزاء في بادئ الأمر، ثمّ عُرض في مهرجان كان السينمائي لعام 2003 وفاز بجائزة نظرة ما. أُطلق بنسخة تجارية في إيطاليا على شكل فيلم مكوّن من جزأين، يتألف كل جزء منه من ثلاث ساعات؛ إذ أزيل منه 40 دقيقة.",
+"about": "ذا بيست أوف يوث، هو فلم إيطالي من إخراج ماركو توليو جيوردانا. خُطط لأن يكون مسلسلاً صغيراً من أربعة أجزاء في بادئ الأمر، ثمّ عُرض في مهرجان كان السينمائي لعام 2003 وفاز بجائزة نظرة ما. أُطلق بنسخة تجارية في إيطاليا على شكل فلم مكوّن من جزأين، يتألف كل جزء منه من ثلاث ساعات؛ إذ أزيل منه 40 دقيقة.",
 "about_lang": "ar",
 "poster": null
 },
@@ -1983,14 +2001,14 @@
 "title": "Anniyan",
 "year": "2005",
 "rating": 8.4,
-"votes": 27281,
+"votes": 27316,
 "minutes": 181,
 "genres": [
 "Action",
 "Crime",
 "Drama"
 ],
-"rank": 114,
+"rank": 115,
 "title_ar": "أننيان",
 "about": "أننيان هو فيلم أكشن نفسي هندي بلغة التاميل لعام 2005 من تأليف وإخراج س. شانكار وإنتاج رافيشاندران من أفلام آسكار. تركز الحبكة على كل رجل يشعر بخيبة أمل ويؤدي إحباطه مما يراه زيادة اللامبالاة الاجتماعية والإهمال العام إلى انقسام في الشخصية يحاول تصحيح النظام.",
 "about_lang": "ar",
@@ -2001,13 +2019,13 @@
 "title": "Woman in the Dunes",
 "year": "1964",
 "rating": 8.4,
-"votes": 27150,
+"votes": 27223,
 "minutes": 147,
 "genres": [
 "Drama",
 "Thriller"
 ],
-"rank": 115,
+"rank": 116,
 "title_ar": "امرأة في الكثبان",
 "about": "امرأة في الكثبان هو فيلم دراما ياباني صدر عام 1964 من إخراج هيروشي تيشيغاهارا، مستوحى من رواية تحمل نفس الاسم للكاتب كوبو آبي الذي ألف السيناريو بنفسه، الفيلم من بطولة إيجي أوكادا، ووكيوكو كيشيدا. حاز الفيلم على جائزة لجنة التحكيم الخاصة في مهرجان كان السينمائي.",
 "about_lang": "ar",
@@ -2018,14 +2036,14 @@
 "title": "Black Friday",
 "year": "2004",
 "rating": 8.4,
-"votes": 26738,
+"votes": 26751,
 "minutes": 143,
 "genres": [
 "Action",
 "Crime",
 "Drama"
 ],
-"rank": 116,
+"rank": 117,
 "title_ar": null,
 "about": "Black Friday is a 2004 Indian Hindi-language crime drama film written and directed by Anurag Kashyap. Based on Black Friday: The True Story of the Bombay Bomb Blasts, a book by Hussain Zaidi about the 1993 Bombay bombings, it chronicles the events that led to the blasts and the subsequent police investigation.",
 "about_lang": "en",
@@ -2036,14 +2054,14 @@
 "title": "The Salt of the Earth",
 "year": "2014",
 "rating": 8.4,
-"votes": 25637,
+"votes": 25656,
 "minutes": 110,
 "genres": [
 "Biography",
 "Documentary",
 "History"
 ],
-"rank": 117,
+"rank": 118,
 "title_ar": null,
 "about": "The Salt of the Earth is a 2014 internationally co-produced biographical documentary film directed by Wim Wenders and Juliano Ribeiro Salgado. It portrays the works of Salgado's father, the Brazilian photographer Sebastião Salgado.",
 "about_lang": "en",
@@ -2054,14 +2072,14 @@
 "title": "Vada Chennai",
 "year": "2018",
 "rating": 8.4,
-"votes": 25140,
+"votes": 25172,
 "minutes": 164,
 "genres": [
 "Action",
 "Crime",
 "Drama"
 ],
-"rank": 118,
+"rank": 119,
 "title_ar": null,
 "about": "Vada Chennai is a 2018 Indian Tamil-language crime drama film written and directed by Vetrimaaran. Produced by Lyca Productions, Wunderbar Films and Grass Root Film Company, the film stars Dhanush as Anbu, a skilled carrom player who becomes a reluctant participant in a gang war between two rival gangsters.",
 "about_lang": "en",
@@ -2072,13 +2090,13 @@
 "title": "Joker",
 "year": "2019",
 "rating": 8.3,
-"votes": 1737201,
+"votes": 1738348,
 "minutes": 122,
 "genres": [
 "Drama",
 "Thriller"
 ],
-"rank": 119,
+"rank": 120,
 "title_ar": "جوكر",
 "about": "جوكر هو فيلم إثارة نفسية أمريكي صدر سنة 2019 من إخراج وإنتاج تود فيليبس، والذي شارك في كتابة السيناريو مع سكوت سيلفر. الفيلم، والذي يستند إلى شخصية دي سي كومكس بنفس الاسم، قام ببطولته خواكين فينيكس في دور الجوكر.",
 "about_lang": "ar",
@@ -2089,12 +2107,12 @@
 "title": "American Beauty",
 "year": "1999",
 "rating": 8.3,
-"votes": 1292858,
+"votes": 1293348,
 "minutes": 122,
 "genres": [
 "Drama"
 ],
-"rank": 120,
+"rank": 121,
 "title_ar": "جمال أمريكي",
 "about": "الجمال الأمريكي هو فيلم درامي كوميديا سوداء أمريكي صدر 1999 كتبه آلان بول وأخرجه سام مينديز في أول فيلم روائي طويل له. يلعب كيفن سبيسي دور ليستر بيرنهام، وهو مدير تنفيذي للإعلانات يعاني من أزمة منتصف العمر ويصبح مفتونًا بصديقة ابنته المراهقة، التي تلعب دورها مينا سوفاري.",
 "about_lang": "ar",
@@ -2105,14 +2123,14 @@
 "title": "Up",
 "year": "2009",
 "rating": 8.3,
-"votes": 1263586,
+"votes": 1264356,
 "minutes": 96,
 "genres": [
 "Adventure",
 "Animation",
 "Comedy"
 ],
-"rank": 121,
+"rank": 122,
 "title_ar": "فوق",
 "about": "فوق هو فلم مغامرات كوميدي-درامي أمريكي مُحرك حاسوبياً صدر عام 2009. انتجته شركة بيكسار انيميشن ستوديوز وأُصدر بواسطة شركة والت ديزني بيكتشرز.",
 "about_lang": "ar",
@@ -2123,14 +2141,14 @@
 "title": "Star Wars: Episode VI - Return of the Jedi",
 "year": "1983",
 "rating": 8.3,
-"votes": 1229765,
+"votes": 1230408,
 "minutes": 131,
 "genres": [
 "Action",
 "Adventure",
 "Fantasy"
 ],
-"rank": 122,
+"rank": 123,
 "title_ar": "حرب النجوم الجزء السادس: عودة الجيداي",
 "about": "حرب النجوم الجزء السادس: عودة الجيداي هو فيلم صدر عام 1983 للمخرج ريتشارد ماركاند وكتبه جورج لوكاس ولورانس كازدان. وهو الفيلم الثالث الذي يصدر في حرب النجوم والسادس من حيث التسلسل الزمني الداخلي. وهو أيضا أول فيلم يستخدم فيه تكنولوجيا THX.",
 "about_lang": "ar",
@@ -2141,14 +2159,14 @@
 "title": "Toy Story",
 "year": "1995",
 "rating": 8.3,
-"votes": 1207142,
+"votes": 1207934,
 "minutes": 81,
 "genres": [
 "Adventure",
 "Animation",
 "Comedy"
 ],
-"rank": 123,
+"rank": 124,
 "title_ar": "حكاية لعبة",
 "about": "حكاية لعبة هو فلم رسوم متحركة من تصميم شركة بيكسار ومن إنتاج شركة والت ديزني عام 1995.ويعتبر فلم حكاية لعبة أول فلم متكامل صنع بأكمله باستخدام الحاسوب.",
 "about_lang": "ar",
@@ -2159,14 +2177,14 @@
 "title": "Eternal Sunshine of the Spotless Mind",
 "year": "2004",
 "rating": 8.3,
-"votes": 1202770,
+"votes": 1203481,
 "minutes": 108,
 "genres": [
 "Drama",
 "Romance",
 "Sci-Fi"
 ],
-"rank": 124,
+"rank": 125,
 "title_ar": "إشراقة أبدية لعقل نظيف",
 "about": "الإشراقة الأبدية للعقل الطاهر فيلم خيال علمي رومانسي إنتاج 2004 للمخرج الفرنسي ميتشل غوندري ومن بطولة جيم كاري وكيت وينسليت، الفيلم حاصل على جائزة الأوسكار 2005 لأفضل نص سينمائي، كما رُشحت وينسليت لجائزة أفضل ممثلة. يستخدم الفيلم عناصر الإثارة النفسية والسرد غير الخطي لاستكشاف طبيعة الذاكرة والحب الرومانسي.",
 "about_lang": "ar",
@@ -2177,15 +2195,15 @@
 "title": "Braveheart",
 "year": "1995",
 "rating": 8.3,
-"votes": 1177118,
+"votes": 1177607,
 "minutes": 178,
 "genres": [
 "Drama",
 "War"
 ],
-"rank": 125,
+"rank": 126,
 "title_ar": "قلب شجاع",
-"about": "القلب الشجاع أو بريف هارتهو فيلم أمريكي أصدر في 1995، وهو يصور ملحمة وليام والاس الذي قاد المقاومة ضد الإنجليز المحتلين لاسكتلندا إبان حروب استقلال اسكتلندا، قام ميل جيبسون بتأدية دور البطولة وإنتاج وإخراج الفيلم، حصل الفيلم على العديد من جوائز الأوسكار بجميع الفئات، حصل على جائزة الأوسكار لأفضل فيلم، ولفئة أفضل إخراج، ولفئة أفضل مونتاج صوتي، ولفئة أفضل تصوير سينمائي، ولفئة أفضل مكياج وتصفيف شعر.",
+"about": "القلب الشجاع أو بريف هارتهو فلم أمريكي أصدر في 1995، وهو يصور ملحمة وليام والاس الذي قاد المقاومة ضد الإنجليز المحتلين لاسكتلندا إبان حروب استقلال اسكتلندا، قام ميل جيبسون بتأدية دور البطولة وإنتاج وإخراج الفيلم، حصل الفيلم على العديد من جوائز الأوسكار بجميع الفئات، حصل على جائزة الأوسكار لأفضل فيلم، ولفئة أفضل إخراج، ولفئة أفضل مونتاج صوتي، ولفئة أفضل تصوير سينمائي، ولفئة أفضل مكياج وتصفيف شعر.",
 "about_lang": "ar",
 "poster": null
 },
@@ -2194,13 +2212,13 @@
 "title": "Scarface",
 "year": "1983",
 "rating": 8.3,
-"votes": 1042586,
+"votes": 1043317,
 "minutes": 170,
 "genres": [
 "Crime",
 "Drama"
 ],
-"rank": 126,
+"rank": 127,
 "title_ar": "الوجه ذو الندبة",
 "about": "الوجه ذو الندبة افضل فيلم أمريكي أُنتج في 1983، أخرجه براين دي بالما، وكتبه أوليفر ستون، وقام ببطولته آل باتشينو في دور طوني مونتانا وميشيل فايفر يتكلم الفيلم عن اللاجئ الكوبي ومهرب الكوكايين الخيالي. الفيلم مبني بتصرف كبير على سيرة آل كابوني المتخيلة في الفيلم بنفس الاسم الذي صدر في 1932 من بطولة بول ميوني.",
 "about_lang": "ar",
@@ -2211,14 +2229,14 @@
 "title": "Toy Story 3",
 "year": "2010",
 "rating": 8.3,
-"votes": 996685,
+"votes": 997245,
 "minutes": 103,
 "genres": [
 "Adventure",
 "Animation",
 "Comedy"
 ],
-"rank": 127,
+"rank": 128,
 "title_ar": "حكاية لعبة 3",
 "about": "حكاية لعبة 3 هو فيلم كوميدي أمريكي للرسوم المتحركة بالحاسوب أُنتِج عام 2010 بواسطة بيكسار لصالح أفلام والت ديزني. وهو الدفعة الثالثة في امتياز حكاية لعبة، والتكملة لـ حكاية لعبة 2.",
 "about_lang": "ar",
@@ -2229,12 +2247,12 @@
 "title": "Requiem for a Dream",
 "year": "2000",
 "rating": 8.3,
-"votes": 990013,
+"votes": 990609,
 "minutes": 102,
 "genres": [
 "Drama"
 ],
-"rank": 128,
+"rank": 129,
 "title_ar": "مرثية حلم",
 "about": "مرثيّةُ حُلم أو صلاة لراحة حلم هو فيلمٌ نفسيّ دراميّ أمريكي صَدَر في عام 2000، وَهْوَ من إخراج دارن أرونوفسكي وبطولة إلين بورستين وجاريد ليتو وجينيفر كونيلي ومارلون واينز. مأخوذ عن روايةٍ تَحِملُ نفس الاسم للكاتب هيوبرت سيلبي الذي شاركَ أيضاً في كتابةِ النصِّ مع أرونوفسكي.",
 "about_lang": "ar",
@@ -2245,14 +2263,14 @@
 "title": "Heat",
 "year": "1995",
 "rating": 8.3,
-"votes": 824651,
+"votes": 825424,
 "minutes": 170,
 "genres": [
 "Action",
 "Crime",
 "Drama"
 ],
-"rank": 129,
+"rank": 130,
 "title_ar": "حرارة",
 "about": "حرارة هو فيلم جريمة أمريكي صدر في 1995 من تأليف وإخراج مايكل مان وبطولة روبرت دي نيرو وآل باتشينو.",
 "about_lang": "ar",
@@ -2263,13 +2281,13 @@
 "title": "2001: A Space Odyssey",
 "year": "1968",
 "rating": 8.3,
-"votes": 797284,
+"votes": 797893,
 "minutes": 149,
 "genres": [
 "Adventure",
 "Sci-Fi"
 ],
-"rank": 130,
+"rank": 131,
 "title_ar": "2001: أوديسة الفضاء",
 "about": "2001: أوديسة الفضاء هو فيلم خيال علمي من إنتاج أمريكي - بريطاني صدر عام 1968، أنتجه وأخرجه ستانلي كوبريك والذي شارك في كتابة السيناريو إلى جانب آرثر سي كلارك، وقد استوحيت قصة الفيلم جزئيًا من قصة كلارك القصيرة «الحارس». كتب كلارك القصة بالتزامن مع الرواية 2001: أوديسة الفضاء التي صدرت بعد فترة وجيزة من صدور الفيلم.",
 "about_lang": "ar",
@@ -2280,14 +2298,14 @@
 "title": "Oldboy",
 "year": "2003",
 "rating": 8.3,
-"votes": 738681,
+"votes": 739353,
 "minutes": 120,
 "genres": [
 "Action",
 "Drama",
 "Mystery"
 ],
-"rank": 131,
+"rank": 132,
 "title_ar": "الفتى العجوز",
 "about": "الفتى العجوز فيلم غموض أثارة نوار-جديد كوري جنوبي من إخراج بارك تشان ووك. مقتبس من مانغا يابانية تحمل نفس الاسم. وهو ثاني فيلم في ثلاثية الانتقام.",
 "about_lang": "ar",
@@ -2298,13 +2316,13 @@
 "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
 "year": "1964",
 "rating": 8.3,
-"votes": 557116,
+"votes": 557390,
 "minutes": 95,
 "genres": [
 "Comedy",
 "War"
 ],
-"rank": 132,
+"rank": 133,
 "title_ar": "دكتور سترينجلوف",
 "about": "دكتور سترينجلوف هو فيلم كوميدي تم إنتاجه في المملكة المتحدة والولايات المتحدة وصدر في سنة 1964. الفيلم من إخراج ستانلي كوبريك.",
 "about_lang": "ar",
@@ -2315,43 +2333,25 @@
 "title": "Princess Mononoke",
 "year": "1997",
 "rating": 8.3,
-"votes": 494541,
+"votes": 494953,
 "minutes": 133,
 "genres": [
 "Adventure",
 "Animation",
 "Fantasy"
 ],
-"rank": 133,
+"rank": 134,
 "title_ar": "الأميرة مونونوكي",
 "about": "الأميرة مونونوكي فيلم أنمي ياباني من إخراج هاياو ميازاكي ومن إنتاج استوديو غيبلي صدر بتاريخ 12 يوليو 1997 في اليابان، وبتاريخ 29 أكتوبر 1999 في الولايات المتحدة. حصل على المركز السادس في قائمة أفضل عشرة أفلام لعام 1999 التي وضعها الناقد السينمائي روجر إيبرت.",
 "about_lang": "ar",
 "poster": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Princess_Mononoke_logo.png?utm_source=ar.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
 },
 {
-"imdb": "tt0086879",
-"title": "Amadeus",
-"year": "1984",
-"rating": 8.3,
-"votes": 475894,
-"minutes": 160,
-"genres": [
-"Biography",
-"Drama",
-"Music"
-],
-"rank": 134,
-"title_ar": "أماديوس",
-"about": "أماديوس، هو فيلم موسيقي من إنتاج عام 1984 من إخراج ميلوش فورمان. والقصة مبنية على رواية الكاتب بيتر شافر والتي تحكي قصة حياة فولفغانغ أماديوس موتسارت وأنتونيو سياليري، الموسيقاران اللذان عاشا في فيينا، النمسا خلال النصف الأخير من القرن الثامن عشر.",
-"about_lang": "ar",
-"poster": null
-},
-{
 "imdb": "tt2106476",
 "title": "The Hunt",
 "year": "2012",
 "rating": 8.3,
-"votes": 422783,
+"votes": 423247,
 "minutes": 115,
 "genres": [
 "Drama"
@@ -2367,7 +2367,7 @@
 "title": "Once Upon a Time in America",
 "year": "1984",
 "rating": 8.3,
-"votes": 414304,
+"votes": 414552,
 "minutes": 229,
 "genres": [
 "Crime",
@@ -2375,7 +2375,7 @@
 ],
 "rank": 136,
 "title_ar": "حدث ذات مرة في أمريكا",
-"about": "حدث ذات مرة في أمريكا فيلم أمريكي هو الأخير من إخراج سرجيو ليون من بطولة روبرت دي نيرو عام 1984 إضافة لجيمس وودز كشاب غيتو يهودي نشأ في عالم نيويورك سيتي للجريمة المنظمة، ويكشف الفيلم موضوع صداقات الطفولة والحب والشهوة والجشع والخيانة والخسارة، والعلاقات المقطوعة، وظهور عصابات في المجتمع الأميركي.",
+"about": "حدث ذات مرة في أمريكا فلم أمريكي هو الأخير من إخراج سرجيو ليون من بطولة روبرت دي نيرو عام 1984 إضافة لجيمس وودز كشاب غيتو يهودي نشأ في عالم نيويورك سيتي للجريمة المنظمة، ويكشف الفلم موضوع صداقات الطفولة والحب والشهوة والجشع والخيانة والخسارة، والعلاقات المقطوعة، وظهور عصابات في المجتمع الأميركي.",
 "about_lang": "ar",
 "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/C%27era_una_volta_in_America.png/330px-C%27era_una_volta_in_America.png?utm_source=ar.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
 },
@@ -2384,7 +2384,7 @@
 "title": "Lawrence of Arabia",
 "year": "1962",
 "rating": 8.3,
-"votes": 348340,
+"votes": 348632,
 "minutes": 227,
 "genres": [
 "Adventure",
@@ -2402,7 +2402,7 @@
 "title": "Das Boot",
 "year": "1981",
 "rating": 8.3,
-"votes": 291729,
+"votes": 291862,
 "minutes": 149,
 "genres": [
 "Drama",
@@ -2419,7 +2419,7 @@
 "title": "Singin' in the Rain",
 "year": "1952",
 "rating": 8.3,
-"votes": 287340,
+"votes": 287524,
 "minutes": 103,
 "genres": [
 "Comedy",
@@ -2437,7 +2437,7 @@
 "title": "A Separation",
 "year": "2011",
 "rating": 8.3,
-"votes": 281736,
+"votes": 281873,
 "minutes": 123,
 "genres": [
 "Drama"
@@ -2453,7 +2453,7 @@
 "title": "Incendies",
 "year": "2010",
 "rating": 8.3,
-"votes": 263227,
+"votes": 263663,
 "minutes": 131,
 "genres": [
 "Drama",
@@ -2471,7 +2471,7 @@
 "title": "Dangal",
 "year": "2016",
 "rating": 8.3,
-"votes": 250317,
+"votes": 250612,
 "minutes": 161,
 "genres": [
 "Action",
@@ -2489,7 +2489,7 @@
 "title": "Like Stars on Earth",
 "year": "2007",
 "rating": 8.3,
-"votes": 237853,
+"votes": 238055,
 "minutes": 162,
 "genres": [
 "Drama",
@@ -2506,7 +2506,7 @@
 "title": "The Apartment",
 "year": "1960",
 "rating": 8.3,
-"votes": 224444,
+"votes": 224613,
 "minutes": 125,
 "genres": [
 "Comedy",
@@ -2524,7 +2524,7 @@
 "title": "M",
 "year": "1931",
 "rating": 8.3,
-"votes": 185272,
+"votes": 185376,
 "minutes": 99,
 "genres": [
 "Crime",
@@ -2542,7 +2542,7 @@
 "title": "Double Indemnity",
 "year": "1944",
 "rating": 8.3,
-"votes": 184189,
+"votes": 184310,
 "minutes": 107,
 "genres": [
 "Crime",
@@ -2560,7 +2560,7 @@
 "title": "Hamilton",
 "year": "2020",
 "rating": 8.3,
-"votes": 144215,
+"votes": 144364,
 "minutes": 160,
 "genres": [
 "Biography",
@@ -2578,7 +2578,7 @@
 "title": "Dil Bechara",
 "year": "2020",
 "rating": 8.3,
-"votes": 139268,
+"votes": 139316,
 "minutes": 101,
 "genres": [
 "Comedy",
@@ -2592,36 +2592,18 @@
 "poster": null
 },
 {
-"imdb": "tt10295212",
-"title": "Shershaah",
-"year": "2021",
-"rating": 8.3,
-"votes": 138022,
-"minutes": 135,
-"genres": [
-"Action",
-"Biography",
-"Drama"
-],
-"rank": 149,
-"title_ar": "شيرشاه",
-"about": "تم عرض فيلم شيرشاه الهندي عام 2012 على منصة أوتيتي، من إخراج فيشنوفردهان وكتابة سانديب شريفستافا. تستند قصة الفيلم على حياة كابتين فيكرام باترا، الحائز على جائزة بارام فير شقرا. من إنتاج نيرمن دهراما برودكشن وكاش إنرتيمنت.",
-"about_lang": "ar",
-"poster": null
-},
-{
 "imdb": "tt0091251",
 "title": "Come and See",
 "year": "1985",
 "rating": 8.3,
-"votes": 128172,
+"votes": 128381,
 "minutes": 142,
 "genres": [
 "Drama",
 "Thriller",
 "War"
 ],
-"rank": 150,
+"rank": 149,
 "title_ar": null,
 "about": "Come and See is a 1985 Soviet epic historical anti-war film directed by Elem Klimov and starring Aleksei Kravchenko and Olga Mironova.",
 "about_lang": "en",
@@ -2632,12 +2614,12 @@
 "title": "Ikiru",
 "year": "1952",
 "rating": 8.3,
-"votes": 104741,
+"votes": 104834,
 "minutes": 143,
 "genres": [
 "Drama"
 ],
-"rank": 151,
+"rank": 150,
 "title_ar": "إيكيرو",
 "about": "إيكيرو هو فلم دراما ياباني صدر سنة 1952، من إخراج أكيرا كوروساوا الذي شارك في كتابة السيناريو إلى جانب شینوبو هاشیموتو، وهيديو أوغوني، ومن بطولة تاكاشي شيمورا. ويتناول الفلم معاناة بيروقراطي من طوكيو مصاب بمرض عُضَال وسَعْيَه في رحلته الأخيرة للبحث عن معنى لحياته.",
 "about_lang": "ar",
@@ -2648,14 +2630,14 @@
 "title": "Judgment at Nuremberg",
 "year": "1961",
 "rating": 8.3,
-"votes": 99108,
+"votes": 99175,
 "minutes": 179,
 "genres": [
 "Drama",
 "History",
 "War"
 ],
-"rank": 152,
+"rank": 151,
 "title_ar": "حكم في نورمبرغ",
 "about": "حكم في نورمبرغ هو فيلم دراما تم إنتاجه في الولايات المتحدة وصدر في سنة 1961.",
 "about_lang": "ar",
@@ -2666,14 +2648,14 @@
 "title": "Vikram",
 "year": "2022",
 "rating": 8.3,
-"votes": 92061,
+"votes": 92168,
 "minutes": 175,
 "genres": [
 "Action",
 "Crime",
 "Mystery"
 ],
-"rank": 153,
+"rank": 152,
 "title_ar": "فيكرام",
 "about": "فيكرام هو فيلم أكشن إثارة هندي باللغة التاميلية من تأليف وإخراج لوكيش جاناجراج وبطولة كمال حسن، فيجاي سيثيباثي وفاهداه فاسيل، صدر الفيلم في 3 يونيو 2022.",
 "about_lang": "ar",
@@ -2684,14 +2666,14 @@
 "title": "Demon Slayer: Kimetsu No Yaiba Infinity Castle",
 "year": "2025",
 "rating": 8.3,
-"votes": 90434,
+"votes": 90941,
 "minutes": 155,
 "genres": [
 "Action",
 "Adventure",
 "Animation"
 ],
-"rank": 154,
+"rank": 153,
 "title_ar": "فلم قاتل الشياطين: قلعة اللانهاية",
 "about": "فلم قاتل الشياطين: قلعة اللانهاية، هو ثلاثية أفلام أنمي يابانية من نوع الفانتازيا المظلمة والأكشن، مبنية على أرك \"قلعة اللانهاية\" من سلسلة مانغا \"قاتل الشياطين\" للكاتبة كويوهارو غوتوغي.",
 "about_lang": "ar",
@@ -2702,16 +2684,33 @@
 "title": "Maharaja",
 "year": "2024",
 "rating": 8.3,
-"votes": 87410,
+"votes": 87596,
 "minutes": 141,
 "genres": [
 "Action",
 "Crime",
 "Drama"
 ],
-"rank": 155,
+"rank": 154,
 "title_ar": "مهراجا",
 "about": "مهراجا أو الملك العظيم هو فيلم إثارة وأكشن هندي ناطق باللغة التاميلية عُرض عام 2024، من إخراج نيثلان ساميناثان. أنتج بالتعاون بين The Route و Think Studios وPassion Studios. الفيلم من بطولة فيجاي سيثوباثي وأنوراغ كاشياب ومامتا موهانداس.",
+"about_lang": "ar",
+"poster": null
+},
+{
+"imdb": "tt31514146",
+"title": "I Swear",
+"year": "2025",
+"rating": 8.3,
+"votes": 75425,
+"minutes": 120,
+"genres": [
+"Biography",
+"Drama"
+],
+"rank": 155,
+"title_ar": "أقسم",
+"about": "أُقسِم هو فلم سيرة ذاتية دراما بريطاني صدر عام 2025، أخرجه وكتب سيناريوه وأنتجه كيرك جونز. يستند الفلم إلى القصة الحقيقية لـجون ديفيدسون، وهو رجل إسكتلندي يعاني متلازمة توريت الشديدة، ويتتبع حياته أساسًا في الفترة التي تلت الفلم الوثائقي التلفزيوني جون ليس مجنونا، في وقت كانت فيه حالته بالكاد معروفة.",
 "about_lang": "ar",
 "poster": null
 },
@@ -2720,7 +2719,7 @@
 "title": "Chhichhore",
 "year": "2019",
 "rating": 8.3,
-"votes": 75243,
+"votes": 75336,
 "minutes": 143,
 "genres": [
 "Comedy",
@@ -2734,35 +2733,18 @@
 "poster": null
 },
 {
-"imdb": "tt31514146",
-"title": "I Swear",
-"year": "2025",
-"rating": 8.3,
-"votes": 74327,
-"minutes": 120,
-"genres": [
-"Biography",
-"Drama"
-],
-"rank": 157,
-"title_ar": "أقسم",
-"about": "أُقسِم هو فلم سيرة ذاتية دراما بريطاني صدر عام 2025، أخرجه وكتب سيناريوه وأنتجه كيرك جونز. يستند الفلم إلى القصة الحقيقية لـجون ديفيدسون، وهو رجل إسكتلندي يعاني متلازمة توريت الشديدة، ويتتبع حياته أساسًا في الفترة التي تلت الفلم الوثائقي التلفزيوني جون ليس مجنونا، في وقت كانت فيه حالته بالكاد معروفة.",
-"about_lang": "ar",
-"poster": null
-},
-{
 "imdb": "tt30472557",
 "title": "Chainsaw Man - The Movie: Reze Arc",
 "year": "2025",
 "rating": 8.3,
-"votes": 73182,
+"votes": 73669,
 "minutes": 100,
 "genres": [
 "Action",
 "Adventure",
 "Animation"
 ],
-"rank": 158,
+"rank": 157,
 "title_ar": "رجل المنشار: آرك ريزي",
 "about": "رجل المنشار: آرك ريزي فلم أنمي ياباني من اخراج تاتسويا يوشيهارا، مقتبس من مانغا رجل المنشار وأحداثه مكملة للموسم الأول من مسلسل الأنمي الصادر عام 2022. أنتج الفلم ستديو مابا. وعرض في 19 سبتمبر 2025.",
 "about_lang": "ar",
@@ -2773,13 +2755,13 @@
 "title": "Lost Ladies",
 "year": "2023",
 "rating": 8.3,
-"votes": 62929,
+"votes": 63008,
 "minutes": 122,
 "genres": [
 "Comedy",
 "Drama"
 ],
-"rank": 159,
+"rank": 158,
 "title_ar": null,
 "about": "Laapataa Ladies, released internationally as Lost Ladies, is a 2023 Indian Hindi-language comedy-drama film directed by Kiran Rao, and produced by Rao, Aamir Khan, and Jyoti Deshpande.",
 "about_lang": "en",
@@ -2790,14 +2772,14 @@
 "title": "Ratsasan",
 "year": "2018",
 "rating": 8.3,
-"votes": 61740,
+"votes": 61792,
 "minutes": 146,
 "genres": [
 "Crime",
 "Drama",
 "Mystery"
 ],
-"rank": 160,
+"rank": 159,
 "title_ar": null,
 "about": "Ratsasan is a 2018 Indian Tamil-language psychological slasher film written and directed by Ram Kumar. The film stars Vishnu Vishal, Amala Paul, and Saravanan, while  Kaali Venkat, Munishkanth, Vinodhini Vaidyanathan, and Abhirami play supporting roles.",
 "about_lang": "en",
@@ -2808,34 +2790,16 @@
 "title": "Sardar Udham",
 "year": "2021",
 "rating": 8.3,
-"votes": 51636,
+"votes": 51665,
 "minutes": 164,
 "genres": [
 "Crime",
 "Drama",
 "History"
 ],
-"rank": 161,
+"rank": 160,
 "title_ar": null,
 "about": "Sardar Udham is a 2021 Indian Hindi-language epic biographical historical drama film directed by Shoojit Sircar, and produced by Rising Sun Films in collaboration with Kino Works.",
-"about_lang": "en",
-"poster": null
-},
-{
-"imdb": "tt27988879",
-"title": "Ramayana",
-"year": "2026",
-"rating": 8.3,
-"votes": 37201,
-"minutes": 208,
-"genres": [
-"Action",
-"Adventure",
-"Drama"
-],
-"rank": 162,
-"title_ar": null,
-"about": "Ramayana: Part 1 is a 2026 Indian Hindi-language epic mythological film directed by Nitesh Tiwari, who co-wrote the screenplay with Shridhar Raghavan. Produced by Namit Malhotra and Yash, the film is based on the Hindu epic Ramayana by Valmiki.",
 "about_lang": "en",
 "poster": null
 },
@@ -2844,12 +2808,12 @@
 "title": "The Chaos Class Failed the Class",
 "year": "1975",
 "rating": 8.3,
-"votes": 31818,
+"votes": 31842,
 "minutes": 95,
 "genres": [
 "Comedy"
 ],
-"rank": 163,
+"rank": 161,
 "title_ar": null,
 "about": "Hababam Sınıfı Sınıfta Kaldı is a 1975 Turkish comedy film, directed by Ertem Eğilmez based on a novel by Rıfat Ilgaz. The film is a sequel to Hababam Sınıfı. It is the first film in which Şener Şen and Kemal Sunal starred together, and it is the last movie of Hababam Class starring Tarık Akan.",
 "about_lang": "en",
@@ -2860,12 +2824,12 @@
 "title": "Man with a Movie Camera",
 "year": "1929",
 "rating": 8.3,
-"votes": 30925,
+"votes": 30956,
 "minutes": 68,
 "genres": [
 "Documentary"
 ],
-"rank": 164,
+"rank": 162,
 "title_ar": "رجل مع كاميرا فلم",
 "about": "رجل مع كاميرا فيلم هو فيلم وثائقي صامت أوكراني سوفييتي تجريبي صدر عام 1929، من إخراج دزيجا فيرتوف ومونتاج زوجته يليزافيتا سفيلوفا. أنتج الفيلم استوديو الأفلام VUFKU، ويعرض الفيلم الحياة الحضرية في المدن السوفيتية كييف وخاركيف وأوديسا. لا يوجد ممثلون في الفيلم.",
 "about_lang": "ar",
@@ -2876,14 +2840,14 @@
 "title": "Hoop Dreams",
 "year": "1994",
 "rating": 8.3,
-"votes": 29984,
+"votes": 30000,
 "minutes": 170,
 "genres": [
 "Documentary",
 "Drama",
 "Sport"
 ],
-"rank": 165,
+"rank": 163,
 "title_ar": null,
 "about": "Hoop Dreams is a 1994 American documentary film directed by Steve James, and produced by Frederick Marx, James, and Peter Gilbert, with Kartemquin Films.",
 "about_lang": "en",
@@ -2894,14 +2858,14 @@
 "title": "Premam",
 "year": "2015",
 "rating": 8.3,
-"votes": 29388,
+"votes": 29425,
 "minutes": 156,
 "genres": [
 "Comedy",
 "Drama",
 "Musical"
 ],
-"rank": 166,
+"rank": 164,
 "title_ar": null,
 "about": "Premam is a 2015 Indian Malayalam-language coming-of-age romantic comedy-drama film written, directed and edited by Alphonse Puthren. It was produced by Anwar Rasheed and stars Nivin Pauly and Sai Pallavi.",
 "about_lang": "en",
@@ -2912,14 +2876,14 @@
 "title": "Bangalore Days",
 "year": "2014",
 "rating": 8.3,
-"votes": 29103,
+"votes": 29135,
 "minutes": 171,
 "genres": [
 "Comedy",
 "Drama",
 "Musical"
 ],
-"rank": 167,
+"rank": 165,
 "title_ar": null,
 "about": "Bangalore Days is a 2014 Indian Malayalam-language coming-of-age comedy drama film written and directed by Anjali Menon, and produced by Anwar Rasheed and Sophia Paul under the banner Anwar Rasheed Entertainments and Weekend Blockbusters.",
 "about_lang": "en",
@@ -2930,14 +2894,14 @@
 "title": "Won't You Be My Neighbor?",
 "year": "2018",
 "rating": 8.3,
-"votes": 28395,
+"votes": 28413,
 "minutes": 95,
 "genres": [
 "Biography",
 "Documentary",
 "History"
 ],
-"rank": 168,
+"rank": 166,
 "title_ar": null,
 "about": "Won't You Be My Neighbor? is a 2018 American documentary film about the life and guiding philosophy of Fred Rogers, the host and creator of Mister Rogers' Neighborhood, directed by Morgan Neville. The trailer for the film debuted on what would have been Rogers' 90th birthday, March 20, 2018.",
 "about_lang": "en",
@@ -2948,14 +2912,14 @@
 "title": "Hi Nanna",
 "year": "2023",
 "rating": 8.3,
-"votes": 27980,
+"votes": 28014,
 "minutes": 155,
 "genres": [
 "Drama",
 "Family",
 "Romance"
 ],
-"rank": 169,
+"rank": 167,
 "title_ar": null,
 "about": "Hi Nanna is a 2023 Indian Telugu-language romantic drama film directed by Shouryuv and produced by Vyra Entertainments. The film stars Nani and Mrunal Thakur in lead roles alongside Kiara Khanna, Jayaram and Priyadarshi Pulikonda. The music is composed by Hesham Abdul Wahab.",
 "about_lang": "en",
@@ -2966,14 +2930,14 @@
 "title": "The Wolf of Wall Street",
 "year": "2013",
 "rating": 8.2,
-"votes": 1838922,
+"votes": 1840280,
 "minutes": 180,
 "genres": [
 "Biography",
 "Comedy",
 "Crime"
 ],
-"rank": 170,
+"rank": 168,
 "title_ar": "ذئب وول ستريت",
 "about": "ذئب وول ستريت فلم جريمة وكوميديا سوداء وسيرة ذاتية أمريكي ملحمي صدر عام 2013، أخرجه وشارك في إنتاجه مارتن سكورسيزي وكتبه تيرنس وينتر، ويستند إلى مذكرات جوردن بلفورت الصادرة عام 2007.",
 "about_lang": "ar",
@@ -2984,12 +2948,12 @@
 "title": "Batman Begins",
 "year": "2005",
 "rating": 8.2,
-"votes": 1754470,
+"votes": 1755600,
 "minutes": 140,
 "genres": [
 "Crime"
 ],
-"rank": 171,
+"rank": 169,
 "title_ar": "بداية باتمان",
 "about": "بداية باتمان هو فيلم أميركي من إنتاج عام 2005، مأخوذ عن بطل دي سي كوميكس الشهير باتمان. الفيلم من إخراج كريستوفر نولان وبطولة كريستيان بيل.",
 "about_lang": "ar",
@@ -3000,13 +2964,13 @@
 "title": "Shutter Island",
 "year": "2010",
 "rating": 8.2,
-"votes": 1697948,
+"votes": 1699487,
 "minutes": 138,
 "genres": [
 "Mystery",
 "Thriller"
 ],
-"rank": 172,
+"rank": 170,
 "title_ar": "جزيرة شاتر",
 "about": "جزيرة شاتر فلم إثارة نفسية أمريكي صدر عام 2010 من إخراج مارتن سكورسيزي ومأخوذ عن رواية بنفس العنوان للكاتبة دينيس ليهان.",
 "about_lang": "ar",
@@ -3017,13 +2981,13 @@
 "title": "The Truman Show",
 "year": "1998",
 "rating": 8.2,
-"votes": 1419276,
+"votes": 1420548,
 "minutes": 103,
 "genres": [
 "Comedy",
 "Drama"
 ],
-"rank": 173,
+"rank": 171,
 "title_ar": "عرض ترومان",
 "about": "عرض ترومان هو فيلم كوميدي درامي نفسي أمريكي صدر عام 1998، كتبه وشارك في إنتاجه أندرو نيكول، وأخرجه بيتر وير. يصور الفيلم قصة ترومان بوربانك، وهو رجل لا يدرك أنه يعيش حياته كلها في استوديو ضخم، ويتم تصويره وبث يومياته كبرنامج تلفزيوني واقعي يحظى بمتابعة دولية ضخمة.",
 "about_lang": "ar",
@@ -3034,14 +2998,14 @@
 "title": "Kill Bill: Vol. 1",
 "year": "2003",
 "rating": 8.2,
-"votes": 1332757,
+"votes": 1333515,
 "minutes": 111,
 "genres": [
 "Action",
 "Crime",
 "Thriller"
 ],
-"rank": 174,
+"rank": 172,
 "title_ar": "اقتل بيل الجزء 1",
 "about": "اقتل بيل: الجزء الأول هو فيلم أمريكي قتالي أُنتج عام 2003 من تأليف وإخراج كوينتن تارانتينو. أدت دور البطولة أوما ثورمان بدور العروس، التي أقسمت على النيل من فريق من القتلة وزعيمهم بيل، بعد أن حاولوا قتلها هي وطفلها الذي لم يُولد بعد.",
 "about_lang": "ar",
@@ -3052,14 +3016,14 @@
 "title": "Finding Nemo",
 "year": "2003",
 "rating": 8.2,
-"votes": 1231769,
+"votes": 1232433,
 "minutes": 100,
 "genres": [
 "Adventure",
 "Animation",
 "Comedy"
 ],
-"rank": 175,
+"rank": 173,
 "title_ar": "البحث عن نيمو",
 "about": "البحث عن نيمو هو فيلم رسوم متحركة من إنتاج شركة بيكسار ومن توزيع أفلام والت ديزني عام 2003. الفيلم من تأليف وإخراج أندرو ستانتون وحصل الفيلم على جائزة أوسكار لأفضل فيلم صور متحركة عام 2003.",
 "about_lang": "ar",
@@ -3070,14 +3034,14 @@
 "title": "No Country for Old Men",
 "year": "2007",
 "rating": 8.2,
-"votes": 1222674,
+"votes": 1223621,
 "minutes": 122,
 "genres": [
 "Crime",
 "Drama",
 "Thriller"
 ],
-"rank": 176,
+"rank": 174,
 "title_ar": "لا بلد للعجائز",
 "about": "لا بلد للعجائز هو فيلم أمريكي إنتاج 2007، مقتبس من رواية للكاتب كورماك مكارثي تحمل نفس الاسم، كتابة وإخراج الأخوين كوين. تدور أحداث الفيلم عام 1980 في تكساس.",
 "about_lang": "ar",
@@ -3088,13 +3052,13 @@
 "title": "Jurassic Park",
 "year": "1993",
 "rating": 8.2,
-"votes": 1206596,
+"votes": 1207348,
 "minutes": 127,
 "genres": [
 "Adventure",
 "Sci-Fi"
 ],
-"rank": 177,
+"rank": 175,
 "title_ar": "الحديقة الجوارسية",
 "about": "الحديقة الجوراسية هي سلسلة أفلام أمريكية من إخراج ستيفن سبيلبرج أحد أشهر مخرجي هوليود وتدور أحداثها حول إنشاء حديقة للكائنات المنقرضة في أحد جزر كوستاريكا النائية ويتم استنساخ عدة فصائل من الديناصورات عن طريق أخذ المادة الوراثية الخاصة بها أو DNA من الحشرات المحفوظة داخل الكهرمان القديم وتدور الأحداث في الفيلم حيث يفقد زمام الأمور وتتحرر الديناصورات من محبسها لتنطلق في الجزيرة لتنشر الدمار وتستمر ",
 "about_lang": "ar",
@@ -3105,14 +3069,14 @@
 "title": "Reservoir Dogs",
 "year": "1992",
 "rating": 8.2,
-"votes": 1187532,
+"votes": 1188157,
 "minutes": 99,
 "genres": [
 "Crime",
 "Drama",
 "Thriller"
 ],
-"rank": 178,
+"rank": 176,
 "title_ar": "كلاب المستودع",
 "about": "كلاب مستودع هو فيلم جريمة تم إنتاجه في الولايات المتحدة وصدر في سنة 1992. الفيلم من إخراج وكتابة كوينتن تارانتينو.",
 "about_lang": "ar",
@@ -3123,14 +3087,14 @@
 "title": "The Sixth Sense",
 "year": "1999",
 "rating": 8.2,
-"votes": 1177869,
+"votes": 1179130,
 "minutes": 107,
 "genres": [
 "Drama",
 "Mystery",
 "Thriller"
 ],
-"rank": 179,
+"rank": 177,
 "title_ar": "الحاسة السادسة",
 "about": "الحاسة السادسة فيلم رعب نفسي، من إنتاج عام 1999، رشح للعديد من جوائز الاوسكار، وهو قصة وإخراج إم. نايت شيامالان. تدور أحداث الفيلم حول الطفل الصغير كول ذو الثمانية أعوام وهو طفل مضطرب ومنعزل يدعى أنه قادر على التخاطب مع الموتى. والدكتور مالكوم كرو. طبيب مضطرب أيضا متخصص في علم نفس الأطفال. والذي يحاول مساعدة كول.",
 "about_lang": "ar",
@@ -3141,14 +3105,14 @@
 "title": "Oppenheimer",
 "year": "2023",
 "rating": 8.2,
-"votes": 1112537,
+"votes": 1114060,
 "minutes": 180,
 "genres": [
 "Biography",
 "Drama",
 "History"
 ],
-"rank": 180,
+"rank": 178,
 "title_ar": "أوبنهايمر",
 "about": "أوبنهايمر فلم سيرة ذاتية وإثارة ملحمي صدر سنة 2023، من كتابة وإنتاج وإخراج كريستوفر نولان، وهو مقتبس من كتاب السيرة الذاتية الحاصل على جائزة «بوليتزر» بروميثيوس الأمريكي الذي ألفه الكاتبان كاي بيرد ومارتن ج. شيروين.",
 "about_lang": "ar",
@@ -3159,14 +3123,14 @@
 "title": "A Beautiful Mind",
 "year": "2001",
 "rating": 8.2,
-"votes": 1068693,
+"votes": 1069209,
 "minutes": 135,
 "genres": [
 "Biography",
 "Drama",
 "Mystery"
 ],
-"rank": 181,
+"rank": 179,
 "title_ar": "عقل جميل",
 "about": "عقل جميل هو فيلم سيرة ذاتية أمريكي صدر عام 2001، يحكي قصة حياة جون فوربس ناش الحائز على جائزة نوبل في الاقتصاد. وهذه القصة مستوحاة من الكتاب الأفضل مبيعا والمرشح لجائزة بوليتزر عام 1998 والذي يحمل نفس الاسم من تأليف سيلفيا نصار.",
 "about_lang": "ar",
@@ -3177,13 +3141,13 @@
 "title": "Taxi Driver",
 "year": "1976",
 "rating": 8.2,
-"votes": 1048811,
+"votes": 1049506,
 "minutes": 114,
 "genres": [
 "Crime",
 "Drama"
 ],
-"rank": 182,
+"rank": 180,
 "title_ar": "سائق التاكسي",
 "about": "سائق التاكسي هو فيلم دراما نفسية أمريكي من نوع النيو نوار، صدر عام 1976، وأخرجه مارتن سكورسيزي وكتب سيناريوه بول شريدر.",
 "about_lang": "ar",
@@ -3194,13 +3158,13 @@
 "title": "Die Hard",
 "year": "1988",
 "rating": 8.2,
-"votes": 1044841,
+"votes": 1045485,
 "minutes": 132,
 "genres": [
 "Action",
 "Thriller"
 ],
-"rank": 183,
+"rank": 181,
 "title_ar": "موت قاسي",
 "about": "موت قاسي هو فيلم حركة تم إنتاجه في الولايات المتحدة وصدر في سنة 1988. الفيلم من إخراج جون مكتيرنان من بطولة بروس ويليس وآلان ريكمان والكسندر جودنوف.",
 "about_lang": "ar",
@@ -3211,13 +3175,13 @@
 "title": "Snatch",
 "year": "2000",
 "rating": 8.2,
-"votes": 990694,
+"votes": 991221,
 "minutes": 102,
 "genres": [
 "Comedy",
 "Crime"
 ],
-"rank": 184,
+"rank": 182,
 "title_ar": "سناتش",
 "about": "سناتش هو فيلم جريمة كوميدي تم إنتاجه في المملكة المتحدة والولايات المتحدة، وصدر سنة 2000، من بطولة وبينيشيو ديل ورو ودنيس فارينا وبراد بيت وجيسون ستاثام.",
 "about_lang": "ar",
@@ -3228,14 +3192,14 @@
 "title": "Prisoners",
 "year": "2013",
 "rating": 8.2,
-"votes": 968992,
+"votes": 970301,
 "minutes": 153,
 "genres": [
 "Crime",
 "Drama",
 "Mystery"
 ],
-"rank": 185,
+"rank": 183,
 "title_ar": "سجناء",
 "about": "سجناء هو فلم جريمة وإثارة من إخراج دينيس فيلنوف وتأليف أرون جوزكاوسكي. الفلم من بطولة هيو جاكمان وجيك جيلنهال وبول دانو وفيولا ديفيس وماريا بيلو وترنس هوارد وميليسا ليو. عرض لأول مرة في مهرجان تيلورايد السينمائي 2013.",
 "about_lang": "ar",
@@ -3246,13 +3210,13 @@
 "title": "A Clockwork Orange",
 "year": "1971",
 "rating": 8.2,
-"votes": 949842,
+"votes": 950347,
 "minutes": 136,
 "genres": [
 "Crime",
 "Sci-Fi"
 ],
-"rank": 186,
+"rank": 184,
 "title_ar": "برتقالة آلية",
 "about": "برتقالة آلية هو فيلم خيال علمي وجريمة بريطاني 1971 من إخراج وإنتاج وسيناريو ستانلي كوبريك، مبني على الرواية التي تحمل نفس الاسم للكاتب أنتوني برجس. الفيلم يعرض مشاهد مزعجة من العنف الجنسي والجسدي تسلط الضوء على الطب النفسي وجرائم المراهقين والعصابات ومواضيع أقتصادية وسياسية واجتماعية أخرى في نسخة ديستوبيا عن بريطانيا.",
 "about_lang": "ar",
@@ -3263,13 +3227,13 @@
 "title": "Top Gun: Maverick",
 "year": "2022",
 "rating": 8.2,
-"votes": 913470,
+"votes": 914261,
 "minutes": 130,
 "genres": [
 "Action",
 "Drama"
 ],
-"rank": 187,
+"rank": 185,
 "title_ar": "توب غان: مافريك",
 "about": "توب غان: مافريك فلم حركة ودراما أمريكي صدر عام 2022، أخرجه جوزيف كوزينسكي، وكتبه إرين كروجر وإريك وارين سينجر وكريستوفر ماك كويري عن قصة لبيتر كريغ وجاستن ماركس. يُعد تتمة لفلم توب غان، ويعود فيه توم كروز إلى دور البطولة مجسدًا الطيار البحري بيت «مافريك» ميتشل.",
 "about_lang": "ar",
@@ -3280,12 +3244,12 @@
 "title": "Indiana Jones and the Last Crusade",
 "year": "1989",
 "rating": 8.2,
-"votes": 875405,
+"votes": 875827,
 "minutes": 127,
 "genres": [
 "Adventure"
 ],
-"rank": 188,
+"rank": 186,
 "title_ar": "إنديانا جونز والحملة الأخيرة",
 "about": "إنديانا جونز والحملة الصليبية الأخيرة ، هو فيلم أمريكي من نوع الإثارة والمغامرات، أنتج سنة 1989، ويعد هذا الفيلم الجزء الثالث من سلسلة أفلام إنديانا جونز، من بطولة هاريسون فورد.",
 "about_lang": "ar",
@@ -3296,13 +3260,13 @@
 "title": "Full Metal Jacket",
 "year": "1987",
 "rating": 8.2,
-"votes": 864533,
+"votes": 865036,
 "minutes": 116,
 "genres": [
 "Drama",
 "War"
 ],
-"rank": 189,
+"rank": 187,
 "title_ar": "اعداء الامير",
 "about": "فول ميتال جاكيت هو فيلم حربي صدر عام 1987 من إنتاج وإخراج ستانلي كوبريك. سيناريو الفيلم كتبه كوبريك ومايكل هير وغوستاف هاسفورد، مقتبس من رواية هاسفورد الموقتات القصيرة الذي يتحدث فيها عن تجربته كجندي في حرب فيتنام.",
 "about_lang": "ar",
@@ -3313,15 +3277,15 @@
 "title": "Amélie",
 "year": "2001",
 "rating": 8.2,
-"votes": 850352,
+"votes": 850709,
 "minutes": 122,
 "genres": [
 "Comedy",
 "Romance"
 ],
-"rank": 190,
+"rank": 188,
 "title_ar": "أميلي",
-"about": "المصير الخرافي لأميلي بولان كما يعرف فقط بمجرد أميلي هو فيلم فرنسي، ثم إنتاجه من طرف جون بيير جونيه سنة 2001. هو فيلم كوميدية ورومانسية كُتب من طرف نفس المنتج والذي هو جون بيير جونيه وكذلك غولمان لورنت رفقة أودري تاتو الذي اقترح عنوان الفيلم.",
+"about": "المصير الخرافي لأميلي بولان كما يعرف فقط بمجرد أميلي هو فلم فرنسي، ثم إنتاجه من طرف جون بيير جونيه سنة 2001. هو فلم كوميدية ورومانسية كُتب من طرف نفس المنتج والذي هو جون بيير جونيه وكذلك غولمان لورنت رفقة أودري تاتو الذي اقترح عنوان الفلم.",
 "about_lang": "ar",
 "poster": null
 },
@@ -3330,13 +3294,13 @@
 "title": "1917",
 "year": "2019",
 "rating": 8.2,
-"votes": 792443,
+"votes": 793145,
 "minutes": 119,
 "genres": [
 "Drama",
 "War"
 ],
-"rank": 191,
+"rank": 189,
 "title_ar": "1917",
 "about": "1917 هو فلم حرب أمريكي بريطاني من إخراج سام مينديز وشارك في تأليفه مينديز وكريستي ويلسون-كيرنز. من بطولة جورج ماكاي، دين تشارلز شابمان، مارك سترونج، أندرو سكوت، ريتشارد مادن، كلير دوبورك، مع كولين فيرث، وبينديكت كومبرباتش.",
 "about_lang": "ar",
@@ -3347,14 +3311,14 @@
 "title": "Pan's Labyrinth",
 "year": "2006",
 "rating": 8.2,
-"votes": 757307,
+"votes": 757689,
 "minutes": 118,
 "genres": [
 "Drama",
 "Fantasy",
 "War"
 ],
-"rank": 192,
+"rank": 190,
 "title_ar": "متاهة بان",
 "about": "متاهة بان هو فيلم إسباني-مكسيكي-أمريكي أنتج في العام 2006، وهو من أفلام الخيال، من تأليف وإخراج؛ المخرج المكسيكي جييرمو ديل تورو. أنتجت الفيلم ووزعته الشركة المكسيكية للأفلام.",
 "about_lang": "ar",
@@ -3365,12 +3329,12 @@
 "title": "There Will Be Blood",
 "year": "2007",
 "rating": 8.2,
-"votes": 724044,
+"votes": 724544,
 "minutes": 158,
 "genres": [
 "Drama"
 ],
-"rank": 193,
+"rank": 191,
 "title_ar": "ستسيل الدماء",
 "about": "ستسيل الدماء أنتج في عام 2007 هو فيلم دراما أمريكي كتبه وأخرجه وشارك بإنتجه بول توماس أندرسون وهو من بطولة دانيال دي لويس وبول دانو الفيلم يحكي قصة عامل منجم فضه يبدل عمله ليصبح رجل نفط سعيا وراء تحقيق الثروة في وقت الفورة النفطية في جنوب كاليفورنيا.",
 "about_lang": "ar",
@@ -3381,16 +3345,16 @@
 "title": "Green Book",
 "year": "2018",
 "rating": 8.2,
-"votes": 711876,
+"votes": 712770,
 "minutes": 130,
 "genres": [
 "Biography",
 "Comedy",
 "Drama"
 ],
-"rank": 194,
+"rank": 192,
 "title_ar": "الكتاب الأخضر",
-"about": "الكتاب الأخضر فيلم سيرة ذاتية وكوميديا درامية أمريكي صدر عام 2018، من إخراج بيتر فاريلي وبطولة فيجو مورتينسين وماهرشالا علي، وتشاركهما ليندا إدنا كاردليني.",
+"about": "الكتاب الأخضر فلم سيرة ذاتية وكوميديا درامية أمريكي صدر عام 2018، من إخراج بيتر فاريلي وبطولة فيجو مورتينسين وماهرشالا علي، وتشاركهما ليندا إدنا كاردليني.",
 "about_lang": "ar",
 "poster": null
 },
@@ -3399,14 +3363,14 @@
 "title": "L.A. Confidential",
 "year": "1997",
 "rating": 8.2,
-"votes": 666864,
+"votes": 667197,
 "minutes": 138,
 "genres": [
 "Crime",
 "Drama",
 "Mystery"
 ],
-"rank": 195,
+"rank": 193,
 "title_ar": "إل ايه سري للغاية",
 "about": "إل إيه سري للغاية هو فيلم جريمة تم إنتاجه في الولايات المتحدة وصدر في سنة 1997.",
 "about_lang": "ar",
@@ -3417,13 +3381,13 @@
 "title": "Casino",
 "year": "1995",
 "rating": 8.2,
-"votes": 631860,
+"votes": 632303,
 "minutes": 178,
 "genres": [
 "Crime",
 "Drama"
 ],
-"rank": 196,
+"rank": 194,
 "title_ar": "كازينو",
 "about": "كازينو هو فيلم أمريكي أنتج عام 1995 من إخراج مارتن سكورسيزي عن كتاب بنفس الاسم ل نيكولاس بيليجي ولاري شاندلنج.",
 "about_lang": "ar",
@@ -3434,14 +3398,14 @@
 "title": "Project Hail Mary",
 "year": "2026",
 "rating": 8.2,
-"votes": 602471,
+"votes": 607539,
 "minutes": 156,
 "genres": [
 "Adventure",
 "Comedy",
 "Sci-Fi"
 ],
-"rank": 197,
+"rank": 195,
 "title_ar": "مشروع هيل ماري",
 "about": "مشروع هيل ماري هو فلم خيال علمي أمريكي صدر عام 2026، أخرجه وأنتجه فيل لورد وكريستوفر ميلر وكتبه درو غودارد، ويستند إلى الرواية التي تحمل الاسم نفسه الصادرة عام 2021 للكاتب آندي وير. يقوم ببطولته رايان غوسلينغ — الذي شارك أيضًا في إنتاجه — إلى جانب ساندرا هولر وجيمس أورتيز وليونيل بويس في الأدوار المساعدة.",
 "about_lang": "ar",
@@ -3452,14 +3416,14 @@
 "title": "The Thing",
 "year": "1982",
 "rating": 8.2,
-"votes": 542797,
+"votes": 543374,
 "minutes": 109,
 "genres": [
 "Horror",
 "Mystery",
 "Sci-Fi"
 ],
-"rank": 198,
+"rank": 196,
 "title_ar": "الشيء",
 "about": "الشيء هو فيلم رعب تم إنتاجه في الولايات المتحدة وصدر في سنة 1982. من بطولة كورت راسل وكيث ديفيد. وجد الفيلم جمهورًا عند طرحه في الفيديو المنزلي والتلفزيون. في السنوات اللاحقة، أعيد تقييمه كواحد من أفضل أفلام الخيال العلمي والرعب التي تم إنتاجها على الإطلاق واكتسب شهرة كبيرة.",
 "about_lang": "ar",
@@ -3470,14 +3434,14 @@
 "title": "Howl's Moving Castle",
 "year": "2004",
 "rating": 8.2,
-"votes": 525823,
+"votes": 526264,
 "minutes": 119,
 "genres": [
 "Adventure",
 "Animation",
 "Family"
 ],
-"rank": 199,
+"rank": 197,
 "title_ar": "قلعة هاول المتحركة",
 "about": "قصر هاول المتحرك و هو فيلم رسوم متحركة، ترشح لجائزة أوسكار أفضل فيلم رسوم متحركة، استند في قصتهِ على رواية خيالية كتبتها المؤلفة البريطانية دينا وين جونز عام 1996. تم إنتاج الفيلم في اليابان عام 2004، وهو من إخراج هاياو ميازاكي.",
 "about_lang": "ar",
@@ -3488,13 +3452,13 @@
 "title": "Citizen Kane",
 "year": "1941",
 "rating": 8.2,
-"votes": 498635,
+"votes": 498877,
 "minutes": 119,
 "genres": [
 "Drama",
 "Mystery"
 ],
-"rank": 200,
+"rank": 198,
 "title_ar": "المواطن كين",
 "about": "المواطن كين فيلم دراما أمريكي تم انتاجه عام 1941، أخرجه أورسن ويلز. وتم توزيعه بواسطة أر.كي.أو بيكتشرز وكان أول أفلام ويلز.",
 "about_lang": "ar",
@@ -3505,13 +3469,13 @@
 "title": "Unforgiven",
 "year": "1992",
 "rating": 8.2,
-"votes": 475069,
+"votes": 475362,
 "minutes": 130,
 "genres": [
 "Drama",
 "Western"
 ],
-"rank": 201,
+"rank": 199,
 "title_ar": "غير مغفور",
 "about": "غير مغفور فيلم وسترن أمريكي حائز على أوسكار أفضل فيلم لعام 1992 من إخراج وبطولة وإنتاج كلينت إيستوود. يحكي الفيلم قصة ويليام ماني راعي بقر متخصص بالمبارزات بالمسدس، والذي ترك «المهنة» واتجه للزراعة. لكنه يضطر للعودة إلى المبارزات بعد عودة مظاهر العنف في الغرب الأمريكي.",
 "about_lang": "ar",
@@ -3522,14 +3486,14 @@
 "title": "Vertigo",
 "year": "1958",
 "rating": 8.2,
-"votes": 465072,
+"votes": 465328,
 "minutes": 128,
 "genres": [
 "Mystery",
 "Romance",
 "Thriller"
 ],
-"rank": 202,
+"rank": 200,
 "title_ar": "الدوار",
 "about": "الدوار أحد روائع المخرج الراحل ألفريد هتشكوك، صدر عام 1958، تدور أحداث الفيلم في اطار نفسى وغموض.",
 "about_lang": "ar",
@@ -3540,14 +3504,14 @@
 "title": "Downfall",
 "year": "2004",
 "rating": 8.2,
-"votes": 405789,
+"votes": 405992,
 "minutes": 156,
 "genres": [
 "Biography",
 "Drama",
 "History"
 ],
-"rank": 203,
+"rank": 201,
 "title_ar": "السقوط",
 "about": "السقوط، هو فيلم سينمائي ألماني-نمساوي صدر سنة 2004 من إخراج أوليفر هيرشبيغل. يصور فيلم الأيام العشرة الأخيرة لحكم أدولف هتلر لألمانيا النازية سنة 1945. لاقى الفيلم مراجعات إيجابية من مختلف النقاد وترشح الفيلم لجائزة الأوسكار لأفضل فيلم بلغة أجنبية.",
 "about_lang": "ar",
@@ -3558,14 +3522,14 @@
 "title": "North by Northwest",
 "year": "1959",
 "rating": 8.2,
-"votes": 373406,
+"votes": 373578,
 "minutes": 136,
 "genres": [
 "Action",
 "Adventure",
 "Drama"
 ],
-"rank": 204,
+"rank": 202,
 "title_ar": "شمالا إلى الشمال الغربي",
 "about": "الشمال الغربي هو فيلم تجسس تم إنتاجه في الولايات المتحدة وصدر في 28 يوليو 1959. الفيلم من إخراج ألفريد هتشكوك وكتابة إرنست ليمان.",
 "about_lang": "ar",
@@ -3576,14 +3540,14 @@
 "title": "Gone with the Wind",
 "year": "1939",
 "rating": 8.2,
-"votes": 360374,
+"votes": 360568,
 "minutes": 238,
 "genres": [
 "Drama",
 "Romance",
 "War"
 ],
-"rank": 205,
+"rank": 203,
 "title_ar": "ذهب مع الريح",
 "about": "ذهب مع الريح فلم أُنتِج في عام 1939 عن رواية مارغريت ميتشل الشهيرة ذهب مع الريح. فاز الفلم بِـ 8 جوائز أوسكار، واختاره معهد الفلم الأمريكي ليكون الرابع في قائمة الأفلام الأمريكية المائة الأفضل في القرن العشرين، وحتي عام 2006 أصبح الفلم ثاني أعلى الأفلام إيراداً في تاريخ السينما الأمريكية.",
 "about_lang": "ar",
@@ -3594,13 +3558,13 @@
 "title": "To Kill a Mockingbird",
 "year": "1962",
 "rating": 8.2,
-"votes": 354546,
+"votes": 354701,
 "minutes": 129,
 "genres": [
 "Crime",
 "Drama"
 ],
-"rank": 206,
+"rank": 204,
 "title_ar": "قتل طائر بريء",
 "about": "قتل طائر بريء هو فيلم دراما تم إنتاجه في الولايات المتحدة وصدر في سنة 1962.",
 "about_lang": "ar",
@@ -3611,14 +3575,14 @@
 "title": "Some Like It Hot",
 "year": "1959",
 "rating": 8.2,
-"votes": 308835,
+"votes": 309060,
 "minutes": 121,
 "genres": [
 "Comedy",
 "Music",
 "Romance"
 ],
-"rank": 207,
+"rank": 205,
 "title_ar": "البعض يفضلونها ساخنة",
 "about": "البعض يفضلونها ساخنة هو فيلم كوميدي تم إنتاجه في الولايات المتحدة وصدر في سنة 1959. الفيلم من إخراج بيلي وايلدر من بطولة مارلين مونرو وتوني كرتيس وجاك ليمون.",
 "about_lang": "ar",
@@ -3629,14 +3593,14 @@
 "title": "The Sting",
 "year": "1973",
 "rating": 8.2,
-"votes": 308228,
+"votes": 308411,
 "minutes": 129,
 "genres": [
 "Comedy",
 "Crime",
 "Drama"
 ],
-"rank": 208,
+"rank": 206,
 "title_ar": "اللدغة",
 "about": "فيلم اللدغة فيلم كوميديا سوداء أمريكي إنتاج عام 1973، يتناول موضوع محاولة سرقة عصابة مافيا من قبل نصابين بدور بول نيومان وروبرت ريدفورد، ولكن في النهاية يتم خداعهما من قبل العصابة.",
 "about_lang": "ar",
@@ -3647,15 +3611,15 @@
 "title": "For a Few Dollars More",
 "year": "1965",
 "rating": 8.2,
-"votes": 305596,
+"votes": 305785,
 "minutes": 132,
 "genres": [
 "Drama",
 "Western"
 ],
-"rank": 209,
+"rank": 207,
 "title_ar": "من أجل مزيد من الدولارات",
-"about": "من أجل مزيد من الدولارات هو فيلم ويسترن سباغيتي من إنتاج سنة 1965،الفيلم من إخراج المخرج الإيطالي سرجيو ليون وبطولة كلينت إيستوود،لي فان كليف،جيان ماريا فولونتي وكلايوس كينسكي.الفيلم هو إنتاج دولي مشترك من إيطاليا،إسبانيا وألمانيا الغربية.",
+"about": "من أجل مزيد من الدولارات هو فلم ويسترن سباغيتي من إنتاج سنة 1965،الفلم من إخراج المخرج الإيطالي سرجيو ليون وبطولة كلينت إيستوود،لي فان كليف،جيان ماريا فولونتي وكلايوس كينسكي.الفلم هو إنتاج دولي مشترك من إيطاليا،إسبانيا وألمانيا الغربية.",
 "about_lang": "ar",
 "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Per_qualche_dollaro_in_pi%C3%B9.png/330px-Per_qualche_dollaro_in_pi%C3%B9.png?utm_source=ar.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
 },
@@ -3664,13 +3628,13 @@
 "title": "The Elephant Man",
 "year": "1980",
 "rating": 8.2,
-"votes": 286358,
+"votes": 286610,
 "minutes": 124,
 "genres": [
 "Biography",
 "Drama"
 ],
-"rank": 210,
+"rank": 208,
 "title_ar": "الرجل الفيل",
 "about": "الرجل الفيل فيلم أمريكي أُنتج عام1980 من إخراج ديفيد لينش و تأليف كريستوفر دى فور / ايريك برجرين ورشح الفيلم لثمانية جوائز أوسكار.",
 "about_lang": "ar",
@@ -3681,14 +3645,14 @@
 "title": "The Great Escape",
 "year": "1963",
 "rating": 8.2,
-"votes": 281601,
+"votes": 281751,
 "minutes": 172,
 "genres": [
 "Adventure",
 "Drama",
 "Thriller"
 ],
-"rank": 211,
+"rank": 209,
 "title_ar": "الهروب الكبير",
 "about": "الهروب الكبير هو فيلم أمريكي أنتج عام 1963 من إخراج وكتابة جون ستورجس عن كتاب لبول بريكهيل، الفيلم مبني على قصة حقيقية وقعت خلال الحرب العالمية الثانية ويحكي قصة مجموعة من الجنود من ضباط دول التحالف والمعتقلون كسجناء حرب في إحدى المعتقلات النازية المخصص للطيارين وهو معتقل شتالاج لوفت 3، حيث تبتكر هذه المجموعة خطة للهروب من هذه المعتقل الحصين وتهريب 250 معتقلا آخرين.",
 "about_lang": "ar",
@@ -3699,15 +3663,15 @@
 "title": "The Father",
 "year": "2020",
 "rating": 8.2,
-"votes": 252136,
+"votes": 252445,
 "minutes": 97,
 "genres": [
 "Drama",
 "Mystery"
 ],
-"rank": 212,
+"rank": 210,
 "title_ar": "الأب",
-"about": "الأب فيلم درامي لعام 2020 شارك في كتابته وأخرجه الفرنسي فلوريان زيلر، استنادًا إلى مسرحيته «الأب» التي صدرت عام 2012. الفيلم إنتاج فرنسي بريطاني مشترك. نجوم الفيلم أنتوني هوبكنزوقد حصل على الأوسكار وأوليفيا كولمان ومارك جاتيس. ويروي قصة رجل مسن من ويلز يجب أن يتعامل مع فقدان الذاكرة المتطور.",
+"about": "الأب فلم درامي لعام 2020 شارك في كتابته وأخرجه الفرنسي فلوريان زيلر، استنادًا إلى مسرحيته «الأب» التي صدرت عام 2012. الفلم إنتاج فرنسي بريطاني مشترك. نجوم الفلم أنتوني هوبكنزوقد حصل على الأوسكار وأوليفيا كولمان ومارك جاتيس. ويروي قصة رجل مسن من ويلز يجب أن يتعامل مع فقدان الذاكرة المتطور.",
 "about_lang": "ar",
 "poster": null
 },
@@ -3716,14 +3680,14 @@
 "title": "The Secret in Their Eyes",
 "year": "2009",
 "rating": 8.2,
-"votes": 246944,
+"votes": 247092,
 "minutes": 129,
 "genres": [
 "Drama",
 "Mystery",
 "Romance"
 ],
-"rank": 213,
+"rank": 211,
 "title_ar": "السر في عيونهم",
 "about": "السر في عيونهم هو فيلم جريمة تم إنتاجه في الأرجنتين سنة 2009. الفيلم من إخراج خوان خوسيه كامبانيلا وكتابة خوان خوسيه كامبانيلا وإدواردو ساشيري. صدر الفيلم بتاريخ 13 أغسطس 2009 وهو من بطولة كلا من ريكاردو دارين وسوليداد فيلاميل وكارلا كيفيدو.",
 "about_lang": "ar",
@@ -3734,14 +3698,14 @@
 "title": "Klaus",
 "year": "2019",
 "rating": 8.2,
-"votes": 245063,
+"votes": 245418,
 "minutes": 96,
 "genres": [
 "Adventure",
 "Animation",
 "Comedy"
 ],
-"rank": 214,
+"rank": 212,
 "title_ar": "كلاوس",
 "about": "كلاوس هو فيلم رسوم متحركة إسباني، كتبه وأخرجه سيرجيو بابلوس في أول ظهور له في الإخراج. صدر في دور العرض في نوفمبر 2019 وهو متاح في جميع أنحاء العالم على منصة نتفليكس منذ 15 نوفمبر من نفس العام. تتمحور القصة حول أسطورة سانتا كلوز من خلال تجارب يشب ، وهو ساعي بريد موجه ضد إرادته إلى جزيرة في الدائرة القطبية.",
 "about_lang": "ar",
@@ -3752,13 +3716,13 @@
 "title": "Metropolis",
 "year": "1927",
 "rating": 8.2,
-"votes": 204121,
+"votes": 204234,
 "minutes": 150,
 "genres": [
 "Drama",
 "Sci-Fi"
 ],
-"rank": 215,
+"rank": 213,
 "title_ar": "متروبوليس",
 "about": "متروبوليس، هي فيلم سينمائي ألماني صامت أنتجت سنة 1927م، من بطولة ألفريد أبيل وغوستاف فروليتش ورودولف كلاين روج وبريجيت هيلم، والتي نشرها شركة يو إف أي للأفلام الألمانية، تتحدث القصة عن المستقبل الغامض سنة 2026م عن تجارب البشر واختراع امرأة آلية من قبل الطبيب المجنون وذلك عن طريق الصعق بالكهرباء، وصلت ميزانية الفيلم إلى 5,100,000 مليون رايخ مارك الألماني، ووصلت الإيرادات نحو 75,000 ألف رايخ مارك.",
 "about_lang": "ar",
@@ -3769,14 +3733,14 @@
 "title": "Bicycle Thieves",
 "year": "1948",
 "rating": 8.2,
-"votes": 194273,
+"votes": 194389,
 "minutes": 89,
 "genres": [
 "Drama"
 ],
-"rank": 216,
+"rank": 214,
 "title_ar": "سارق الدراجة",
-"about": "سارق الدراجة فيلم إيطالي انتج عام 1948، وأخرجه الإيطالي فيتوريو دي سيكا. يتحدث الفيلم عن رجل فقير يبحث في شوارع روما عن سارق دراجته، التي يحتاجها للقيام بعمله. الفيلم مأخوذ عن رواية تحمل نفس الاسم للكاتب الإيطالي لويجي بارتوليني.",
+"about": "سارق الدراجة فلم إيطالي انتج عام 1948، وأخرجه الإيطالي فيتوريو دي سيكا. يتحدث الفلم عن رجل فقير يبحث في شوارع روما عن سارق دراجته، التي يحتاجها للقيام بعمله. الفلم مأخوذ عن رواية تحمل نفس الاسم للكاتب الإيطالي لويجي بارتوليني. قام ببطولة هذا الفلم الممثل الإيطالي لامبيرتو ماجوراني بدور الأب، وإينزو ستايولا بدور الابن.",
 "about_lang": "ar",
 "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Enzo_Staiola_in_Bicycle_Thieves.jpg/330px-Enzo_Staiola_in_Bicycle_Thieves.jpg?utm_source=ar.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
 },
@@ -3785,14 +3749,14 @@
 "title": "K.G.F: Chapter 2",
 "year": "2022",
 "rating": 8.2,
-"votes": 174113,
+"votes": 174282,
 "minutes": 166,
 "genres": [
 "Action",
 "Crime",
 "Drama"
 ],
-"rank": 217,
+"rank": 215,
 "title_ar": "كيه.جي.إف:الفصل الثاني",
 "about": "كيه.جي.إف:الفصل الثاني هو فيلم أكشن دراما هندي باللغة الكنادية من إخراج براسانث نيل وبطولة ياش،رافينا تاندون وبراكاش راج.الفليم هو الجزء الثاني لكيه.جي.إف:الفصل الأول ومن المقرر عرضه في 14 أبريل 2022.",
 "about_lang": "ar",
@@ -3803,14 +3767,14 @@
 "title": "Ran",
 "year": "1985",
 "rating": 8.2,
-"votes": 156032,
+"votes": 156211,
 "minutes": 160,
 "genres": [
 "Action",
 "Drama",
 "War"
 ],
-"rank": 218,
+"rank": 216,
 "title_ar": "ران",
 "about": "ران هو فيلم لرؤية يابانية لرائعة شكسبير الملك ليرى المخرج الياباني\nأكيرا كوروساوا المؤلف أكيرا كوروساوا بالإضافة إلى هايدو اوغناي وماستاوا ايدي",
 "about_lang": "ar",
@@ -3821,14 +3785,14 @@
 "title": "Dhurandhar",
 "year": "2025",
 "rating": 8.2,
-"votes": 153621,
+"votes": 153958,
 "minutes": 214,
 "genres": [
 "Action",
 "Crime",
 "Thriller"
 ],
-"rank": 219,
+"rank": 217,
 "title_ar": "دهوراندار",
 "about": "دهوراندار (,) هو هندي هنديّ اللغة من نوع التجسس والحركة والإثارة، صدر سنة 2025، من تأليف وإخراج أديتيا دار. يقوم ببطولته رانفير سينغ إلى جانب أكشاي خانا وسانجاي دوت وأرجون رامبال وآر. مادهان وسارا أرجون راكيش بيدي.",
 "about_lang": "ar",
@@ -3839,13 +3803,13 @@
 "title": "A Silent Voice: The Movie",
 "year": "2016",
 "rating": 8.2,
-"votes": 153354,
+"votes": 153693,
 "minutes": 130,
 "genres": [
 "Animation",
 "Drama"
 ],
-"rank": 220,
+"rank": 218,
 "title_ar": "صوت صامت",
 "about": "صوت صامت فلم أنمي ياباني من إنتاج ستوديو كيوتو أنيميشن، واخراج ناوكو يامادا. وهو مقتبس من مانغا تحمل نفس العنوان للمانغاكا يوشيتوكي أويما. عرض الفلم أول مرة في 17 أيلول/سبتمبر 2016 في اليابان.",
 "about_lang": "ar",
@@ -3856,12 +3820,12 @@
 "title": "All About Eve",
 "year": "1950",
 "rating": 8.2,
-"votes": 151228,
+"votes": 151305,
 "minutes": 138,
 "genres": [
 "Drama"
 ],
-"rank": 221,
+"rank": 219,
 "title_ar": "كل شيء عن إيف",
 "about": "كل شيء عن إيف فيلم أمريكي إنتاج سنة 1950 من بطولة بيت دافيس بدور مارجو شانينج، إضافة للنجمة مارلين مونرو",
 "about_lang": "ar",
@@ -3872,14 +3836,14 @@
 "title": "The Kid",
 "year": "1921",
 "rating": 8.2,
-"votes": 147839,
+"votes": 147929,
 "minutes": 68,
 "genres": [
 "Comedy",
 "Drama",
 "Family"
 ],
-"rank": 222,
+"rank": 220,
 "title_ar": "الطفل",
 "about": "الطفل هو فيلم كوميدي دراما صامت تم إنتاجه في الولايات المتحدة وصدر سنة 1921. الفيلم من إخراج تشارلي تشابلن وكتابة تشارلي تشابلن.",
 "about_lang": "ar",
@@ -3890,14 +3854,14 @@
 "title": "Yojimbo",
 "year": "1961",
 "rating": 8.2,
-"votes": 145492,
+"votes": 145586,
 "minutes": 110,
 "genres": [
 "Action",
 "Drama",
 "Thriller"
 ],
-"rank": 223,
+"rank": 221,
 "title_ar": "يوجيمبو",
 "about": "يوجيمو فيلم ياباني من إخراج آكير كوروساوا انتج عام 1961 من بطولة توشيرو ميفون ويوكو تسوكاسا. وهو سلسلة دراما غن قصة رونين الذي يرحل من قريته التي تسيطر عليها الجريمة يحاول كل من الزعيمين توظيف الوافد الجديد كحارس شخصي.",
 "about_lang": "ar",
@@ -3908,14 +3872,14 @@
 "title": "The Treasure of the Sierra Madre",
 "year": "1948",
 "rating": 8.2,
-"votes": 143356,
+"votes": 143467,
 "minutes": 126,
 "genres": [
 "Adventure",
 "Drama",
 "Western"
 ],
-"rank": 224,
+"rank": 222,
 "title_ar": "كنز السييرا مادري",
 "about": "كنز السييرا مادري هو فيلم دراما تم إنتاجه في الولايات المتحدة وصدر في سنة 1948.",
 "about_lang": "ar",
@@ -3926,15 +3890,33 @@
 "title": "Baahubali 2: The Conclusion",
 "year": "2017",
 "rating": 8.2,
-"votes": 137924,
+"votes": 138111,
 "minutes": 167,
 "genres": [
 "Action",
 "Drama"
 ],
-"rank": 225,
+"rank": 223,
 "title_ar": "باهوبالي 2: الخاتمة",
 "about": "باهوبالي 2: الخاتمة هو فيلم أكشن هندي من إخراج كودوري راجامولي وبطولة برابهاس،رانا داغوباتي،أنوشكا شيتي،تامانا،ساتحياراج،نصار وسوباراجو.الفيلم هو تتمة لفيلم باهوبالي: البداية.تم عرض الفيلم في 28 أبريل 2017.",
+"about_lang": "ar",
+"poster": null
+},
+{
+"imdb": "tt10295212",
+"title": "Shershaah",
+"year": "2021",
+"rating": 8.2,
+"votes": 138069,
+"minutes": 135,
+"genres": [
+"Action",
+"Biography",
+"Drama"
+],
+"rank": 224,
+"title_ar": "شيرشاه",
+"about": "تم عرض فيلم شيرشاه الهندي عام 2012 على منصة أوتيتي، من إخراج فيشنوفردهان وكتابة سانديب شريفستافا. تستند قصة الفيلم على حياة كابتين فيكرام باترا، الحائز على جائزة بارام فير شقرا. من إنتاج نيرمن دهراما برودكشن وكاش إنرتيمنت.",
 "about_lang": "ar",
 "poster": null
 },
@@ -3943,14 +3925,14 @@
 "title": "Andhadhun",
 "year": "2018",
 "rating": 8.2,
-"votes": 119215,
+"votes": 119295,
 "minutes": 139,
 "genres": [
 "Comedy",
 "Crime",
 "Mystery"
 ],
-"rank": 226,
+"rank": 225,
 "title_ar": "اللحن الأعمى",
 "about": "اللحن الأعمى هو فيلم كوميديا سوداء جريمة إثارة هندي من بطولة تابو،أيوشمان كورانا،رادهيكا أبتي وأنيل داوان.تم عرض الفيلم في الهند في 5 أكتوبر 2018.",
 "about_lang": "ar",
@@ -3961,14 +3943,14 @@
 "title": "Gangs of Wasseypur",
 "year": "2012",
 "rating": 8.2,
-"votes": 116397,
+"votes": 116505,
 "minutes": 321,
 "genres": [
 "Action",
 "Comedy",
 "Crime"
 ],
-"rank": 227,
+"rank": 226,
 "title_ar": null,
 "about": "Gangs of Wasseypur is a 2012 Indian Hindi-language epic crime film directed by Anurag Kashyap, and written by Kashyap and Zeishan Quadri.",
 "about_lang": "en",
@@ -3979,14 +3961,14 @@
 "title": "Drishyam",
 "year": "2015",
 "rating": 8.2,
-"votes": 112691,
+"votes": 112816,
 "minutes": 163,
 "genres": [
 "Crime",
 "Drama",
 "Mystery"
 ],
-"rank": 228,
+"rank": 227,
 "title_ar": "رؤية",
 "about": "رؤية هو فيلم جريمة ودراما هندي من بطولة كل من أجاي ديفجان، شريا ساران وتابو، ومن إخراج نشيكانت كمات، صدر الفيلم بتاريخ 31 يوليو من سنة 2015.",
 "about_lang": "ar",
@@ -3997,13 +3979,13 @@
 "title": "Swades",
 "year": "2004",
 "rating": 8.2,
-"votes": 107828,
+"votes": 107895,
 "minutes": 189,
 "genres": [
 "Drama",
 "Musical"
 ],
-"rank": 229,
+"rank": 228,
 "title_ar": "سواديس",
 "about": "الوطن هو فيلم هندي صدر يوم 17 ديسمبر عام 2004. الفيلم من إنتاج وإخراج أشوتوش جواريكر وبطولة كل من شاه روخ خان وجايتري جوشي في أول دور لها. تلقى الفيلم مديحا وإشادة نقدية على نطاق واسع من طرف الهنديين والآسيويين الجنوبيين من حول العالم. واعتبر الفيلم إلى حد بعيد كواحد من أفضل أفلام العقد.",
 "about_lang": "ar",
@@ -4014,14 +3996,14 @@
 "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train",
 "year": "2020",
 "rating": 8.2,
-"votes": 104326,
+"votes": 104434,
 "minutes": 117,
 "genres": [
 "Action",
 "Adventure",
 "Animation"
 ],
-"rank": 230,
+"rank": 229,
 "title_ar": "فلم قاتل الشياطين: قطار اللانهاية",
 "about": "فلم قاتل الشياطين: قطار اللانهاية هو فلم أنمي مقتبس من سلسلة مانغا قاتل الشياطين من تأليف كيوهارو غوتوغي. الفلم من إخراج هارو سوتوزاكي، ومن إنتاج استوديو يوفوتيبل، عرض الفلم في اليابان في 16 أكتوبر عام 2020.",
 "about_lang": "ar",
@@ -4032,12 +4014,12 @@
 "title": "My Father and My Son",
 "year": "2005",
 "rating": 8.2,
-"votes": 102862,
+"votes": 102943,
 "minutes": 112,
 "genres": [
 "Drama"
 ],
-"rank": 231,
+"rank": 230,
 "title_ar": "أبي وابني",
 "about": "أبي وابني هو فيلم دراما تركي صدر عام 2005 من سيناريو وإخراج المنتج والمخرج التركي سيغان إرمارك، تم بدء عرضه في دور السينما الأوروبية في 9 مارس 2006.",
 "about_lang": "ar",
@@ -4048,13 +4030,13 @@
 "title": "Munna Bhai M.B.B.S.",
 "year": "2003",
 "rating": 8.2,
-"votes": 100295,
+"votes": 100357,
 "minutes": 156,
 "genres": [
 "Comedy",
 "Drama"
 ],
-"rank": 232,
+"rank": 231,
 "title_ar": null,
 "about": "Munna Bhai M.B.B.S. is a 2003 Indian Hindi-language comedy drama film written and directed by Rajkumar Hirani in his directorial debut and produced by Vidhu Vinod Chopra under the banner Vinod Chopra Films.",
 "about_lang": "en",
@@ -4065,14 +4047,14 @@
 "title": "Zindagi Na Milegi Dobara",
 "year": "2011",
 "rating": 8.2,
-"votes": 98311,
+"votes": 98412,
 "minutes": 155,
 "genres": [
 "Adventure",
 "Comedy",
 "Drama"
 ],
-"rank": 233,
+"rank": 232,
 "title_ar": "زنداقي نا ملغي دبارة",
 "about": "زنداقي نا ملغي دبارة هو فيلم من نوع قصة البلوغ ورفقاء ‏ ودراما وكوميديا رومانسية أُصدر في 15 يوليو 2011. الفيلم من إنتاج اکسل انترتینمنت ‏، ومن توزيع إروس إنترناشيونال، وهو من إخراج زويا أختر، أما السيناريو فكان من كتابة ريما كاغتي ‏.",
 "about_lang": "ar",
@@ -4083,14 +4065,14 @@
 "title": "Children of Heaven",
 "year": "1997",
 "rating": 8.2,
-"votes": 91921,
+"votes": 91995,
 "minutes": 89,
 "genres": [
 "Drama",
 "Family",
 "Sport"
 ],
-"rank": 234,
+"rank": 233,
 "title_ar": "أطفال السماء",
 "about": "أطفال السماء فيلم إيراني إخراج مجيد مجيدي أنتج عام 1997, حصل على جائزة فينكس كريستال لأفضل فيلم في مهرجان الفجر 1375 الخامس عشر. وفي عام 1998 باعتباره واحدا من خمسة متسابقين رشح لجائزة كان وأوسكار أفضل فيلم أجنبي.",
 "about_lang": "ar",
@@ -4101,14 +4083,14 @@
 "title": "Uri: The Surgical Strike",
 "year": "2019",
 "rating": 8.2,
-"votes": 86128,
+"votes": 86195,
 "minutes": 138,
 "genres": [
 "Action",
 "Drama",
 "History"
 ],
-"rank": 235,
+"rank": 234,
 "title_ar": null,
 "about": "Uri: The Surgical Strike is a 2019 Indian Hindi-language war action film written and directed by debutant Aditya Dhar and produced by Ronnie Screwvala under the RSVP Movies banner.",
 "about_lang": "en",
@@ -4119,13 +4101,13 @@
 "title": "Inside Job",
 "year": "2010",
 "rating": 8.2,
-"votes": 83151,
+"votes": 83171,
 "minutes": 109,
 "genres": [
 "Crime",
 "Documentary"
 ],
-"rank": 236,
+"rank": 235,
 "title_ar": null,
 "about": "Inside Job is a 2010 American documentary film, directed by Charles Ferguson, about the 2008 financial crisis.",
 "about_lang": "en",
@@ -4136,14 +4118,14 @@
 "title": "Hera Pheri",
 "year": "2000",
 "rating": 8.2,
-"votes": 82521,
+"votes": 82580,
 "minutes": 156,
 "genres": [
 "Action",
 "Comedy",
 "Crime"
 ],
-"rank": 237,
+"rank": 236,
 "title_ar": null,
 "about": "Hera Pheri is a 2000 Indian Hindi-language comedy drama film directed by Priyadarshan and originally written by Siddique-Lal and adapted screenplay by Neeraj Vora, starring Akshay Kumar, Suniel Shetty, Paresh Rawal, Tabu, Om Puri, Asrani, and Gulshan Grover.",
 "about_lang": "en",
@@ -4154,14 +4136,14 @@
 "title": "Bhaag Milkha Bhaag",
 "year": "2013",
 "rating": 8.2,
-"votes": 80467,
+"votes": 80508,
 "minutes": 186,
 "genres": [
 "Biography",
 "Drama",
 "Sport"
 ],
-"rank": 238,
+"rank": 237,
 "title_ar": null,
 "about": "Bhaag Milkha Bhaag is a 2013 Indian Hindi-language biographical sports drama film directed by Rakeysh Omprakash Mehra, written by lyricist Prasoon Joshi, and produced by Viacom 18 Motion Pictures in association with Rajiv Tandon and editor P.S. Bharathi under the ROMP Pictures banner.",
 "about_lang": "en",
@@ -4172,14 +4154,14 @@
 "title": "Tumbbad",
 "year": "2018",
 "rating": 8.2,
-"votes": 78464,
+"votes": 78552,
 "minutes": 108,
 "genres": [
 "Drama",
 "Fantasy",
 "Horror"
 ],
-"rank": 239,
+"rank": 238,
 "title_ar": "تومباد",
 "about": "تومباد هو فيلم رعب هندي إنتاج 2018 من إخراج راهي أنيل بارف وبطولة سوهيم شاه،تم عرض الفيلم في الهند في 12 أكتوبر 2018.",
 "about_lang": "ar",
@@ -4190,14 +4172,14 @@
 "title": "Searching for Sugar Man",
 "year": "2012",
 "rating": 8.2,
-"votes": 77186,
+"votes": 77214,
 "minutes": 86,
 "genres": [
 "Biography",
 "Documentary",
 "Music"
 ],
-"rank": 240,
+"rank": 239,
 "title_ar": "البحث عن رجل السكر",
 "about": "البحث عن رجل السكر هو فيلم وثائقي من إخراج المخرج مالك بن جلول",
 "about_lang": "ar",
@@ -4208,14 +4190,14 @@
 "title": "Dhurandhar: The Revenge",
 "year": "2026",
 "rating": 8.2,
-"votes": 75317,
+"votes": 75661,
 "minutes": 235,
 "genres": [
 "Action",
 "Crime",
 "Thriller"
 ],
-"rank": 241,
+"rank": 240,
 "title_ar": "دهوراندار: الانتقام",
 "about": "دهوراندار: الانتقام هو فلم هندي من نوع الحركة والإثارة والتجسس، صدر سنة 2026، وهو الجزء الثاني من فلم دهوراندار. كتب الفلم وأخرجه أديتيا دهار، وشارك في إنتاجه جيوتي ديشباندي ولوكيش دهار، وقام ببطولته رانفير سينغ إلى جانب آر. مادهافان وأرجون رامبال وسانجاي دوت وسارة أرجون.",
 "about_lang": "ar",
@@ -4226,12 +4208,12 @@
 "title": "Miracle in Cell No. 7",
 "year": "2019",
 "rating": 8.2,
-"votes": 65154,
+"votes": 65247,
 "minutes": 132,
 "genres": [
 "Drama"
 ],
-"rank": 242,
+"rank": 241,
 "title_ar": "معجزة في الزنزانة 7",
 "about": "معجزة في الزنزانة 7 فيلم دراما تركي من إخراج محمد أدا أوزتكين، بطولة أراس بولوت إينيملي، نيسا صوفيا أكسونغور، جليلة تويون، ايلكر اكسوم، مسعود أكوستا، دنيز بايسال، يورداير أوكور وسارب آك-كايا. مقتبس من الفيلم الكوري الجنوبي معجزة الزنزانة رقم 7. وكان الفيلم الأكثر مشاهدة في تركيا في 2019.",
 "about_lang": "ar",
@@ -4242,12 +4224,12 @@
 "title": "No Other Land",
 "year": "2024",
 "rating": 8.2,
-"votes": 57148,
+"votes": 57230,
 "minutes": 92,
 "genres": [
 "Documentary"
 ],
-"rank": 243,
+"rank": 242,
 "title_ar": "لا أرض أخرى",
 "about": "لا أرض أخرى هو فيلم وثائقي من إنتاج مشترك بين دولة فلسطين والنرويج، وإخراج الرباعي باسل عدرا، وحمدان بلال، ويوفال يوفال أبراهام، وراحيل شور، وهم ناشطون فلسطينيون وإسرائيليون داعمون للقضية الفلسطينية. يأتي الفيلم في محاولةٍ من الرباعي في طريق البحث عن العدالة أثناء ما تعانيه فلسطين من اعتداءات.",
 "about_lang": "ar",
@@ -4258,14 +4240,14 @@
 "title": "Vikram Vedha",
 "year": "2017",
 "rating": 8.2,
-"votes": 56528,
+"votes": 56566,
 "minutes": 147,
 "genres": [
 "Action",
 "Crime",
 "Drama"
 ],
-"rank": 244,
+"rank": 243,
 "title_ar": null,
 "about": "Vikram Vedha is a 2017 Indian Tamil-language neo-noir action thriller film written and directed by Pushkar–Gayathri and produced by YNOT Studios. The film, which is inspired by the Indian folktale Baital Pachisi, stars R.",
 "about_lang": "en",
@@ -4276,14 +4258,14 @@
 "title": "Drishyam 2",
 "year": "2022",
 "rating": 8.2,
-"votes": 54661,
+"votes": 54724,
 "minutes": 140,
 "genres": [
 "Crime",
 "Drama",
 "Mystery"
 ],
-"rank": 245,
+"rank": 244,
 "title_ar": "دريشيام 2 (فيلم 2022)",
 "about": "Drishyam 2 is a 2022 Indian Hindi-language crime thriller film co-written, directed, and produced by Abhishek Pathak. Produced by Panorama Studios, Viacom18 Studios, and T-Series, it is a remake of the 2021 Malayalam film of the same name and sequel to the 2015 film Drishyam.",
 "about_lang": "en",
@@ -4294,14 +4276,14 @@
 "title": "Ayla: The Daughter of War",
 "year": "2017",
 "rating": 8.2,
-"votes": 49567,
+"votes": 49610,
 "minutes": 125,
 "genres": [
 "Biography",
 "Drama",
 "History"
 ],
-"rank": 246,
+"rank": 245,
 "title_ar": "أيلا: ابنة الحرب",
 "about": "أيلا ابنة الحرب هو فيلم دراما تركي تم إنتاجه في سنة 2017 من إخراج جان أولكاي وبطولة جيتين تيكندور وإسماعيل حجي أوغلو وكيونغ جين لي و كيم سول و داملا سونمز وعلي أتاي ومراد يلديريم و كلوديا فان إيتن، أختير الفيلم للمنافسة للحصول على جائزة الأوسكار لأفضل فيلم بلغة أجنبية كممثل لتركيا إلا أنه لم يصل إلى النهائيات.",
 "about_lang": "ar",
@@ -4312,13 +4294,13 @@
 "title": "Koyaanisqatsi",
 "year": "1982",
 "rating": 8.2,
-"votes": 45400,
+"votes": 45438,
 "minutes": 86,
 "genres": [
 "Documentary",
 "Music"
 ],
-"rank": 247,
+"rank": 246,
 "title_ar": "كويانسقاتسي",
 "about": "كويانسقاتسي هو فيلم وثائقي تجريبي أخرجها غودفري راجيو في الولايات المتحدة وصدر سنة 1982. ألف موسيقاه الملحن الأميركي فيليب غلاس. كويانسقاتسي هو الفيلم الأول من أفلام ثلاثية قاتسي وأشهرها. يتكون في الأغلب من مقطعات الحركة البطيئة والتايملابس لمدن ومناظر طبيعية عبر الولايات المتحدة.",
 "about_lang": "ar",
@@ -4329,17 +4311,35 @@
 "title": "The Act of Killing",
 "year": "2012",
 "rating": 8.2,
-"votes": 45075,
+"votes": 45115,
 "minutes": 117,
 "genres": [
 "Biography",
 "Crime",
 "Documentary"
 ],
-"rank": 248,
+"rank": 247,
 "title_ar": "فعل القتل",
 "about": "فعل القتل هو فيلم تم إنتاجه سنة 2012.",
 "about_lang": "ar",
+"poster": null
+},
+{
+"imdb": "tt27988879",
+"title": "Ramayana",
+"year": "2026",
+"rating": 8.2,
+"votes": 43222,
+"minutes": 208,
+"genres": [
+"Action",
+"Adventure",
+"Drama"
+],
+"rank": 248,
+"title_ar": null,
+"about": "Ramayana: Part 1 is a 2026 Indian Hindi-language epic mythological film directed by Nitesh Tiwari, who co-wrote the screenplay with Shridhar Raghavan. Produced by Namit Malhotra and Yash, the film is based on the Hindu epic Ramayana by Valmiki.",
+"about_lang": "en",
 "poster": null
 },
 {
@@ -4347,11 +4347,10 @@
 "title": "Pather Panchali",
 "year": "1955",
 "rating": 8.2,
-"votes": 42607,
+"votes": 42641,
 "minutes": 125,
 "genres": [
-"Drama",
-"History"
+"Drama"
 ],
 "rank": 249,
 "title_ar": "أغنية الطريق الصغير",
@@ -4364,7 +4363,7 @@
 "title": "They Shall Not Grow Old",
 "year": "2018",
 "rating": 8.2,
-"votes": 41386,
+"votes": 41413,
 "minutes": 99,
 "genres": [
 "Documentary",
