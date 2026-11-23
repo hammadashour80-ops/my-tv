@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T07:45:39+00:00",
+ "updated": "2026-11-23T09:33:21+00:00",
  "config": {
   "city_ar": "الدوحة",
   "timezone": "Asia/Qatar",
@@ -8,14 +8,14 @@
  },
  "news": [
   {
-   "title": "30 مليون شجرة.. ليبيا تراهن على قطاع الزيتون لتنويع الاقتصاد",
-   "link": "https://www.aljazeera.net/ebusiness/2026/11/23/30-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%b4%d8%ac%d8%b1%d8%a9-%d8%b2%d9%8a%d8%aa%d9%88%d9%86-%d9%84%d9%8a%d8%a8%d9%8a%d8%a7?traffic_source=rss",
-   "time": "2026-11-23T04:33:23+00:00"
+   "title": "تجاوز عمر بعضها ألف سنة.. مكتبات عائلية متوارثة في الجزائر",
+   "link": "https://www.aljazeera.net/video/2026/11/23/%d8%aa%d8%ac%d8%a7%d9%88%d8%b2-%d8%b9%d9%85%d8%b1-%d8%a8%d8%b9%d8%b6%d9%87%d8%a7-%d8%a3%d9%84%d9%81-%d8%b3%d9%86%d8%a9-%d9%85%d9%83%d8%aa%d8%a8%d8%a7%d8%aa-%d8%b9%d8%a7%d8%a6%d9%84%d9%8a%d8%a9?traffic_source=rss",
+   "time": "2026-11-23T06:25:46+00:00"
   },
   {
-   "title": "أعراض غامضة تصيب أطفال سوريا.. ماذا يعرف الأطباء؟",
-   "link": "https://www.aljazeera.net/health/2026/11/23/%d8%a3%d8%b9%d8%b1%d8%a7%d8%b6-%d8%ba%d8%a7%d9%85%d8%b6%d8%a9-%d8%aa%d8%b5%d9%8a%d8%a8-%d8%a3%d8%b7%d9%81%d8%a7%d9%84-%d8%b3%d9%88%d8%b1%d9%8a%d8%a7-%d9%85%d8%a7%d8%b0%d8%a7-%d9%8a%d8%b9%d8%b1%d9%81?traffic_source=rss",
-   "time": "2026-11-23T04:33:00+00:00"
+   "title": "معارضة أمريكية روسية إسرائيلية تعرقل حظر الأسلحة الذاتية التشغيل",
+   "link": "https://www.aljazeera.net/video/2026/11/23/%d9%85%d8%b9%d8%a7%d8%b1%d8%b6%d8%a9-%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d8%a9-%d8%b1%d9%88%d8%b3%d9%8a%d8%a9-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84%d9%8a%d8%a9-%d8%aa%d8%b9%d8%b1%d9%82%d9%84?traffic_source=rss",
+   "time": "2026-11-23T06:21:58+00:00"
   }
  ],
  "team": {
@@ -46,7 +46,7 @@
    "time": "2026-11-22T17:00:00+00:00"
   },
   "table": {
-   "updated": "2026-11-23T03:04:35+00:00",
+   "updated": "2026-11-23T09:33:21+00:00",
    "league": "Italian Serie A",
    "season": "2026-2027",
    "size": 20,
