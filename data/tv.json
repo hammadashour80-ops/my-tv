@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T21:59:29+00:00",
+ "updated": "2026-11-23T23:00:53+00:00",
  "config": {
   "city_ar": "الدوحة",
   "timezone": "Asia/Qatar",
@@ -8,14 +8,14 @@
  },
  "news": [
   {
-   "title": "عادل رونالدو وإبراهيموفيتش.. تألق المغربي ياسر زابيري يضعه على رادار برشلونة",
-   "link": "https://www.aljazeera.net/sport/2026/11/24/%d8%b2%d8%a7%d8%a8%d9%8a%d8%b1%d9%8a-%d9%8a%d8%b9%d8%a7%d8%af%d9%84-%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88-%d9%88%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85%d9%88%d9%81%d9%8a%d8%aa%d8%b4?traffic_source=rss",
-   "time": "2026-11-23T18:30:00+00:00"
+   "title": "ما فوائد اتفاق الصيد البحري الجديد بين موريتانيا والاتحاد الأوروبي؟",
+   "link": "https://www.aljazeera.net/ebusiness/2026/11/24/%d9%85%d8%a7-%d9%81%d9%88%d8%a7%d8%a6%d8%af-%d8%a7%d8%aa%d9%81%d8%a7%d9%82-%d8%a7%d9%84%d8%b5%d9%8a%d8%af-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af-%d8%a8%d9%8a%d9%86?traffic_source=rss",
+   "time": "2026-11-23T19:33:59+00:00"
   },
   {
-   "title": "من فوضى النهائي إلى محكمة كاس.. القصة الكاملة لأزمة المغرب والسنغال",
-   "link": "https://www.aljazeera.net/sport/2026/11/24/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d8%a7%d9%84%d8%b3%d9%86%d8%ba%d8%a7%d9%84-%d9%83%d8%a7%d8%b3-%d9%83%d8%a3%d8%b3-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-2025?traffic_source=rss",
-   "time": "2026-11-23T18:09:04+00:00"
+   "title": "بالفيديو.. سبيد يصدم بولت بسرعة خارقة في سباق الـ100 متر",
+   "link": "https://www.aljazeera.net/sport/2026/11/24/%d8%a8%d8%a7%d9%84%d9%81%d9%8a%d8%af%d9%8a%d9%88-%d8%b3%d8%a8%d9%8a%d8%af-%d9%8a%d8%b5%d8%af%d9%85-%d8%a8%d9%88%d9%84%d8%aa-%d8%a8%d8%b3%d8%b1%d8%b9%d8%a9-%d8%ae%d8%a7%d8%b1%d9%82%d8%a9-%d9%81%d9%8a?traffic_source=rss",
+   "time": "2026-11-23T19:00:00+00:00"
   }
  ],
  "team": {
@@ -46,7 +46,7 @@
    "time": "2026-11-22T17:00:00+00:00"
   },
   "table": {
-   "updated": "2026-11-23T16:21:03+00:00",
+   "updated": "2026-11-23T23:00:53+00:00",
    "league": "Italian Serie A",
    "season": "2026-2027",
    "size": 20,
@@ -221,6 +221,19 @@
      "rank": 13
     },
     {
+     "id": "134270",
+     "name": "Monza",
+     "played": 12,
+     "won": 3,
+     "drawn": 1,
+     "lost": 8,
+     "gf": 20,
+     "ga": 25,
+     "points": 10,
+     "gd": -5,
+     "rank": 14
+    },
+    {
      "id": "133678",
      "name": "Lecce",
      "played": 12,
@@ -231,20 +244,20 @@
      "ga": 25,
      "points": 10,
      "gd": -13,
-     "rank": 14
+     "rank": 15
     },
     {
      "id": "133674",
      "name": "Fiorentina",
-     "played": 11,
+     "played": 12,
      "won": 2,
      "drawn": 3,
-     "lost": 6,
+     "lost": 7,
      "gf": 17,
-     "ga": 25,
+     "ga": 28,
      "points": 9,
-     "gd": -8,
-     "rank": 15
+     "gd": -11,
+     "rank": 16
     },
     {
      "id": "135728",
@@ -257,7 +270,7 @@
      "ga": 22,
      "points": 8,
      "gd": -12,
-     "rank": 16
+     "rank": 17
     },
     {
      "id": "133701",
@@ -270,19 +283,6 @@
      "ga": 31,
      "points": 8,
      "gd": -15,
-     "rank": 17
-    },
-    {
-     "id": "134270",
-     "name": "Monza",
-     "played": 11,
-     "won": 2,
-     "drawn": 1,
-     "lost": 8,
-     "gf": 17,
-     "ga": 25,
-     "points": 7,
-     "gd": -8,
      "rank": 18
     },
     {
