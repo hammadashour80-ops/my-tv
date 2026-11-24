@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T18:00:02+00:00",
+ "updated": "2026-11-24T19:09:35+00:00",
  "config": {
   "city_ar": "الدوحة",
   "timezone": "Asia/Qatar",
@@ -8,14 +8,14 @@
  },
  "news": [
   {
-   "title": "من ميدان التحرير إلى السويس.. كيف صنع عام 1946 جيل الفدائيين المصريين؟",
-   "link": "https://www.aljazeera.net/politics/2026/11/24/%d9%85%d9%86-%d9%85%d9%8a%d8%af%d8%a7%d9%86-%d8%a7%d9%84%d8%aa%d8%ad%d8%b1%d9%8a%d8%b1-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%b3%d9%88%d9%8a%d8%b3-%d9%83%d9%8a%d9%81-%d8%b5%d9%86%d8%b9?traffic_source=rss",
-   "time": "2026-11-24T14:35:25+00:00"
+   "title": "باريس التي تخاصم موتاها.. رواية الغضب بين يمين فرنسا ويسارها",
+   "link": "https://www.aljazeera.net/politics/2026/11/24/%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3-%d8%a7%d9%84%d8%aa%d9%8a-%d8%aa%d8%ae%d8%a7%d8%b5%d9%85-%d9%85%d9%88%d8%aa%d8%a7%d9%87%d8%a7-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%ba%d8%b6%d8%a8?traffic_source=rss",
+   "time": "2026-11-24T15:42:18+00:00"
   },
   {
-   "title": "بالونات صينية تشبه الدبابات.. كيف تبني روسيا \"جيش أشباح\" لخداع الأوكرانيين؟",
-   "link": "https://www.aljazeera.net/tech/2026/11/24/%d8%a8%d8%a7%d9%84%d9%88%d9%86%d8%a7%d8%aa-%d8%b5%d9%8a%d9%86%d9%8a%d8%a9-%d8%aa%d8%b4%d8%a8%d9%87-%d8%a7%d9%84%d8%af%d8%a8%d8%a7%d8%a8%d8%a7%d8%aa-%d9%83%d9%8a%d9%81-%d8%aa%d8%a8%d9%86%d9%8a?traffic_source=rss",
-   "time": "2026-11-24T14:34:04+00:00"
+   "title": "إلى العمل بلا وقود.. لماذا يختار سكان في الخرطوم الدراجات؟",
+   "link": "https://www.aljazeera.net/lifestyle/2026/11/24/%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%b9%d9%85%d9%84-%d8%a8%d9%84%d8%a7-%d9%88%d9%82%d9%88%d8%af-%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d9%8a%d8%ae%d8%aa%d8%a7%d8%b1-%d8%b3%d9%83%d8%a7%d9%86-%d9%81%d9%8a?traffic_source=rss",
+   "time": "2026-11-24T15:41:04+00:00"
   }
  ],
  "team": {
@@ -46,7 +46,7 @@
    "time": "2026-11-22T17:00:00+00:00"
   },
   "table": {
-   "updated": "2026-11-24T12:06:45+00:00",
+   "updated": "2026-11-24T19:09:35+00:00",
    "league": "Italian Serie A",
    "season": "2026-2027",
    "size": 20,
