@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T19:09:31+00:00",
+ "updated": "2026-11-26T20:14:18+00:00",
  "config": {
   "city_ar": "الدوحة",
   "timezone": "Asia/Qatar",
@@ -8,30 +8,18 @@
  },
  "news": [
   {
-   "title": "الأهلي السعودي يكشف تفاصيل إصابة مدافعه أمام النصر",
-   "link": "https://www.aljazeera.net/sport/2026/11/26/%d8%a7%d8%b5%d8%a7%d8%a8%d8%a9-%d8%a7%d9%8a%d8%a8%d8%a7%d9%86%d9%8a%d8%b2-%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a-%d8%a7%d9%84%d9%86%d8%b5%d8%b1?traffic_source=rss",
-   "time": "2026-11-26T16:00:00+00:00"
+   "title": "عاجل | الجيش الإسرائيلي: نفذنا هجوما جويا في عين التينة بالبقاع في لبنان استهدف عشرات الصواريخ ومنصات إطلاق لحزب الله",
+   "link": "https://www.aljazeera.net/news/2026/11/26/%d8%b9%d8%a7%d8%ac%d9%84-%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d8%a7%d9%84%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84%d9%8a-%d9%86%d9%81%d8%b0%d9%86%d8%a7-%d9%87%d8%ac%d9%88%d9%85%d8%a7?traffic_source=rss",
+   "time": "2026-11-26T17:05:57+00:00"
   },
   {
-   "title": "بالفيديو.. المغرب يخسر أمام إسبانيا ويتأهل إلى دور الـ32 في مونديال الناشئين",
-   "link": "https://www.aljazeera.net/sport/2026/11/26/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d9%84%d9%84%d9%86%d8%a7%d8%b4%d8%a6%d9%8a%d9%86-2026?traffic_source=rss",
-   "time": "2026-11-26T15:58:32+00:00"
+   "title": "دول منطقة اليورو تختار الإسباني دي كوس لرئاسة البنك المركزي الأوروبي خلفا للاغارد",
+   "link": "https://www.aljazeera.net/ebusiness/2026/11/26/%d8%af%d9%88%d9%84-%d9%85%d9%86%d8%b7%d9%82%d8%a9-%d8%a7%d9%84%d9%8a%d9%88%d8%b1%d9%88-%d8%aa%d8%ae%d8%aa%d8%a7%d8%b1-%d8%a7%d9%84%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a-%d8%af%d9%8a-%d9%83%d9%88%d8%b3?traffic_source=rss",
+   "time": "2026-11-26T17:04:18+00:00"
   }
  ],
  "team": {
-  "next": {
-   "home_id": "133754",
-   "away_id": "133667",
-   "home": "Olympiacos",
-   "away": "AC Milan",
-   "home_badge": "https://r2.thesportsdb.com/images/media/team/badge/xckasq1721291508.png",
-   "away_badge": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
-   "home_score": "2",
-   "away_score": "2",
-   "league": "UEFA Europa League",
-   "venue": "Karaiskakis Stadium",
-   "time": "2026-11-26T17:45:00+00:00"
-  },
+  "next": null,
   "last": {
    "home_id": "133667",
    "away_id": "133818",
