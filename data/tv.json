@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T11:56:14+00:00",
+ "updated": "2026-11-28T13:09:43+00:00",
  "config": {
   "city_ar": "الدوحة",
   "timezone": "Asia/Qatar",
@@ -8,14 +8,14 @@
  },
  "news": [
   {
-   "title": "اتركوا الفرعونية ترتاح فقد حسم 30 شخصا هويتنا الإسلامية منذ قرن",
-   "link": "https://www.aljazeera.net/opinions/2026/11/28/%d9%84%d8%aa%d8%b1%d8%aa%d8%ad-%d8%a7%d9%84%d9%81%d8%b1%d8%b9%d9%88%d9%86%d9%8a%d8%a9-%d9%82%d9%84%d9%8a%d9%84%d8%a7-%d9%81%d9%82%d8%af-%d8%ad%d8%b3%d9%85-30-%d8%b1%d8%ac%d9%84%d8%a7?traffic_source=rss",
-   "time": "2026-11-28T08:29:02+00:00"
+   "title": "إيران تعلن جاهزية قواتها وتتوعد برد يتجاوز حدود المنطقة إذا تجدد الهجوم عليها",
+   "link": "https://www.aljazeera.net/news/2026/11/28/%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d8%aa%d8%b9%d9%84%d9%86-%d8%ac%d8%a7%d9%87%d8%b2%d9%8a%d8%a9-%d9%82%d9%88%d8%a7%d8%aa%d9%87%d8%a7-%d9%88%d8%aa%d8%aa%d9%88%d8%b9%d8%af-%d8%a8%d8%b1%d8%af?traffic_source=rss",
+   "time": "2026-11-28T09:42:37+00:00"
   },
   {
-   "title": "إمبراطور الأسرار.. إدغار هوفر الذي حكم أمريكا من خارج البيت الأبيض",
-   "link": "https://www.aljazeera.net/video/aldahih/2026/11/28/%d8%a5%d9%85%d8%a8%d8%b1%d8%a7%d8%b7%d9%88%d8%b1-%d8%a7%d9%84%d8%a3%d8%b3%d8%b1%d8%a7%d8%b1-%d8%a5%d8%af%d8%ba%d8%a7%d8%b1-%d9%87%d9%88%d9%81%d8%b1-%d8%a7%d9%84%d8%b0%d9%8a-%d8%ad%d9%83%d9%85?traffic_source=rss",
-   "time": "2026-11-28T08:28:03+00:00"
+   "title": "تياغو سيلفا يمدد عقده موسما إضافيا مع فلوميننسي عن عمر 42 عاما",
+   "link": "https://www.aljazeera.net/sport/2026/11/28/%d8%aa%d9%8a%d8%a7%d8%ba%d9%88-%d8%b3%d9%8a%d9%84%d9%81%d8%a7-%d9%8a%d9%85%d8%af%d8%af-%d8%b9%d9%82%d8%af%d9%87-%d8%b9%d8%a7%d9%85%d8%a7-%d8%a5%d8%b6%d8%a7%d9%81%d9%8a%d8%a7-%d9%85%d8%b9?traffic_source=rss",
+   "time": "2026-11-28T09:30:00+00:00"
   }
  ],
  "team": {
@@ -404,7 +404,7 @@
     "Fajr": "04:41",
     "Sunrise": "06:02",
     "Dhuhr": "11:23",
-    "Asr": "14:24",
+    "Asr": "14:23",
     "Maghrib": "16:43",
     "Isha": "18:13"
    },
