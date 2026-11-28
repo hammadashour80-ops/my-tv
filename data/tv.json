@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T20:00:07+00:00",
+ "updated": "2026-11-28T20:57:00+00:00",
  "config": {
   "city_ar": "الدوحة",
   "timezone": "Asia/Qatar",
@@ -8,14 +8,14 @@
  },
  "news": [
   {
-   "title": "8 دول غربية تدعو إلى انتخابات رئاسية وتشريعية فلسطينية مطلع 2027",
-   "link": "https://www.aljazeera.net/news/2026/11/28/8-%d8%af%d9%88%d9%84-%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d8%aa%d8%af%d8%b9%d9%88-%d8%a5%d9%84%d9%89-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d8%b1%d8%a6%d8%a7%d8%b3%d9%8a%d8%a9?traffic_source=rss",
-   "time": "2026-11-28T16:45:19+00:00"
+   "title": "\"مجلس السلام\" يوجه رسالة لنتنياهو ويلوّح بالتخلي عن مهمته في غزة",
+   "link": "https://www.aljazeera.net/politics/2026/11/28/%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85-%d9%8a%d9%84%d9%88%d8%ad-%d8%a8%d8%a7%d9%84%d8%aa%d8%ae%d9%84%d9%8a-%d8%b9%d9%86-%d9%85%d9%87%d9%85%d8%aa%d9%87-%d9%81%d9%8a?traffic_source=rss",
+   "time": "2026-11-28T17:34:46+00:00"
   },
   {
-   "title": "ذهب أفريقيا.. ثروة الفقراء جالبة الاستعمار ومشعلة الحروب",
-   "link": "https://www.aljazeera.net/ebusiness/2026/11/28/%d8%b0%d9%87%d8%a8-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-%d8%ab%d8%b1%d9%88%d8%a9-%d8%a7%d9%84%d9%81%d9%82%d8%b1%d8%a7%d8%a1-%d8%ac%d8%a7%d9%84%d8%a8%d8%a9?traffic_source=rss",
-   "time": "2026-11-28T16:43:32+00:00"
+   "title": "جدل واسع في تونس بعد زيارة حاخام مرتبط بالجيش الإسرائيلي",
+   "link": "https://www.aljazeera.net/news/2026/11/28/%d8%ac%d8%af%d9%84-%d9%88%d8%a7%d8%b3%d8%b9-%d9%81%d9%8a-%d8%aa%d9%88%d9%86%d8%b3-%d8%a8%d8%b9%d8%af-%d8%b2%d9%8a%d8%a7%d8%b1%d8%a9-%d8%ad%d8%a7%d8%ae%d8%a7%d9%85-%d9%85%d8%b1%d8%aa%d8%a8%d8%b7?traffic_source=rss",
+   "time": "2026-11-28T17:34:28+00:00"
   }
  ],
  "team": {
@@ -46,7 +46,7 @@
    "time": "2026-11-22T17:00:00+00:00"
   },
   "table": {
-   "updated": "2026-11-28T14:13:11+00:00",
+   "updated": "2026-11-28T20:57:00+00:00",
    "league": "Italian Serie A",
    "season": "2026-2027",
    "size": 20,
@@ -54,15 +54,28 @@
     {
      "id": "133668",
      "name": "Lazio",
-     "played": 12,
-     "won": 10,
+     "played": 13,
+     "won": 11,
      "drawn": 2,
      "lost": 0,
-     "gf": 28,
-     "ga": 9,
-     "points": 32,
-     "gd": 19,
+     "gf": 30,
+     "ga": 10,
+     "points": 35,
+     "gd": 20,
      "rank": 1
+    },
+    {
+     "id": "133681",
+     "name": "Inter Milan",
+     "played": 13,
+     "won": 10,
+     "drawn": 2,
+     "lost": 1,
+     "gf": 35,
+     "ga": 17,
+     "points": 32,
+     "gd": 18,
+     "rank": 2
     },
     {
      "id": "133682",
@@ -75,19 +88,6 @@
      "ga": 11,
      "points": 30,
      "gd": 25,
-     "rank": 2
-    },
-    {
-     "id": "133681",
-     "name": "Inter Milan",
-     "played": 12,
-     "won": 9,
-     "drawn": 2,
-     "lost": 1,
-     "gf": 32,
-     "ga": 17,
-     "points": 29,
-     "gd": 15,
      "rank": 3
     },
     {
@@ -117,6 +117,19 @@
      "rank": 5
     },
     {
+     "id": "133818",
+     "name": "Frosinone",
+     "played": 13,
+     "won": 7,
+     "drawn": 2,
+     "lost": 4,
+     "gf": 28,
+     "ga": 20,
+     "points": 23,
+     "gd": 8,
+     "rank": 6
+    },
+    {
      "id": "133676",
      "name": "Juventus",
      "played": 12,
@@ -127,19 +140,6 @@
      "ga": 12,
      "points": 21,
      "gd": 7,
-     "rank": 6
-    },
-    {
-     "id": "133818",
-     "name": "Frosinone",
-     "played": 13,
-     "won": 6,
-     "drawn": 3,
-     "lost": 4,
-     "gf": 25,
-     "ga": 20,
-     "points": 21,
-     "gd": 5,
      "rank": 7
     },
     {
@@ -171,14 +171,14 @@
     {
      "id": "133675",
      "name": "Genoa",
-     "played": 12,
+     "played": 13,
      "won": 5,
      "drawn": 1,
-     "lost": 6,
+     "lost": 7,
      "gf": 13,
-     "ga": 16,
+     "ga": 19,
      "points": 16,
-     "gd": -3,
+     "gd": -6,
      "rank": 10
     },
     {
@@ -210,14 +210,14 @@
     {
      "id": "133687",
      "name": "Torino",
-     "played": 12,
+     "played": 13,
      "won": 4,
      "drawn": 2,
-     "lost": 6,
-     "gf": 15,
-     "ga": 18,
+     "lost": 7,
+     "gf": 16,
+     "ga": 20,
      "points": 14,
-     "gd": -3,
+     "gd": -4,
      "rank": 13
     },
     {
@@ -260,19 +260,6 @@
      "rank": 16
     },
     {
-     "id": "135728",
-     "name": "Parma",
-     "played": 13,
-     "won": 2,
-     "drawn": 3,
-     "lost": 8,
-     "gf": 10,
-     "ga": 22,
-     "points": 9,
-     "gd": -12,
-     "rank": 17
-    },
-    {
      "id": "133701",
      "name": "Sassuolo",
      "played": 12,
@@ -281,6 +268,19 @@
      "lost": 8,
      "gf": 16,
      "ga": 31,
+     "points": 8,
+     "gd": -15,
+     "rank": 17
+    },
+    {
+     "id": "135728",
+     "name": "Parma",
+     "played": 13,
+     "won": 2,
+     "drawn": 2,
+     "lost": 9,
+     "gf": 10,
+     "ga": 25,
      "points": 8,
      "gd": -15,
      "rank": 18
@@ -389,7 +389,7 @@
     "Fajr": "04:41",
     "Sunrise": "06:02",
     "Dhuhr": "11:23",
-    "Asr": "14:23",
+    "Asr": "14:24",
     "Maghrib": "16:43",
     "Isha": "18:13"
    },
